@@ -1,0 +1,109 @@
+{
+    "success": {
+        "thinker" : {
+            "text_area": [
+                "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vestibulum leo ac eleifend auctor. Maecenas mi leo, facilisis et enim sit amet, rhoncus tempus purus. Nunc rutrum egestas lorem, fermentum euismod metus rhoncus non. Quisque et ligula eu arcu scelerisque sagittis. Duis magna leo, vehicula ac ultricies a, dictum eget nulla. Aenean sodales vestibulum interdum. Praesent molestie id lorem vitae vulputate. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vestibulum leo ac eleifend auctor.</p>",
+                "<p>Maecenas mi leo, facilisis et enim sit amet, rhoncus tempus purus. Nunc rutrum egestas lorem, fermentum euismod metus rhoncus non. Quisque et ligula eu arcu scelerisque sagittis. Duis magna leo, vehicula ac ultricies a, dictum eget nulla. Aenean sodales vestibulum interdum. Praesent molestie id lorem vitae vulputate.</p>",
+                "<p>Suspendisse id est vel sem bibendum sollicitudin posuere vitae justo. Curabitur id libero at eros congue gravida. Vivamus consectetur massa a cursus pretium. Fusce libero lacus, pretium vitae risus quis, condimentum laoreet neque. Vivamus ornare tempus orci malesuada eleifend. Donec volutpat quis felis eu consequat. Sed venenatis quam eu orci fringilla condimentum.</p>"
+            ],
+            "talks_video": {
+                "title":"Talks",
+                "link_desc":"more on youtube",
+                "more_on_link":"https://www.youtube.com/channel/UCTQDo94Q9_4Om6ahFRv6KpQ",
+                "video_card": [
+                    {
+                        "id":"1",
+                        "img":"/img/talks-img1.jpg",
+                        "img_mobile":"/img/talks-mobile-img1.jpg",
+                        "alt":"talks-img",
+                        "desc":"Vivamus nec tristique dui. Integer in scelerisque justo.",
+                        "link":"https://www.youtube.com/embed/ZIwvmQolDXs?autoplay=1"
+                    },
+                    {
+                        "id":"2",
+                        "img":"/img/talks-img3.jpg",
+                        "img_mobile":"/img/talks-mobile-img3.jpg",
+                        "alt":"talks-img",
+                        "desc":"Maecenas mi leo, facilisis et enim sit amet",
+                        "link":"https://www.youtube.com/embed/ZIwvmQolDXs?autoplay=1"
+                    },
+                    {
+                        "id":"3",
+                        "img":"/img/talks-img2.jpg",
+                        "img_mobile":"/img/talks-mobile-img2.jpg",
+                        "alt":"talks-img",
+                        "desc":"Roncus tempus purus.",
+                        "link":"https://www.youtube.com/embed/_HUu6Pya-UE?autoplay=1"
+                    }
+                ]
+    
+            },
+            "content": [
+                {
+                    "id":"1",
+                    "title":"Articles",
+                    "link_desc":"more on medium.com",
+                    "more_on_link":"https://medium.com/",
+                    "video_card": [
+                        {
+                            "id":"1",
+                            "img":"/img/articles-img1.jpg",
+                            "img_mobile":"/img/articles-mobile-img1.jpg",
+                            "alt":"articles-img",
+                            "desc":"Vivamus nec tristique dui. Integer in scelerisque justo.",
+                            "link":"https://medium.com/"
+                        },
+                        {
+                            "id":"2",
+                            "img":"/img/articles-img2.jpg",
+                            "img_mobile":"/img/articles-mobile-img2.jpg",
+                            "alt":"articles-img",
+                            "desc":"Maecenas mi leo, facilisis et enim sit amet",
+                            "link":"https://medium.com/"
+                        },
+                        {
+                            "id":"3",
+                            "img":"/img/articles-img3.jpg",
+                            "img_mobile":"/img/articles-mobile-img3.jpg",
+                            "alt":"articles-img",
+                            "desc":"Roncus tempus purus.",
+                            "link":"https://medium.com/"
+                        }
+                    ]
+                },
+                {
+                    "id":"2",
+                    "title":"Boards",
+                    "link_desc":"more on pinterest",
+                    "more_on_link":"https://pin.it/2N87oXk",
+                    "video_card": [
+                        {
+                            "id":"1",
+                            "img":"/img/boards-img1.jpg",
+                            "img_mobile":"/img/boards-mobile-img1.jpg",
+                            "alt":"boards-img",
+                            "desc":"Vivamus nec tristique dui. Integer in scelerisque justo.",
+                            "link":"https://pin.it/2N87oXk"
+                        },
+                        {
+                            "id":"2",
+                            "img":"/img/boards-img2.jpg",
+                            "img_mobile":"/img/boards-mobile-img2.jpg",
+                            "alt":"boards-img",
+                            "desc":"Maecenas mi leo, facilisis et enim sit amet",
+                            "link":"https://pin.it/2N87oXk"
+                        },
+                        {
+                            "id":"3",
+                            "img":"/img/boards-img3.jpg",
+                            "img_mobile":"/img/boards-mobile-img3.jpg",
+                            "alt":"boards-img",
+                            "desc":"Roncus tempus purus.",
+                            "link":"https://pin.it/2N87oXk"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

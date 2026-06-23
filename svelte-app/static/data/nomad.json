@@ -1,0 +1,196 @@
+{
+    "success":{
+        "mileStonesData":[
+            {
+                
+                "monthText":"March",
+                "yearText":"2004",
+                "topDesc": [
+                    "<p>Vivamus nec tristique dui. Integer in scelerisque justo. Sed ac lorem vitae dui condimentum sollicitudin et et ipsum. Nunc in risus non lacus rutrum egestas vitae et nulla. Morbi eget nisi ac risus maximus euismod non sit amet ipsum. Fusce sed condimentum purus, vitae lacinia nibh. Donec dignissim urna imperdiet, condimentum felis vel, feugiat odio.</p>",
+                    "<p>Mauris fermentum at arcu in consequat. Pellentesque egestas lectus at luctus posuere. Suspendisse quis erat quam. Morbi placerat turpis at neque aliquet, nec iaculis urna porttitor. In vel ligula risus.</p>"
+                ]
+            },
+            {
+               
+                "yearText":"2004",
+                "yearDesc": "Donec iaculis, justo euismod fringilla aliquam, metus ante gravida leo,",
+                "topDesc": [
+                    "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vestibulum leo ac eleifend auctor. Maecenas mi leo, facilisis et enim sit amet, rhoncus tempus purus. Nunc rutrum egestas lorem, fermentum euismod metus rhoncus non. Quisque et ligula eu arcu scelerisque sagittis. Duis magna leo, vehicula ac ultricies a, dictum eget nulla. Aenean sodales vestibulum interdum. Praesent molestie id lorem vitae vulputate.</p>"
+                ],
+                "imgList": [
+                    {
+                        "id": 1,
+                        "img":"/img/nomad/interior-img.jpg",
+                        "img_mobile":"/img/nomad/interior-mobile-img.jpg",
+                        "alt":"interior-img"
+                    },
+                    {
+                        "id": 2,
+                        "img":"/img/nomad/chocolate-img.jpg",
+                        "img_mobile":"/img/nomad/chocolate-mobile-img.jpg",
+                        "alt":"chocolate-img"
+                    },
+                    {
+                        "id": 3,
+                        "img":"/img/nomad/outdoor-img.jpg",
+                        "img_mobile":"/img/nomad/outdoor-mobile-img.jpg",
+                        "alt":"outdoor-img"
+                    }
+                ],
+                "bottomDesc": [
+                    "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vestibulum leo ac eleifend auctor. Maecenas mi leo, facilisis et enim sit amet, rhoncus tempus purus. Nunc rutrum egestas lorem, fermentum euismod metus rhoncus non. Quisque et ligula eu arcu scelerisque sagittis. Duis magna leo, vehicula ac ultricies a, dictum eget nulla. Aenean sodales vestibulum interdum. Praesent molestie id lorem vitae vulputate. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vestibulum leo ac eleifend auctor.</p>",
+                    "<p>Maecenas mi leo, facilisis et enim sit amet, rhoncus tempus purus. Nunc rutrum egestas lorem, fermentum euismod metus rhoncus non. Quisque et ligula eu arcu scelerisque sagittis. Duis magna leo, vehicula ac ultricies a, dictum eget nulla. Aenean sodales vestibulum interdum. Praesent molestie id lorem vitae vulputate.</p>"
+                ]
+            },
+            {
+                
+                "monthText":"March",
+                "yearText":"2004",
+                "topDesc": [
+                    "<p>Vivamus nec tristique dui. Integer in scelerisque justo. Sed ac lorem vitae dui condimentum sollicitudin et et ipsum. Nunc in risus non lacus rutrum egestas vitae et nulla. Morbi eget nisi ac risus maximus euismod non sit amet ipsum. Fusce sed condimentum purus, vitae lacinia nibh. Donec dignissim urna imperdiet, condimentum felis vel, feugiat odio.</p>",
+                    "<p>Mauris fermentum at arcu in consequat. Pellentesque egestas lectus at luctus posuere. Suspendisse quis erat quam. Morbi placerat turpis at neque aliquet, nec iaculis urna porttitor. In vel ligula risus.</p>"
+                ]
+            },
+            {
+               
+                "monthText":"March",
+                "yearText":"2004",
+                "topDesc": [
+                    "<p>Vivamus nec tristique dui. Integer in scelerisque justo. Sed ac lorem vitae dui condimentum sollicitudin et et ipsum. Nunc in risus non lacus rutrum egestas vitae et nulla. Morbi eget nisi ac risus maximus euismod non sit amet ipsum. Fusce sed condimentum purus, vitae lacinia nibh. Donec dignissim urna imperdiet, condimentum felis vel, feugiat odio.</p>",
+                    "<p>Mauris fermentum at arcu in consequat. Pellentesque egestas lectus at luctus posuere. Suspendisse quis erat quam. Morbi placerat turpis at neque aliquet, nec iaculis urna porttitor. In vel ligula risus.</p>"
+                ]
+            }
+        ],
+        "exhibitionsData":[
+            {
+                
+                "monthText":"March",
+                "yearText":"2004",
+                "topDesc": [
+                    "<p>Vivamus nec tristique dui. Integer in scelerisque justo. Sed ac lorem vitae dui condimentum sollicitudin et et ipsum. Nunc in risus non lacus rutrum egestas vitae et nulla. Morbi eget nisi ac risus maximus euismod non sit amet ipsum. Fusce sed condimentum purus, vitae lacinia nibh. Donec dignissim urna imperdiet, condimentum felis vel, feugiat odio.</p>",
+                    "<p>Mauris fermentum at arcu in consequat. Pellentesque egestas lectus at luctus posuere. Suspendisse quis erat quam. Morbi placerat turpis at neque aliquet, nec iaculis urna porttitor. In vel ligula risus.</p>"
+                ]
+            },
+            {
+                
+                "yearText":"2006",
+                "yearDesc": "Donec iaculis, justo euismod fringilla aliquam, metus ante gravida leo,",
+                "topDesc": [
+                    "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vestibulum leo ac eleifend auctor. Maecenas mi leo, facilisis et enim sit amet, rhoncus tempus purus. Nunc rutrum egestas lorem, fermentum euismod metus rhoncus non. Quisque et ligula eu arcu scelerisque sagittis. Duis magna leo, vehicula ac ultricies a, dictum eget nulla. Aenean sodales vestibulum interdum. Praesent molestie id lorem vitae vulputate.</p>"
+                ],
+                "imgList": [
+                    {
+                        "id": 1,
+                        "img":"/img/nomad/store-img.jpg",
+                        "img_mobile":"/img/nomad/store-mobile-img.jpg",
+                        "alt":"store-img"
+                    },
+                    {
+                        "id": 2,
+                        "img":"/img/nomad/blossom-img.jpg",
+                        "img_mobile":"/img/nomad/blossom-mobile-img.jpg",
+                        "alt":"blossom-img"
+                    }
+                ]
+            },
+            {
+                
+                "monthText":"March",
+                "yearText":"2004",
+                "topDesc": [
+                    "<p>Vivamus nec tristique dui. Integer in scelerisque justo. Sed ac lorem vitae dui condimentum sollicitudin et et ipsum. Nunc in risus non lacus rutrum egestas vitae et nulla. Morbi eget nisi ac risus maximus euismod non sit amet ipsum. Fusce sed condimentum purus, vitae lacinia nibh. Donec dignissim urna imperdiet, condimentum felis vel, feugiat odio.</p>",
+                    "<p>Mauris fermentum at arcu in consequat. Pellentesque egestas lectus at luctus posuere. Suspendisse quis erat quam. Morbi placerat turpis at neque aliquet, nec iaculis urna porttitor. In vel ligula risus.</p>"
+                ]
+            },
+            {
+                
+                "yearText":"2006",
+                "yearDesc": "Donec iaculis, justo euismod fringilla aliquam, metus ante gravida leo,",
+                "topDesc": [
+                    "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vestibulum leo ac eleifend auctor. Maecenas mi leo, facilisis et enim sit amet, rhoncus tempus purus. Nunc rutrum egestas lorem, fermentum euismod metus rhoncus non. Quisque et ligula eu arcu scelerisque sagittis. Duis magna leo, vehicula ac ultricies a, dictum eget nulla. Aenean sodales vestibulum interdum. Praesent molestie id lorem vitae vulputate.</p>"
+                ],
+                "imgList": [
+                    {
+                        "id": 1,
+                        "img":"/img/nomad/divan-img.jpg",
+                        "img_mobile":"/img/nomad/divan-mobile-img.jpg",
+                        "alt":"divan-img" 
+                    }
+                ]
+            }
+        ],  
+        "lectureData":[
+            {
+               
+                "monthText":"March",
+                "yearText":"2004",
+                "topDesc": [
+                    "<p>Vivamus nec tristique dui. Integer in scelerisque justo. Sed ac lorem vitae dui condimentum sollicitudin et et ipsum. Nunc in risus non lacus rutrum egestas vitae et nulla. Morbi eget nisi ac risus maximus euismod non sit amet ipsum. Fusce sed condimentum purus, vitae lacinia nibh. Donec dignissim urna imperdiet, condimentum felis vel, feugiat odio.</p>",
+                    "<p>Mauris fermentum at arcu in consequat. Pellentesque egestas lectus at luctus posuere. Suspendisse quis erat quam. Morbi placerat turpis at neque aliquet, nec iaculis urna porttitor. In vel ligula risus.</p>"
+                ]
+            },
+            {
+                
+                "monthText":"March",
+                "yearText":"2004",
+                "topDesc": [
+                    "<p>Vivamus nec tristique dui. Integer in scelerisque justo. Sed ac lorem vitae dui condimentum sollicitudin et et ipsum. Nunc in risus non lacus rutrum egestas vitae et nulla. Morbi eget nisi ac risus maximus euismod non sit amet ipsum. Fusce sed condimentum purus, vitae lacinia nibh. Donec dignissim urna imperdiet, condimentum felis vel, feugiat odio.</p>",
+                    "<p>Mauris fermentum at arcu in consequat. Pellentesque egestas lectus at luctus posuere. Suspendisse quis erat quam. Morbi placerat turpis at neque aliquet, nec iaculis urna porttitor. In vel ligula risus.</p>"
+                ]
+            },
+            {
+               
+                "yearText":"2006",
+                "yearDesc": "Donec iaculis, justo euismod fringilla aliquam, metus ante gravida leo,",
+                "topDesc": [
+                    "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vestibulum leo ac eleifend auctor. Maecenas mi leo, facilisis et enim sit amet, rhoncus tempus purus. Nunc rutrum egestas lorem, fermentum euismod metus rhoncus non. Quisque et ligula eu arcu scelerisque sagittis. Duis magna leo, vehicula ac ultricies a, dictum eget nulla. Aenean sodales vestibulum interdum. Praesent molestie id lorem vitae vulputate.</p>"
+                ]
+            },
+            {
+               
+                "yearText":"2006",
+                "yearDesc": "Donec iaculis, justo euismod fringilla aliquam, metus ante gravida leo,",
+                "topDesc": [
+                    "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vestibulum leo ac eleifend auctor. Maecenas mi leo, facilisis et enim sit amet, rhoncus tempus purus. Nunc rutrum egestas lorem, fermentum euismod metus rhoncus non. Quisque et ligula eu arcu scelerisque sagittis. Duis magna leo, vehicula ac ultricies a, dictum eget nulla. Aenean sodales vestibulum interdum. Praesent molestie id lorem vitae vulputate.</p>"
+                ],
+                "imgList": [
+                    {
+                        "id": 1,
+                        "img":"/img/nomad/red-chair.jpg",
+                        "img_mobile":"/img/nomad/red-chair-mobile.jpg",
+                        "alt":"red-chair-img"
+                    },
+                    {
+                        "id": 2,
+                        "img":"/img/nomad/two-chair-img.jpg",
+                        "img_mobile":"/img/nomad/two-chair-mobile-img.jpg",
+                        "alt":"two-chair-img"
+                    },
+                    {
+                        "id": 3,
+                        "img":"/img/nomad/suitcase-img.jpg",
+                        "img_mobile":"/img/nomad/suitcase-mobile-img.jpg",
+                        "alt":"suitcase-img"
+                    }
+                ]
+            },
+            {
+                
+                "monthText":"March",
+                "yearText":"2004",
+                "topDesc": [
+                    "<p>Vivamus nec tristique dui. Integer in scelerisque justo. Sed ac lorem vitae dui condimentum sollicitudin et et ipsum. Nunc in risus non lacus rutrum egestas vitae et nulla. Morbi eget nisi ac risus maximus euismod non sit amet ipsum. Fusce sed condimentum purus, vitae lacinia nibh. Donec dignissim urna imperdiet, condimentum felis vel, feugiat odio.</p>",
+                    "<p>Mauris fermentum at arcu in consequat. Pellentesque egestas lectus at luctus posuere. Suspendisse quis erat quam. Morbi placerat turpis at neque aliquet, nec iaculis urna porttitor. In vel ligula risus.</p>"
+                ]
+            },
+            {
+                
+                "yearText":"2006",
+                "yearDesc": "Donec iaculis, justo euismod fringilla aliquam, metus ante gravida leo,",
+                "topDesc": [
+                    "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vestibulum leo ac eleifend auctor. Maecenas mi leo, facilisis et enim sit amet, rhoncus tempus purus. Nunc rutrum egestas lorem, fermentum euismod metus rhoncus non. Quisque et ligula eu arcu scelerisque sagittis. Duis magna leo, vehicula ac ultricies a, dictum eget nulla. Aenean sodales vestibulum interdum. Praesent molestie id lorem vitae vulputate.</p>"
+                ]
+            }
+        ]
+    }
+}

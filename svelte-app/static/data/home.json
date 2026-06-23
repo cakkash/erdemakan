@@ -1,0 +1,254 @@
+{
+    "success":{
+        "banner":[
+            {
+                "id": 1,
+                "img": "/img/banner-img1.jpg",
+                "mobile_img": "/img/banner-img1-mobile.jpg",
+                "alt": "banner-img",
+                "title_date": "Work - 2009",
+                "title": ["<p>Grandbazaar Sofa<br/>Turkish Reforms Collection, 2006<p/>"],
+                "link":"/designer/works",
+                "linkBtn": "view works"
+              },
+              {
+                "id": 2,
+                "img": "/img/banner-img2.jpg",
+                "mobile_img": "/img/banner-img2-mobile.jpg",
+                "alt": "banner-img",
+                "title_date": "Case study - 2009",
+                "title": ["<p>Heritage<br/>Ceramic Collection for Gorbon, 2021<p/>"],
+                "link":"/case-studies/armaggan-centerpieces",
+                "linkBtn": "view case"
+              },
+              {
+                "id": 3,
+                "img": "/img/banner-img3.jpg",
+                "mobile_img": "/img/banner-img3-mobile.jpg",
+                "alt": "banner-img",
+                "title_date": "Case study - 2009",
+                "title": ["<p>Bath Time Good Time<br/>Milan Design Week Exhibition for VitrA, 2016<p/>"],
+                "link":"/case-studies/armaggan-centerpieces",
+                "linkBtn": "view case"
+              },
+              {
+                "id": 4,
+                "img": "/img/banner-img4.jpg",
+                "mobile_img": "/img/banner-img4-mobile.jpg",
+                "alt": "banner-img",
+                "title_date": "Work - 2009",
+                "title": ["<p>Into The Woods<br/>Jewellery Collection for Runda, 2022<p/>"],
+                "link":"/designer/works",
+                "linkBtn": "view works"
+              },
+              {
+                "id": 5,
+                "img": "/img/banner-img5.jpg",
+                "mobile_img": "/img/banner-img5-mobile.jpg",
+                "alt": "banner-img",
+                "title_date": "Work - 2009",
+                "title": ["<p>Sitbag<br/>Reincarnation Project, 2009<p/>"] ,
+                "link":"/designer/works",
+                "linkBtn": "view works"
+              },
+              {
+                "id": 6,
+                "img": "/img/banner-img6.jpg",
+                "mobile_img": "/img/banner-img6-mobile.jpg",
+                "alt": "banner-img",
+                "title_date": "Work - 2009",
+                "title": ["<p>Centerpieces<br/>Armaggan, 2009<p/>"],
+                "link":"/designer/works",
+                "linkBtn": "view works"
+              },
+              {
+                "id": 7,
+                "img": "/img/banner-img7.jpg",
+                "mobile_img": "/img/banner-img7-mobile.jpg",
+                "alt": "banner-img",
+                "title_date": "Work - 2009",
+                "title": ["<p>NExT<br/>Exhibition Space for VitrA, 2021<p/>"],
+                "link":"/designer/works",
+                "linkBtn": "view works"
+              }
+        ],
+        "case_data":[
+            {
+                "id": 1,
+                "img": "/img/case-img2.jpg",
+                "mobile_img":"/img/case-img2-mobile.jpg",
+                "alt": "case-img",
+                "designer_type":"Case study",
+                "year":"2022",
+                "title": ["<p>Studio<br/>Furniture Collection<br/>Duduu, 2022<p/>"],
+                "linkDesc":"view works",
+                "link":"/designer/works"
+              },
+              {
+                "id": 2,
+                "img": "/img/case-img3.jpg",
+                "mobile_img":"/img/case-img3-mobile.jpg",
+                "alt": "case-img",
+                "designer_type":"Case study",
+                "year":"2023",
+                "title": ["<p>Soundgarden Cover Design<br/>Global Collection<br/>Bang&Olufsen, 2023<p/>"],
+                "linkDesc":"view case",
+                "link":"/case-studies/armaggan-centerpieces"
+              },
+              {
+                "id": 3,
+                "img": "/img/case-img4.jpg",
+                "mobile_img":"/img/case-img4-mobile.jpg",
+                "alt": "case-img",
+                "designer_type":"Case study",
+                "year":"2003",
+                "title": ["<p>Depozit Tumbler<br/>Reincarnation Collection<br/>maybedesign, 2003<p/>"],
+                "linkDesc":"view works",
+                "link":"/designer/works"
+              },
+              {
+                "id": 4,
+                "img": "/img/case-img5.jpg",
+                "mobile_img":"/img/case-img5-mobile.jpg",
+                "alt": "case-img",
+                "designer_type":"Case study",
+                "year":"2009",
+                "title": ["<p>Cliche<br/>Jewellery Collection<br/>erdemakan, 2009<p/>"],
+                "linkDesc":"view works",
+                "link":"/designer/works"
+              },
+              {
+                "id": 5,
+                "img": "/img/case-img6.jpg",
+                "mobile_img":"/img/case-img6-mobile.jpg",
+                "alt": "case-img",
+                "designer_type":"Case study",
+                "year":"2003",
+                "title": ["<p>Istanbul Alphabet Decorative Objects<br/>Turkish Reforms Collection<br/>maybedesign, 2003<p/>"],
+                "linkDesc":"view case",
+                "link":"/case-studies/armaggan-centerpieces"
+              },
+              {
+                "id": 6,
+                "img": "/img/case-img7.jpg",
+                "mobile_img":"/img/case-img7-mobile.jpg",
+                "alt": "case-img",
+                "designer_type":"Case study",
+                "year":"2006",
+                "title": ["<p>Villa Moda<br/>Multibrand Retail Shop Design<br/>Kuwait old souk, 2006<p/>"],
+                "linkDesc":"view works",
+                "link":"/designer/works"
+              },
+              {
+                "id": 7,
+                "img": "/img/case-img8.jpg",
+                "mobile_img":"/img/case-img8-mobile.jpg",
+                "alt": "case-img",
+                "designer_type":"Case study",
+                "year":"2009",
+                "title": ["<p>Walking Vase<br/>Centerpieces Collection<br/>Armaggan, 2009<p/>"],
+                "linkDesc":"view works",
+                "link":"/designer/works"
+              },
+              {
+                "id": 8,
+                "img": "/img/case-img9.jpg",
+                "mobile_img":"/img/case-img9-mobile.jpg",
+                "alt": "case-img",
+                "designer_type":"Case study",
+                "year":"2000-2015",
+                "title": ["<p>Cocktail Sculpture for Mey<br/>Commissioned Design Works for brands, 2000-2015<p/>"],
+                "linkDesc":"view works",
+                "link":"/designer/works"
+              },
+              {
+                "id": 9,
+                "img": "/img/case-img10.jpg",
+                "mobile_img":"/img/case-img10-mobile.jpg",
+                "alt": "case-img",
+                "designer_type":"Case study",
+                "year":"2018",
+                "title": ["<p>Underconstruction Conceptual Furnitures<br/>Identity exhibition<br/>Barbar, 2018<p/>"],
+                "linkDesc":"view works",
+                "link":"/designer/works"
+              },
+              {
+                "id": 10,
+                "img": "/img/case-img11.jpg",
+                "mobile_img":"/img/case-img11-mobile.jpg",
+                "alt": "case-img",
+                "designer_type":"Case study",
+                "year":"2015",
+                "title": ["<p>O salad bowls<br/>HIP collection<br/>Bora Plastic, 2015<p/>"],
+                "linkDesc":"view works",
+                "link":"/designer/works"
+              },
+              {
+                "id": 11,
+                "img": "/img/case-img12.jpg",
+                "mobile_img":"/img/case-img12-mobile.jpg",
+                "alt": "case-img",
+                "designer_type":"Case study",
+                "year":"2005-2015",
+                "title": ["<p>Mr&Ms night set<br/>Glass Collection<br/>Nude, 2005-2015<p/>"],
+                "linkDesc":"view case",
+                "link":"/case-studies/armaggan-centerpieces"
+              },
+              {
+                "id": 12,
+                "img": "/img/case-img13.jpg",
+                "mobile_img":"/img/case-img13-mobile.jpg",
+                "alt": "case-img",
+                "designer_type":"Case study",
+                "year":"2010",
+                "title": ["<p>Morphing Beads<br/>Turkish Reforms Collection<br/>Maybedesign, 2010<p/>"],
+                "linkDesc":"view case",
+                "link":"/case-studies/armaggan-centerpieces"
+              },
+              {
+                "id": 13,
+                "img": "/img/case-img14.jpg",
+                "mobile_img":"/img/case-img14-mobile.jpg",
+                "alt": "case-img",
+                "designer_type":"Case study",
+                "year":"2013",
+                "title": ["<p>Corner side table<br/>Greenline Collection<br/>ERSA, 2013<p/>"],
+                "linkDesc":"view case",
+                "link":"/case-studies/armaggan-centerpieces"
+              },
+              {
+                "id": 14,
+                "img": "/img/case-img15.jpg",
+                "mobile_img":"/img/case-img15-mobile.jpg",
+                "alt": "case-img",
+                "designer_type":"Case study",
+                "year":"2004",
+                "title": ["<p>Somata Sala Dining Concept<br/>Sufi Kitchen Culture<br/>Arçelik, 2004<p/>"],
+                "linkDesc":"view case",
+                "link":"/case-studies/armaggan-centerpieces"
+              },
+              {
+                "id": 15,
+                "img": "/img/case-img16.jpg",
+                "mobile_img":"/img/case-img16-mobile.jpg",
+                "alt": "case-img",
+                "designer_type":"Case study",
+                "year":"2007",
+                "title": ["<p>Perfecet Stiletto<br/>Sex&Design Exhibition, 2007<p/>"],
+                "linkDesc":"view case",
+                "link":"/case-studies/armaggan-centerpieces"
+              },
+              {
+                "id": 16,
+                "img": "/img/case-img1.jpg",
+                "mobile_img":"/img/case-img1-mobile.jpg",
+                "alt": "case-img",
+                "designer_type":"Case study",
+                "year":"2003",
+                "title": ["<p>Eastmeetswest Tea Glass<br/>Turkish Reforms Collection<br/>maybedesign, 2003<p/>"],
+                "linkDesc":"view works",
+                "link":"/designer/works"
+              }
+        ]
+    }
+}

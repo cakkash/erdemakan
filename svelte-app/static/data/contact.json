@@ -1,0 +1,40 @@
+{
+    "success":{
+        "contact":{
+            "mail": "talk@erdemakan.com",
+            "scm_links":[
+                {
+                   
+                   "link":"https://www.instagram.com/erdemakan/",
+                   "name":"Instagram",
+                   "title":"Instagram"
+                },
+                {
+                    "link":"https://twitter.com/erdem_akan",
+                    "name":"Twitter",
+                    "title":"Twitter" 
+                },
+                {
+                    "link":"#",
+                    "name":"Medium",
+                    "title":"Medium"
+                },
+                {
+                    "link":"#",
+                    "name":"Youtube",
+                    "title":"Youtube" 
+                },
+                {  
+                    "link":"https://tr.pinterest.com/erdemakan/",
+                    "name":"Pinterest",
+                    "title":"Pinterest"
+                }
+                
+                
+            ],
+            "img":"/img/contact-img.jpg",
+            "mobile_img":"/img/contact-mobile-img.jpg",
+            "alt": "contact-img"
+        }
+    }
+}

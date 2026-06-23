@@ -1,0 +1,172 @@
+.header-root {
+    width: 100%;
+    background-color: transparent;
+    padding: 28px 0;
+    background-color: #FFFFFF;
+    border-bottom: 1px solid #DDD;
+    position: relative;
+    z-index: 1;
+    &.homepage{
+        background: none;
+        border-bottom: none;
+        .header-container{
+           .right-block{
+                ul{
+                    li{
+                        a{
+                        color: #FFFFFF;
+                            &:hover{
+                               color: #AAA;     
+                            }
+                        }
+                    }
+                }
+           }
+        }
+        .mobile-menu-block {
+            .menu-buton {
+                &.active {
+                    span {
+                        background-color: #FFFFFF;
+                    }
+                    &:before {
+                      background-color: #FFFFFF;
+                    }
+                    &:after {
+                        background-color: #FFFFFF;
+                    }
+                }
+                
+            }
+        }
+    }
+   
+    .header-container {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        max-width: 1568px;
+        padding: 0 64px;
+        .left-block {
+            
+            a {
+                color: #FFFFFF;
+                font-size: 16px;
+                line-height: normal;
+               
+                
+            }
+        }
+        .menu-btn-item{
+            display: none;
+        }
+        
+        .right-block {
+            display: flex;
+            .open-link-menu-block{
+                display: none;
+             }
+            ul {
+                display: flex;
+                align-items: center;
+                justify-content: space-between;
+                li {
+                    margin: 0 0 0 86px;
+                    a {                      
+                        font-size: 16px;
+                        line-height: normal;
+                        color: #AAAAAA;
+                        &.active {
+                            color: #000000;
+                            
+                        }
+                        &:hover{
+                            color: #000000;
+                        }
+                        svg {
+                            display: none;
+                            
+                        }
+                    }
+                    &:first-child {
+                        margin: 0
+                    }               
+                }
+            }
+            .mobile-menu-social-block {
+                display: none;
+                text-align: center;
+                padding: 24px 0 108px;
+                .social-icon-block {
+                    margin: 24px 0 0;
+                    display: flex;
+                    justify-content: center;
+
+                    a {
+                        margin: 0 0 0 12px;
+                        &:first-child {
+                            margin: 0;
+                        }
+                    }
+                }
+            }
+        }
+    }
+
+    .mobile-menu-block {
+        height: 18px;
+        position: relative;
+        display: none;
+        .menu-buton {
+            width: 28px;
+            height: 16px;
+            cursor: pointer;
+            span {
+                position: absolute;
+                top: 0;
+                right: 0;
+                height: 1px;
+                width: 28px;
+                background-color: #000000;
+                transition: all 0.2s ease-in-out;
+            }
+            &:before {
+                position: absolute;
+                content: "";
+                height: 1px;
+                width: 28px;
+                background-color: #000000;
+                top: 8px;
+                right: 0;
+                transition: all 0.2s ease-in-out;
+            }
+            &:after {
+                position: absolute;
+                content: "";
+                height: 1px;
+                width: 28px;
+                background-color: #000000;
+                bottom: 0px;
+                right: 0;
+                transition: all 0.2s ease-in-out;
+            }
+            &.active {
+                span {
+                    transform: rotate(45deg);
+                    width: 28px;
+                    top: 12px;
+                }
+                &:before {
+                    display: none;
+                }
+                &:after {
+                    transform: rotate(135deg);
+                    width: 28px;
+                    bottom: 5px;
+                }
+            }
+        }
+    }
+}
+
+

@@ -1,0 +1,27 @@
+.not-found-root{
+    .not-found-wrapper{
+        height: 100vh;
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+        justify-content: center;
+        padding: 0;
+    }
+    .text-block{
+        margin: 0 0 32px;
+        max-width: 264px;
+        width: 100%;
+        h1,p{
+            font-size: 14px;
+            line-height: 18px;
+        }
+        p{
+            font-family: "helveticaNeue-Light", sans-serif;
+            font-style: italic;
+            margin: 8px 0 0;
+        }
+        span{
+            display: block;
+        }
+    }
+}

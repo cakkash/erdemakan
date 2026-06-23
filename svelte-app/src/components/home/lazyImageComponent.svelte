@@ -1,0 +1,7 @@
+<div class="placeholder-content">
+    <div class="placeholder-content_item"></div>
+    <div class="placeholder-content_item"></div>
+    <div class="placeholder-content_item"></div>
+    <div class="placeholder-content_item"></div>
+    <div class="placeholder-content_item"></div>
+</div>

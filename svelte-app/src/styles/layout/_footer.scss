@@ -1,0 +1,31 @@
+.footer-root{
+    border-top: 1px solid #DDDDDD;
+    padding: 40px 64px 64px 64px;
+    .footer-container{
+        display: flex;
+        align-items: flex-start;
+        justify-content: space-between;
+    }
+    .footer-link-block{
+        display: flex;
+        flex-direction: column;
+        &.last{
+            margin: 43px 0 0;
+        }
+        .link-head-item{
+            font-weight: 700;
+        }
+        a{
+            margin: 24px 0 0;
+            color: black;
+            font-size: 16px;
+            &:hover{
+                color: #AAAAAA;
+            }
+            img {
+                width: 100px;
+                height: 19px;
+            }
+        }
+    }
+}

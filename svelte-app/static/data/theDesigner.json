@@ -1,0 +1,95 @@
+{
+    "success":{
+        "works":[
+            {
+                "id":1,
+                "img": "/img/design-work-img.jpg",
+                "img_mobile": "/img/design-work-mobile-img.jpg",
+                "lb_img" : "/img/gallery-img1.jpg",
+                "lb_img_mobile" : "/img/gallery-mobile-img1.jpg",
+                "alt": "designer-works",
+                "year":"2010",
+                "title":"Sitbag Studio Collection",
+                "desc":"As part of the “Reincarnation Collection”, The Suitcases are reincarnated to chairs with all the memories from previous lives."
+            },
+            {
+                "id":2,
+                "img": "/img/design-work-img-5.jpg",
+                "img_mobile": "/img/design-work-mobile-img-5.jpg",
+                "lb_img": "/img/gallery-img2.jpg",
+                "lb_img_mobile" : "/img/gallery-mobile-img2.jpg",
+                "alt": "designer-works",
+                "year":"2009",
+                "title":"Sitbag Studio Collection",
+                "desc":"As part of the “Reincarnation Collection”, The Suitcases are reincarnated to chairs with all the memories from previous lives."
+            },
+            {
+                "id":3,
+                "img": "/img/design-work-img-2.jpg",
+                "img_mobile": "/img/design-work-mobile-img-2.jpg",
+                "lb_img": "/img/gallery-img1.jpg",
+                "lb_img_mobile" : "/img/gallery-mobile-img1.jpg",
+                "alt": "designer-works",
+                "year":"2008",
+                "title":"Sitbag Studio Collection",
+                "desc":"As part of the “Reincarnation Collection”, The Suitcases are reincarnated to chairs with all the memories from previous lives."
+            },
+            {
+                "id":4,
+                "img": "/img/design-work-img-4.jpg",
+                "img_mobile": "/img/design-work-mobile-img-4.jpg",
+                "lb_img": "/img/gallery-img3.jpg",
+                "lb_img_mobile" : "/img/gallery-mobile-img3.jpg",
+                "alt": "designer-works",
+                "year":"2011",
+                "title":"Sitbag Studio Collection",
+                "desc":"As part of the “Reincarnation Collection”, The Suitcases are reincarnated to chairs with all the memories from previous lives."
+            },
+            {
+                "id":5,
+                "img": "/img/design-work-img-3.jpg",
+                "img_mobile": "/img/design-work-mobile-img-3.jpg",
+                "lb_img": "/img/gallery-img2.jpg",
+                "lb_img_mobile" : "/img/gallery-mobile-img2.jpg",
+                "alt": "designer-works",
+                "year":"2012",
+                "title":"Sitbag Studio Collection",
+                "desc":"As part of the “Reincarnation Collection”, The Suitcases are reincarnated to chairs with all the memories from previous lives."
+            }
+        ],
+        "case_studies":[
+            {
+                "img": "/img/case-studies-img.jpg",
+                "img_mobile": "/img/case-studies-mobile-img.jpg",
+                "alt": "case-studies",
+                "title": "Armaggan Centerpieces",
+                "text": "Traditional craftsmanship and materials like silver, marble blended with contemporary design to create centerpiece collection with more than 50 items for Armaggan, the most prestigious brand from Turkey. 2009",
+                "link":"armaggan-centerpieces"
+             },
+             {
+                 "img": "/img/case-studies-img-2.jpg",
+                 "img_mobile": "/img/case-studies-mobile-img-2.jpg",
+                 "alt": "case-studies",
+                 "title": "Sitbag Studio Collection",
+                 "text": "As part of the “Reincarnation Collection”, The Suitcases are reincarnated to chairs with all the memories from previous lives. The 7 piece installation features sitbags’ very first version from 2003 designed by Erdem, as well as other new typologies such as the easychair, the rocker, the chaise longue, the beanbag and chair on rollers. The series aim to question concepts such as production consumption, function-dysfunction, industrial-handmade from the design point of view.",
+                 "link":"sitbag-studio-collection"
+             },
+             {
+                 "img": "/img/case-studies-img-3.jpg",
+                 "img_mobile": "/img/case-studies-mobile-img-3.jpg",
+                 "alt": "case-studies",
+                 "title": "Turkish Reforms Collection",
+                 "text": "As part of “Turkish Reforms” collection, experimental furnitures and products are designed. Among others: Grandbazaar Sofa, Big Iznik, Hadji Bowl and Morphing Beads 'Grandbazaar Sofa' is a visual delusion based on a very popular myth of flying carpets. This lean bench can carry magically up to 500 kg’s.",
+                 "link":"turkish-reforms-collection"
+             },
+             {
+                 "img": "/img/case-studies-img-4.jpg",
+                 "img_mobile": "/img/case-studies-mobile-img-4.jpg",
+                 "alt": "case-studies",
+                 "title": "Paşabahçe",
+                 "text": "glass designs for handmade production.",
+                 "link":"pasabahce"
+             }
+        ]
+    }
+}
