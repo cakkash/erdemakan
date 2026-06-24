@@ -1,6 +1,9 @@
 {
 	"name": "svelte-app",
 	"version": "0.0.1",
+	"engines": {
+		"node": "18.x"
+	},
 	"scripts": {
 		"dev": "vite dev --port 3000",
 		"build": "vite build",
