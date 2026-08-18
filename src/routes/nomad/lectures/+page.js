@@ -1,17 +1,14 @@
 import {getNomadData} from "../../../services/index";
 import { nomadStoreData } from "../../../store/store";
 
-
-export const load = async ({}) => {
+export const load = async ({ fetch }) => {
     let nomadData = null;
-    await getNomadData().then( result => {
-        if (result && result.data && result.data.success) {
-            nomadData = result.data.success;
-            nomadStoreData.update( result => result = nomadData)
-         
+    try {
+        const result = await getNomadData(fetch);
+        if (result && result.success) {
+            nomadData = result.success;
+            nomadStoreData.update(r => r = nomadData);
         }
-    })
-    return {
-        nomadData
-    };
+    } catch (e) { console.error("Nomad data yüklenemedi:", e); }
+    return { nomadData };
 };

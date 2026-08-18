@@ -1,16 +1,14 @@
 import {getContactData} from "../../services/index";
 import { contactStoreData } from "../../store/store";
 
-
-export const load = async ({}) => {
+export const load = async ({ fetch }) => {
     let contactData = null;
-    await getContactData().then( result => {
-        if (result && result.data && result.data.success) {
-            contactData = result.data.success;
-            contactStoreData.update( result => result = contactData)
+    try {
+        const result = await getContactData(fetch);
+        if (result && result.success) {
+            contactData = result.success;
+            contactStoreData.update(r => r = contactData);
         }
-    })
-    return {
-        contactData
-    };
+    } catch (e) { console.error("Contact data yüklenemedi:", e); }
+    return { contactData };
 };

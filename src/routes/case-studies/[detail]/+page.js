@@ -1,15 +1,14 @@
 import { getCollectionsData } from "../../../services";
 import { collectionStoreData } from "../../../store/store";
 
-export const load = async ({params}) => {
+export const load = async ({ params, fetch }) => {
     let collectionData = null;
-    await getCollectionsData().then( result => {
-        if(result && result.data && result.data.success){
-            collectionData = result.data.success[params.detail];
-            collectionStoreData.update(result =>  result = collectionData)
+    try {
+        const result = await getCollectionsData(fetch);
+        if (result && result.success) {
+            collectionData = result.success[params.detail];
+            collectionStoreData.update(r => r = collectionData);
         }
-    })
-    return {
-        collectionData
-    };
+    } catch (e) { console.error("Collection data yüklenemedi:", e); }
+    return { collectionData };
 };
