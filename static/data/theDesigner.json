@@ -61,11 +61,11 @@
             {
                 "id": 5,
                 "title": "East Meets West",
-                "desc": "How a familiar cultural object became an independent design opportunity with international reach.",
                 "link": "east-meets-west",
-                "img": "/img/east-meets-west-card.jpg",
-                "img_mobile": "/img/east-meets-west-card-mobile.jpg",
-                "alt": "east-meets-west"
+                "img": "/img/case-img1.jpg",
+                "img_mobile": "/img/case-img1-mobile.jpg",
+                "alt": "east-meets-west",
+                "text": "How a familiar cultural object became an independent design opportunity with international reach."
             },
             {
                 "img": "/img/case-studies-img.jpg",

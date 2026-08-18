@@ -3,8 +3,9 @@
         "east-meets-west": {
             "banner": {
                 "title": "East Meets West",
-                "img": "/img/east-meets-west-banner.jpg",
-                "img_mobile": "/img/east-meets-west-banner-mobile.jpg"
+                "img": "/img/case-detail/case-detail-banner-img.jpg",
+                "img_mobile": "/img/case-detail/case-detail-banner-mobile-img.jpg",
+                "subtitle": "How a familiar cultural object became an independent design opportunity with international reach."
             },
             "descArea": [
                 {
@@ -29,8 +30,8 @@
                 "images": [
                     {
                         "id": 1,
-                        "img": "/img/east-meets-west-banner.jpg",
-                        "img_mobile": "/img/east-meets-west-banner-mobile.jpg",
+                        "img": "/img/case-detail/case-detail-banner-img.jpg",
+                        "img_mobile": "/img/case-detail/case-detail-banner-mobile-img.jpg",
                         "alt": "east-meets-west"
                     }
                 ]
