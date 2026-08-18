@@ -1,330 +1,289 @@
 {
-    "success": {
-        "east-meets-west": {
-            "banner": {
-                "title": "East Meets West",
-                "img": "/img/case-detail/case-detail-banner-img.jpg",
-                "img_mobile": "/img/case-detail/case-detail-banner-mobile-img.jpg",
-                "subtitle": "How a familiar cultural object became an independent design opportunity with international reach."
+    "success":{
+        "armaggan-centerpieces":{
+            "banner":{
+                "title":"Armaggan Centerpieces",
+                "img":"/img/case-detail/case-detail-banner-img.jpg",
+                "img_mobile":"/img/case-detail/case-detail-banner-mobile-img.jpg"
             },
-            "descArea": [
+            "descArea":[
                 {
-                    "title": "Designer / Entrepreneur",
-                    "text": "<p><strong>A Question in a Factory Office</strong></p><p>It was a hot summer day in the early 2000s at Paşabahçe's Denizli factory. I was in the factory manager's office discussing production details for another project when the conversation suddenly shifted. At one point, he looked at me and said, \"Erdem, there are some things in life you simply cannot change. Take this tea glass, for example.\" Someone had just entered the room to serve tea, and he lifted the familiar narrow-waisted glass to make his point.</p><p>The comment stayed with me.</p><p>On the flight back to Istanbul, I kept asking myself the same question: could a form that had become so deeply embedded in everyday life, and almost anonymous through familiarity, really be changed? For the entire one-hour flight, I filled pages of my sketchbook with alternatives. Most were not convincing. Then another thought emerged. Perhaps the answer was not to redesign the glass at all, but to recognise and elevate what was already there.</p>"
+                    "title":"The story",
+                    "text":"<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vestibulum leo ac eleifend auctor. Maecenas mi leo, facilisis et enim sit amet, rhoncus tempus purus. Nunc rutrum egestas lorem, fermentum euismod metus rhoncus non.</p><p>Quisque et ligula eu arcu scelerisque sagittis. Duis magna leo, vehicula ac ultricies a, dictum eget nulla. Aenean sodales vestibulum interdum. Praesent molestie id lorem vitae vulputate.</p>"
                 },
                 {
-                    "title": "",
-                    "text": "<p><strong>Protecting Rather Than Replacing</strong></p><p>That change of perspective became the starting point of East Meets West.</p><p>Instead of altering the traditional Turkish tea glass, I placed it inside a simple cylindrical outer glass. The straight external form acted almost like a protective envelope around the familiar inner shape. It framed the anonymous object, elevated it and made its cultural value visible.</p><p>The intervention was deliberately minimal. The familiar object remained intact, but it was now seen through another layer of design awareness. The project was not about creating a new icon. It was about making an existing cultural icon visible again.</p><p>East Meets West was a self-initiated project. I developed the idea independently, took it through production and launched it through my own design brand, maybedesign.</p>"
+                    "title":"The moment & first principles",
+                    "text":"<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vestibulum leo ac eleifend auctor. Maecenas mi leo, facilisis et enim sit amet, rhoncus tempus purus. Nunc rutrum egestas lorem, fermentum euismod metus rhoncus non.</p><p>Quisque et ligula eu arcu scelerisque sagittis. Duis magna leo, vehicula ac ultricies a, dictum eget nulla. Aenean sodales vestibulum interdum. Praesent molestie id lorem vitae vulputate.</p>",
+                    "img":"/img/case-detail/case-detail-img.jpg",
+                    "img_mobile":"/img/case-detail/case-detail-mobile-img.jpg",
+                    "alt":"The moment & first principles"
                 },
                 {
-                    "title": "",
-                    "text": "<p><strong>A Fast Idea, a Long Development</strong></p><p>The concept appeared quickly but developing it into a convincing product took around nine months. I worked closely with borosilicate glass craftsmen, testing hundreds of variations before achieving the precise relationship between the inner and outer forms. The success of the design depended less on visual complexity than on proportion, joining, thickness and the quality of execution.</p><p>Once launched through maybedesign, East Meets West became a bestseller for more than a decade and attracted significant international attention through sales, exhibitions and design publications. Its longevity demonstrated that a culturally specific idea could travel far beyond its original context when translated into a clear and carefully developed product.</p><p>What began without a client brief became an independently produced design with sustained international demand.</p>"
-                },
-                {
-                    "title": "",
-                    "text": "<p><strong>From Object to Design Philosophy</strong></p><p>Over time, I became increasingly interested in what the glass symbolised. I began to read the straight cylinder as a rational, Western archetype and the narrow-waisted tea glass as a more emotional and seemingly irrational Eastern form. Further east lies another ancient culture, China, with its own familiar tea vessel: the low, tulip-like porcelain cup.</p><p>This led me to imagine a sequence of forms moving across an invented cultural geography from the Far East to the Middle East and then towards the West. That line of thought later developed into From Beijing to Istanbul with Love.</p><p>Looking back, the entire journey began with an informal conversation in a factory office. East Meets West taught me that design does not always begin by changing an object. Sometimes it begins by understanding why an object should not be changed and finding a new way for people to value it. It also became an early example of how cultural insight, product development and entrepreneurship could come together in a single project.</p>"
+                    "title":"Insights & idea",
+                    "text":"<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vestibulum leo ac eleifend auctor. Maecenas mi leo, facilisis et enim sit amet, rhoncus tempus purus. Nunc rutrum egestas lorem, fermentum euismod metus rhoncus non.</p><p>Quisque et ligula eu arcu scelerisque sagittis. Duis magna leo, vehicula ac ultricies a, dictum eget nulla. Aenean sodales vestibulum interdum. Praesent molestie id lorem vitae vulputate.</p>",
+                    "img":"/img/case-detail/case-detail-img.jpg",
+                    "img_mobile":"/img/case-detail/case-detail-mobile-img.jpg",
+                    "alt":"Insights & idea"
                 }
             ],
-            "sliderArea": {
-                "title": "East Meets West",
-                "images": [
+            "sliderArea":{
+                "title":"Creation & implementation",
+                "images":[
                     {
-                        "id": 1,
-                        "img": "/img/case-detail/case-detail-banner-img.jpg",
-                        "img_mobile": "/img/case-detail/case-detail-banner-mobile-img.jpg",
-                        "alt": "east-meets-west"
-                    }
-                ]
-            },
-            "next_collection": {
-                "img": "/img/case-studies-img.jpg",
-                "img_mobile": "/img/case-studies-mobile-img.jpg",
-                "alt": "Armaggan Centerpieces",
-                "title": "Armaggan Centerpieces",
-                "link": "armaggan-centerpieces"
-            }
-        },
-        "armaggan-centerpieces": {
-            "banner": {
-                "title": "Armaggan Centerpieces",
-                "img": "/img/case-detail/case-detail-banner-img.jpg",
-                "img_mobile": "/img/case-detail/case-detail-banner-mobile-img.jpg"
-            },
-            "descArea": [
-                {
-                    "title": "The story",
-                    "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vestibulum leo ac eleifend auctor. Maecenas mi leo, facilisis et enim sit amet, rhoncus tempus purus. Nunc rutrum egestas lorem, fermentum euismod metus rhoncus non.</p><p>Quisque et ligula eu arcu scelerisque sagittis. Duis magna leo, vehicula ac ultricies a, dictum eget nulla. Aenean sodales vestibulum interdum. Praesent molestie id lorem vitae vulputate.</p>"
-                },
-                {
-                    "title": "The moment & first principles",
-                    "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vestibulum leo ac eleifend auctor. Maecenas mi leo, facilisis et enim sit amet, rhoncus tempus purus. Nunc rutrum egestas lorem, fermentum euismod metus rhoncus non.</p><p>Quisque et ligula eu arcu scelerisque sagittis. Duis magna leo, vehicula ac ultricies a, dictum eget nulla. Aenean sodales vestibulum interdum. Praesent molestie id lorem vitae vulputate.</p>",
-                    "img": "/img/case-detail/case-detail-img.jpg",
-                    "img_mobile": "/img/case-detail/case-detail-mobile-img.jpg",
-                    "alt": "The moment & first principles"
-                },
-                {
-                    "title": "Insights & idea",
-                    "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vestibulum leo ac eleifend auctor. Maecenas mi leo, facilisis et enim sit amet, rhoncus tempus purus. Nunc rutrum egestas lorem, fermentum euismod metus rhoncus non.</p><p>Quisque et ligula eu arcu scelerisque sagittis. Duis magna leo, vehicula ac ultricies a, dictum eget nulla. Aenean sodales vestibulum interdum. Praesent molestie id lorem vitae vulputate.</p>",
-                    "img": "/img/case-detail/case-detail-img.jpg",
-                    "img_mobile": "/img/case-detail/case-detail-mobile-img.jpg",
-                    "alt": "Insights & idea"
-                }
-            ],
-            "sliderArea": {
-                "title": "Creation & implementation",
-                "images": [
-                    {
-                        "id": 1,
-                        "img": "/img/case-detail/detail-slider-img.jpg",
-                        "img_mobile": "/img/case-detail/detail-slider-mobile-img.jpg",
-                        "alt": "case-detail"
+                        "id" : 1,
+                        "img" : "/img/case-detail/detail-slider-img.jpg",
+                        "img_mobile":"/img/case-detail/detail-slider-mobile-img.jpg",
+                        "alt": "case-detail"                  
                     },
                     {
-                        "id": 2,
-                        "title": "Creation & implementation",
-                        "img": "/img/case-detail/detail-slider-img.jpg",
-                        "img_mobile": "/img/case-detail/detail-slider-mobile-img.jpg",
-                        "alt": "case-detail"
+                        "id" : 2,
+                        "title":"Creation & implementation",
+                        "img" : "/img/case-detail/detail-slider-img.jpg",
+                        "img_mobile":"/img/case-detail/detail-slider-mobile-img.jpg",
+                        "alt": "case-detail"                  
                     },
                     {
-                        "id": 3,
-                        "title": "Creation & implementation",
-                        "img": "/img/case-detail/detail-slider-img.jpg",
-                        "img_mobile": "/img/case-detail/detail-slider-mobile-img.jpg",
-                        "alt": "case-detail"
+                        "id" : 3,
+                        "title":"Creation & implementation",
+                        "img" : "/img/case-detail/detail-slider-img.jpg",
+                        "img_mobile":"/img/case-detail/detail-slider-mobile-img.jpg",
+                        "alt": "case-detail"                      
                     },
                     {
-                        "id": 4,
-                        "title": "Creation & implementation",
-                        "img": "/img/case-detail/detail-slider-img.jpg",
-                        "img_mobile": "/img/case-detail/detail-slider-mobile-img.jpg",
-                        "alt": "case-detail"
+                        "id" : 4,
+                        "title":"Creation & implementation",
+                        "img" : "/img/case-detail/detail-slider-img.jpg",
+                        "img_mobile":"/img/case-detail/detail-slider-mobile-img.jpg",
+                        "alt": "case-detail"  
                     },
                     {
-                        "id": 5,
-                        "title": "Creation & implementation",
-                        "img": "/img/case-detail/detail-slider-img.jpg",
-                        "img_mobile": "/img/case-detail/detail-slider-mobile-img.jpg",
+                        "id" : 5,
+                        "title":"Creation & implementation",
+                        "img" : "/img/case-detail/detail-slider-img.jpg",
+                        "img_mobile":"/img/case-detail/detail-slider-mobile-img.jpg",
                         "alt": "case-detail"
                     }
                 ],
-                "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vestibulum leo ac eleifend auctor. Maecenas mi leo, facilisis et enim sit amet, rhoncus tempus purus. Nunc rutrum egestas lorem, fermentum euismod metus rhoncus non.</p><p>Quisque et ligula eu arcu scelerisque sagittis. Duis magna leo, vehicula ac ultricies a, dictum eget nulla. Aenean sodales vestibulum interdum. Praesent molestie id lorem vitae vulputate.</p>"
+                "text":"<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vestibulum leo ac eleifend auctor. Maecenas mi leo, facilisis et enim sit amet, rhoncus tempus purus. Nunc rutrum egestas lorem, fermentum euismod metus rhoncus non.</p><p>Quisque et ligula eu arcu scelerisque sagittis. Duis magna leo, vehicula ac ultricies a, dictum eget nulla. Aenean sodales vestibulum interdum. Praesent molestie id lorem vitae vulputate.</p>"
             },
-            "next_collection": {
-                "img": "/img/case-detail/next-collection.jpg",
-                "img_mobile": "/img/case-detail/next-mobile-collection.jpg",
-                "alt": "Sitbag Studio Collection",
-                "title": "Sitbag Studio Collection",
-                "link": "sitbag-studio-collection"
+            "next_collection":{
+                "img":"/img/case-detail/next-collection.jpg",
+                "img_mobile":"/img/case-detail/next-mobile-collection.jpg",
+                "alt":"Sitbag Studio Collection",
+                "title":"Sitbag Studio Collection",
+                "link":"sitbag-studio-collection"
             }
+           
         },
-        "sitbag-studio-collection": {
-            "banner": {
-                "title": "Sitbag Studio Collection",
-                "img": "/img/case-detail/case-detail-banner-img.jpg",
-                "img_mobile": "/img/case-detail/case-detail-banner-mobile-img.jpg"
+        "sitbag-studio-collection":{
+            "banner":{
+                "title":"Sitbag Studio Collection",
+                "img":"/img/case-detail/case-detail-banner-img.jpg",
+                "img_mobile":"/img/case-detail/case-detail-banner-mobile-img.jpg"
             },
-            "descArea": [
+            "descArea":[
                 {
-                    "title": "The story",
-                    "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vestibulum leo ac eleifend auctor. Maecenas mi leo, facilisis et enim sit amet, rhoncus tempus purus. Nunc rutrum egestas lorem, fermentum euismod metus rhoncus non.</p><p>Quisque et ligula eu arcu scelerisque sagittis. Duis magna leo, vehicula ac ultricies a, dictum eget nulla. Aenean sodales vestibulum interdum. Praesent molestie id lorem vitae vulputate.</p>"
+                    "title":"The story",
+                    "text":"<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vestibulum leo ac eleifend auctor. Maecenas mi leo, facilisis et enim sit amet, rhoncus tempus purus. Nunc rutrum egestas lorem, fermentum euismod metus rhoncus non.</p><p>Quisque et ligula eu arcu scelerisque sagittis. Duis magna leo, vehicula ac ultricies a, dictum eget nulla. Aenean sodales vestibulum interdum. Praesent molestie id lorem vitae vulputate.</p>"
                 },
                 {
-                    "title": "The moment & first principles",
-                    "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vestibulum leo ac eleifend auctor. Maecenas mi leo, facilisis et enim sit amet, rhoncus tempus purus. Nunc rutrum egestas lorem, fermentum euismod metus rhoncus non.</p><p>Quisque et ligula eu arcu scelerisque sagittis. Duis magna leo, vehicula ac ultricies a, dictum eget nulla. Aenean sodales vestibulum interdum. Praesent molestie id lorem vitae vulputate.</p>",
-                    "img": "/img/case-detail/case-detail-img.jpg",
-                    "img_mobile": "/img/case-detail/case-detail-mobile-img.jpg"
+                    "title":"The moment & first principles",
+                    "text":"<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vestibulum leo ac eleifend auctor. Maecenas mi leo, facilisis et enim sit amet, rhoncus tempus purus. Nunc rutrum egestas lorem, fermentum euismod metus rhoncus non.</p><p>Quisque et ligula eu arcu scelerisque sagittis. Duis magna leo, vehicula ac ultricies a, dictum eget nulla. Aenean sodales vestibulum interdum. Praesent molestie id lorem vitae vulputate.</p>",
+                    "img":"/img/case-detail/case-detail-img.jpg",
+                    "img_mobile":"/img/case-detail/case-detail-mobile-img.jpg"
                 },
                 {
-                    "title": "Insights & idea",
-                    "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vestibulum leo ac eleifend auctor. Maecenas mi leo, facilisis et enim sit amet, rhoncus tempus purus. Nunc rutrum egestas lorem, fermentum euismod metus rhoncus non.</p><p>Quisque et ligula eu arcu scelerisque sagittis. Duis magna leo, vehicula ac ultricies a, dictum eget nulla. Aenean sodales vestibulum interdum. Praesent molestie id lorem vitae vulputate.</p>",
-                    "img": "/img/case-detail/case-detail-img.jpg",
-                    "img_mobile": "/img/case-detail/case-detail-mobile-img.jpg"
+                    "title":"Insights & idea",
+                    "text":"<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vestibulum leo ac eleifend auctor. Maecenas mi leo, facilisis et enim sit amet, rhoncus tempus purus. Nunc rutrum egestas lorem, fermentum euismod metus rhoncus non.</p><p>Quisque et ligula eu arcu scelerisque sagittis. Duis magna leo, vehicula ac ultricies a, dictum eget nulla. Aenean sodales vestibulum interdum. Praesent molestie id lorem vitae vulputate.</p>",
+                    "img":"/img/case-detail/case-detail-img.jpg",
+                    "img_mobile":"/img/case-detail/case-detail-mobile-img.jpg"
                 }
             ],
-            "sliderArea": {
-                "title": "Creation & implementation",
-                "images": [
+            "sliderArea":{
+                "title":"Creation & implementation",
+                "images":[
                     {
-                        "id": 1,
-                        "img": "/img/case-detail/detail-slider-img.jpg",
-                        "img_mobile": "/img/case-detail/detail-slider-mobile-img.jpg",
-                        "alt": "case-detail"
+                        "id" : 1,
+                        "img" : "/img/case-detail/detail-slider-img.jpg",
+                        "img_mobile":"/img/case-detail/detail-slider-mobile-img.jpg",
+                        "alt": "case-detail"                  
                     },
                     {
-                        "id": 2,
-                        "title": "Creation & implementation",
-                        "img": "/img/case-detail/detail-slider-img.jpg",
-                        "img_mobile": "/img/case-detail/detail-slider-mobile-img.jpg",
-                        "alt": "case-detail"
+                        "id" : 2,
+                        "title":"Creation & implementation",
+                        "img" : "/img/case-detail/detail-slider-img.jpg",
+                        "img_mobile":"/img/case-detail/detail-slider-mobile-img.jpg",
+                        "alt": "case-detail"                  
                     },
                     {
-                        "id": 3,
-                        "title": "Creation & implementation",
-                        "img": "/img/case-detail/detail-slider-img.jpg",
-                        "img_mobile": "/img/case-detail/detail-slider-mobile-img.jpg",
-                        "alt": "case-detail"
+                        "id" : 3,
+                        "title":"Creation & implementation",
+                        "img" : "/img/case-detail/detail-slider-img.jpg",
+                        "img_mobile":"/img/case-detail/detail-slider-mobile-img.jpg",
+                        "alt": "case-detail"                      
                     },
                     {
-                        "id": 4,
-                        "title": "Creation & implementation",
-                        "img": "/img/case-detail/detail-slider-img.jpg",
-                        "img_mobile": "/img/case-detail/detail-slider-mobile-img.jpg",
-                        "alt": "case-detail"
+                        "id" : 4,
+                        "title":"Creation & implementation",
+                        "img" : "/img/case-detail/detail-slider-img.jpg",
+                        "img_mobile":"/img/case-detail/detail-slider-mobile-img.jpg",
+                        "alt": "case-detail"  
                     },
                     {
-                        "id": 5,
-                        "title": "Creation & implementation",
-                        "img": "/img/case-detail/detail-slider-img.jpg",
-                        "img_mobile": "/img/case-detail/detail-slider-mobile-img.jpg",
+                        "id" : 5,
+                        "title":"Creation & implementation",
+                        "img" : "/img/case-detail/detail-slider-img.jpg",
+                        "img_mobile":"/img/case-detail/detail-slider-mobile-img.jpg",
                         "alt": "case-detail"
                     }
                 ],
-                "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vestibulum leo ac eleifend auctor. Maecenas mi leo, facilisis et enim sit amet, rhoncus tempus purus. Nunc rutrum egestas lorem, fermentum euismod metus rhoncus non.</p><p>Quisque et ligula eu arcu scelerisque sagittis. Duis magna leo, vehicula ac ultricies a, dictum eget nulla. Aenean sodales vestibulum interdum. Praesent molestie id lorem vitae vulputate.</p>"
+                "text":"<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vestibulum leo ac eleifend auctor. Maecenas mi leo, facilisis et enim sit amet, rhoncus tempus purus. Nunc rutrum egestas lorem, fermentum euismod metus rhoncus non.</p><p>Quisque et ligula eu arcu scelerisque sagittis. Duis magna leo, vehicula ac ultricies a, dictum eget nulla. Aenean sodales vestibulum interdum. Praesent molestie id lorem vitae vulputate.</p>"
             },
-            "next_collection": {
-                "img": "/img/case-detail/next-collection.jpg",
-                "img_mobile": "/img/case-detail/next-mobile-collection.jpg",
-                "alt": "Turkish Reforms Collection",
-                "title": "Turkish Reforms Collection",
-                "link": "turkish-reforms-collection"
+            "next_collection":{
+                "img":"/img/case-detail/next-collection.jpg",
+                "img_mobile":"/img/case-detail/next-mobile-collection.jpg",
+                "alt":"Turkish Reforms Collection",
+                "title":"Turkish Reforms Collection",
+                "link":"turkish-reforms-collection"
             }
         },
-        "turkish-reforms-collection": {
-            "banner": {
-                "title": "Turkish Reforms Collection",
-                "img": "/img/case-detail/case-detail-banner-img.jpg",
-                "img_mobile": "/img/case-detail/case-detail-banner-mobile-img.jpg"
+        "turkish-reforms-collection":{
+            "banner":{
+                "title":"Turkish Reforms Collection",
+                "img":"/img/case-detail/case-detail-banner-img.jpg",
+                "img_mobile":"/img/case-detail/case-detail-banner-mobile-img.jpg"
             },
-            "descArea": [
+            "descArea":[
                 {
-                    "title": "The story",
-                    "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vestibulum leo ac eleifend auctor. Maecenas mi leo, facilisis et enim sit amet, rhoncus tempus purus. Nunc rutrum egestas lorem, fermentum euismod metus rhoncus non.</p><p>Quisque et ligula eu arcu scelerisque sagittis. Duis magna leo, vehicula ac ultricies a, dictum eget nulla. Aenean sodales vestibulum interdum. Praesent molestie id lorem vitae vulputate.</p>"
+                    "title":"The story",
+                    "text":"<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vestibulum leo ac eleifend auctor. Maecenas mi leo, facilisis et enim sit amet, rhoncus tempus purus. Nunc rutrum egestas lorem, fermentum euismod metus rhoncus non.</p><p>Quisque et ligula eu arcu scelerisque sagittis. Duis magna leo, vehicula ac ultricies a, dictum eget nulla. Aenean sodales vestibulum interdum. Praesent molestie id lorem vitae vulputate.</p>"
                 },
                 {
-                    "title": "The moment & first principles",
-                    "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vestibulum leo ac eleifend auctor. Maecenas mi leo, facilisis et enim sit amet, rhoncus tempus purus. Nunc rutrum egestas lorem, fermentum euismod metus rhoncus non.</p><p>Quisque et ligula eu arcu scelerisque sagittis. Duis magna leo, vehicula ac ultricies a, dictum eget nulla. Aenean sodales vestibulum interdum. Praesent molestie id lorem vitae vulputate.</p>",
-                    "img": "/img/case-detail/case-detail-img.jpg",
-                    "img_mobile": "/img/case-detail/case-detail-mobile-img.jpg"
+                    "title":"The moment & first principles",
+                    "text":"<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vestibulum leo ac eleifend auctor. Maecenas mi leo, facilisis et enim sit amet, rhoncus tempus purus. Nunc rutrum egestas lorem, fermentum euismod metus rhoncus non.</p><p>Quisque et ligula eu arcu scelerisque sagittis. Duis magna leo, vehicula ac ultricies a, dictum eget nulla. Aenean sodales vestibulum interdum. Praesent molestie id lorem vitae vulputate.</p>",
+                    "img":"/img/case-detail/case-detail-img.jpg",
+                    "img_mobile":"/img/case-detail/case-detail-mobile-img.jpg"
                 },
                 {
-                    "title": "Insights & idea",
-                    "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vestibulum leo ac eleifend auctor. Maecenas mi leo, facilisis et enim sit amet, rhoncus tempus purus. Nunc rutrum egestas lorem, fermentum euismod metus rhoncus non.</p><p>Quisque et ligula eu arcu scelerisque sagittis. Duis magna leo, vehicula ac ultricies a, dictum eget nulla. Aenean sodales vestibulum interdum. Praesent molestie id lorem vitae vulputate.</p>",
-                    "img": "/img/case-detail/case-detail-img.jpg",
-                    "img_mobile": "/img/case-detail/case-detail-mobile-img.jpg"
+                    "title":"Insights & idea",
+                    "text":"<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vestibulum leo ac eleifend auctor. Maecenas mi leo, facilisis et enim sit amet, rhoncus tempus purus. Nunc rutrum egestas lorem, fermentum euismod metus rhoncus non.</p><p>Quisque et ligula eu arcu scelerisque sagittis. Duis magna leo, vehicula ac ultricies a, dictum eget nulla. Aenean sodales vestibulum interdum. Praesent molestie id lorem vitae vulputate.</p>",
+                    "img":"/img/case-detail/case-detail-img.jpg",
+                    "img_mobile":"/img/case-detail/case-detail-mobile-img.jpg"
                 }
             ],
-            "sliderArea": {
-                "title": "Creation & implementation",
-                "images": [
+            
+            "sliderArea":{
+                "title":"Creation & implementation",
+                "images":[
                     {
-                        "id": 1,
-                        "img": "/img/case-detail/detail-slider-img.jpg",
-                        "img_mobile": "/img/case-detail/detail-slider-mobile-img.jpg",
-                        "alt": "case-detail"
+                        "id" : 1,
+                        "img" : "/img/case-detail/detail-slider-img.jpg",
+                        "img_mobile":"/img/case-detail/detail-slider-mobile-img.jpg",
+                        "alt": "case-detail"                  
                     },
                     {
-                        "id": 2,
-                        "title": "Creation & implementation",
-                        "img": "/img/case-detail/detail-slider-img.jpg",
-                        "img_mobile": "/img/case-detail/detail-slider-mobile-img.jpg",
-                        "alt": "case-detail"
+                        "id" : 2,
+                        "title":"Creation & implementation",
+                        "img" : "/img/case-detail/detail-slider-img.jpg",
+                        "img_mobile":"/img/case-detail/detail-slider-mobile-img.jpg",
+                        "alt": "case-detail"                  
                     },
                     {
-                        "id": 3,
-                        "title": "Creation & implementation",
-                        "img": "/img/case-detail/detail-slider-img.jpg",
-                        "img_mobile": "/img/case-detail/detail-slider-mobile-img.jpg",
-                        "alt": "case-detail"
+                        "id" : 3,
+                        "title":"Creation & implementation",
+                        "img" : "/img/case-detail/detail-slider-img.jpg",
+                        "img_mobile":"/img/case-detail/detail-slider-mobile-img.jpg",
+                        "alt": "case-detail"                      
                     },
                     {
-                        "id": 4,
-                        "title": "Creation & implementation",
-                        "img": "/img/case-detail/detail-slider-img.jpg",
-                        "img_mobile": "/img/case-detail/detail-slider-mobile-img.jpg",
-                        "alt": "case-detail"
+                        "id" : 4,
+                        "title":"Creation & implementation",
+                        "img" : "/img/case-detail/detail-slider-img.jpg",
+                        "img_mobile":"/img/case-detail/detail-slider-mobile-img.jpg",
+                        "alt": "case-detail"  
                     },
                     {
-                        "id": 5,
-                        "title": "Creation & implementation",
-                        "img": "/img/case-detail/detail-slider-img.jpg",
-                        "img_mobile": "/img/case-detail/detail-slider-mobile-img.jpg",
+                        "id" : 5,
+                        "title":"Creation & implementation",
+                        "img" : "/img/case-detail/detail-slider-img.jpg",
+                        "img_mobile":"/img/case-detail/detail-slider-mobile-img.jpg",
                         "alt": "case-detail"
                     }
                 ],
-                "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vestibulum leo ac eleifend auctor. Maecenas mi leo, facilisis et enim sit amet, rhoncus tempus purus. Nunc rutrum egestas lorem, fermentum euismod metus rhoncus non.</p><p>Quisque et ligula eu arcu scelerisque sagittis. Duis magna leo, vehicula ac ultricies a, dictum eget nulla. Aenean sodales vestibulum interdum. Praesent molestie id lorem vitae vulputate.</p>"
+                "text":"<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vestibulum leo ac eleifend auctor. Maecenas mi leo, facilisis et enim sit amet, rhoncus tempus purus. Nunc rutrum egestas lorem, fermentum euismod metus rhoncus non.</p><p>Quisque et ligula eu arcu scelerisque sagittis. Duis magna leo, vehicula ac ultricies a, dictum eget nulla. Aenean sodales vestibulum interdum. Praesent molestie id lorem vitae vulputate.</p>"
             },
-            "next_collection": {
-                "img": "/img/case-detail/next-collection.jpg",
-                "img_mobile": "/img/case-detail/next-mobile-collection.jpg",
-                "alt": "Paşabahçe",
-                "title": "Paşabahçe",
-                "link": "pasabahce"
+            "next_collection":{
+                "img":"/img/case-detail/next-collection.jpg",
+                "img_mobile":"/img/case-detail/next-mobile-collection.jpg",
+                "alt":"Paşabahçe",
+                "title":"Paşabahçe",
+                "link":"pasabahce"
             }
         },
-        "pasabahce": {
-            "banner": {
-                "title": "Paşabahçe",
-                "img": "/img/case-detail/case-detail-banner-img.jpg",
-                "img_mobile": "/img/case-detail/case-detail-banner-mobile-img.jpg"
+        "pasabahce":{
+            "banner":{
+                "title":"Paşabahçe",
+                "img":"/img/case-detail/case-detail-banner-img.jpg",
+                "img_mobile":"/img/case-detail/case-detail-banner-mobile-img.jpg"
             },
-            "descArea": [
+            "descArea":[
                 {
-                    "title": "The story",
-                    "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vestibulum leo ac eleifend auctor. Maecenas mi leo, facilisis et enim sit amet, rhoncus tempus purus. Nunc rutrum egestas lorem, fermentum euismod metus rhoncus non.</p><p>Quisque et ligula eu arcu scelerisque sagittis. Duis magna leo, vehicula ac ultricies a, dictum eget nulla. Aenean sodales vestibulum interdum. Praesent molestie id lorem vitae vulputate.</p>"
+                    "title":"The story",
+                    "text":"<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vestibulum leo ac eleifend auctor. Maecenas mi leo, facilisis et enim sit amet, rhoncus tempus purus. Nunc rutrum egestas lorem, fermentum euismod metus rhoncus non.</p><p>Quisque et ligula eu arcu scelerisque sagittis. Duis magna leo, vehicula ac ultricies a, dictum eget nulla. Aenean sodales vestibulum interdum. Praesent molestie id lorem vitae vulputate.</p>"
                 },
                 {
-                    "title": "The moment & first principles",
-                    "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vestibulum leo ac eleifend auctor. Maecenas mi leo, facilisis et enim sit amet, rhoncus tempus purus. Nunc rutrum egestas lorem, fermentum euismod metus rhoncus non.</p><p>Quisque et ligula eu arcu scelerisque sagittis. Duis magna leo, vehicula ac ultricies a, dictum eget nulla. Aenean sodales vestibulum interdum. Praesent molestie id lorem vitae vulputate.</p>",
-                    "img": "/img/case-detail/case-detail-img.jpg",
-                    "img_mobile": "/img/case-detail/case-detail-mobile-img.jpg"
+                    "title":"The moment & first principles",
+                    "text":"<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vestibulum leo ac eleifend auctor. Maecenas mi leo, facilisis et enim sit amet, rhoncus tempus purus. Nunc rutrum egestas lorem, fermentum euismod metus rhoncus non.</p><p>Quisque et ligula eu arcu scelerisque sagittis. Duis magna leo, vehicula ac ultricies a, dictum eget nulla. Aenean sodales vestibulum interdum. Praesent molestie id lorem vitae vulputate.</p>",
+                    "img":"/img/case-detail/case-detail-img.jpg",
+                    "img_mobile":"/img/case-detail/case-detail-mobile-img.jpg"
                 },
                 {
-                    "title": "Insights & idea",
-                    "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vestibulum leo ac eleifend auctor. Maecenas mi leo, facilisis et enim sit amet, rhoncus tempus purus. Nunc rutrum egestas lorem, fermentum euismod metus rhoncus non.</p><p>Quisque et ligula eu arcu scelerisque sagittis. Duis magna leo, vehicula ac ultricies a, dictum eget nulla. Aenean sodales vestibulum interdum. Praesent molestie id lorem vitae vulputate.</p>",
-                    "img": "/img/case-detail/case-detail-img.jpg",
-                    "img_mobile": "/img/case-detail/case-detail-mobile-img.jpg"
+                    "title":"Insights & idea",
+                    "text":"<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vestibulum leo ac eleifend auctor. Maecenas mi leo, facilisis et enim sit amet, rhoncus tempus purus. Nunc rutrum egestas lorem, fermentum euismod metus rhoncus non.</p><p>Quisque et ligula eu arcu scelerisque sagittis. Duis magna leo, vehicula ac ultricies a, dictum eget nulla. Aenean sodales vestibulum interdum. Praesent molestie id lorem vitae vulputate.</p>",
+                    "img":"/img/case-detail/case-detail-img.jpg",
+                    "img_mobile":"/img/case-detail/case-detail-mobile-img.jpg"
                 }
             ],
-            "sliderArea": {
-                "title": "Creation & implementation",
-                "images": [
+            
+            "sliderArea":{
+                "title":"Creation & implementation",
+                "images":[
                     {
-                        "id": 1,
-                        "img": "/img/case-detail/detail-slider-img.jpg",
-                        "img_mobile": "/img/case-detail/detail-slider-mobile-img.jpg",
-                        "alt": "case-detail"
+                        "id" : 1,
+                        "img" : "/img/case-detail/detail-slider-img.jpg",
+                        "img_mobile":"/img/case-detail/detail-slider-mobile-img.jpg",
+                        "alt": "case-detail"                  
                     },
                     {
-                        "id": 2,
-                        "title": "Creation & implementation",
-                        "img": "/img/case-detail/detail-slider-img.jpg",
-                        "img_mobile": "/img/case-detail/detail-slider-mobile-img.jpg",
-                        "alt": "case-detail"
+                        "id" : 2,
+                        "title":"Creation & implementation",
+                        "img" : "/img/case-detail/detail-slider-img.jpg",
+                        "img_mobile":"/img/case-detail/detail-slider-mobile-img.jpg",
+                        "alt": "case-detail"                  
                     },
                     {
-                        "id": 3,
-                        "title": "Creation & implementation",
-                        "img": "/img/case-detail/detail-slider-img.jpg",
-                        "img_mobile": "/img/case-detail/detail-slider-mobile-img.jpg",
-                        "alt": "case-detail"
+                        "id" : 3,
+                        "title":"Creation & implementation",
+                        "img" : "/img/case-detail/detail-slider-img.jpg",
+                        "img_mobile":"/img/case-detail/detail-slider-mobile-img.jpg",
+                        "alt": "case-detail"                      
                     },
                     {
-                        "id": 4,
-                        "title": "Creation & implementation",
-                        "img": "/img/case-detail/detail-slider-img.jpg",
-                        "img_mobile": "/img/case-detail/detail-slider-mobile-img.jpg",
-                        "alt": "case-detail"
+                        "id" : 4,
+                        "title":"Creation & implementation",
+                        "img" : "/img/case-detail/detail-slider-img.jpg",
+                        "img_mobile":"/img/case-detail/detail-slider-mobile-img.jpg",
+                        "alt": "case-detail"  
                     },
                     {
-                        "id": 5,
-                        "title": "Creation & implementation",
-                        "img": "/img/case-detail/detail-slider-img.jpg",
-                        "img_mobile": "/img/case-detail/detail-slider-mobile-img.jpg",
+                        "id" : 5,
+                        "title":"Creation & implementation",
+                        "img" : "/img/case-detail/detail-slider-img.jpg",
+                        "img_mobile":"/img/case-detail/detail-slider-mobile-img.jpg",
                         "alt": "case-detail"
                     }
                 ],
-                "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vestibulum leo ac eleifend auctor. Maecenas mi leo, facilisis et enim sit amet, rhoncus tempus purus. Nunc rutrum egestas lorem, fermentum euismod metus rhoncus non.</p><p>Quisque et ligula eu arcu scelerisque sagittis. Duis magna leo, vehicula ac ultricies a, dictum eget nulla. Aenean sodales vestibulum interdum. Praesent molestie id lorem vitae vulputate.</p>"
+                "text":"<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vestibulum leo ac eleifend auctor. Maecenas mi leo, facilisis et enim sit amet, rhoncus tempus purus. Nunc rutrum egestas lorem, fermentum euismod metus rhoncus non.</p><p>Quisque et ligula eu arcu scelerisque sagittis. Duis magna leo, vehicula ac ultricies a, dictum eget nulla. Aenean sodales vestibulum interdum. Praesent molestie id lorem vitae vulputate.</p>"
             }
         }
     }
