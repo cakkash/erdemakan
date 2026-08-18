@@ -23,7 +23,25 @@
                     "title": "",
                     "text": "<p><strong>From Object to Design Philosophy</strong></p><p>Over time, I became increasingly interested in what the glass symbolised. I began to read the straight cylinder as a rational, Western archetype and the narrow-waisted tea glass as a more emotional and seemingly irrational Eastern form. Further east lies another ancient culture, China, with its own familiar tea vessel: the low, tulip-like porcelain cup.</p><p>This led me to imagine a sequence of forms moving across an invented cultural geography from the Far East to the Middle East and then towards the West. That line of thought later developed into From Beijing to Istanbul with Love.</p><p>Looking back, the entire journey began with an informal conversation in a factory office. East Meets West taught me that design does not always begin by changing an object. Sometimes it begins by understanding why an object should not be changed and finding a new way for people to value it. It also became an early example of how cultural insight, product development and entrepreneurship could come together in a single project.</p>"
                 }
-            ]
+            ],
+            "sliderArea": {
+                "title": "East Meets West",
+                "images": [
+                    {
+                        "id": 1,
+                        "img": "/img/east-meets-west-banner.jpg",
+                        "img_mobile": "/img/east-meets-west-banner-mobile.jpg",
+                        "alt": "east-meets-west"
+                    }
+                ]
+            },
+            "next_collection": {
+                "img": "/img/case-studies-img.jpg",
+                "img_mobile": "/img/case-studies-mobile-img.jpg",
+                "alt": "Armaggan Centerpieces",
+                "title": "Armaggan Centerpieces",
+                "link": "armaggan-centerpieces"
+            }
         },
         "armaggan-centerpieces": {
             "banner": {
