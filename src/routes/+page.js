@@ -4,17 +4,14 @@ import {getHomeData} from "../services/index";
 import { homeStoreData } from "../store/store";
 
 
-export const load = async ({ fetch }) => {
+export const load = async ({}) => {
     let homeData = null;
-    try {
-        const result = await getHomeData(fetch);
-        if (result && result.success) {
-            homeData = result.success;
+    await getHomeData().then( result => {
+        if (result && result.data && result.data.success) {
+            homeData = result.data.success;
             homeStoreData.update( result => result = homeData)
         }
-    } catch (e) {
-        console.error("Home data yüklenemedi:", e);
-    }
+    })
     return {
         homeData
     };

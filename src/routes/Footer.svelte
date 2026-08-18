@@ -81,16 +81,16 @@
                     
                </div>
                <div class="footer-link-block">
+                    <a class="link-head-item" href={NOMAD_MILESTONES}>The curator</a>
+                    <a href={NOMAD_MILESTONES}>Milestones</a>
+                    <a href={NOMAD_EXHIBITIONS}>Exhibitons</a>
+                    <a href={NOMAD_LECTURES}>Lectures</a>
+               </div>
+               <div class="footer-link-block">
                     <a class="link-head-item" href={THINKER}>The thinker</a>
                     <a href={THINKER}>Talks</a>
                     <a href={THINKER}>Articles</a>
                     <a href={THINKER}>Boards</a>
-               </div>
-               <div class="footer-link-block">
-                    <a class="link-head-item" href={NOMAD_MILESTONES}>The nomad</a>
-                    <a href={NOMAD_MILESTONES}>Milestones</a>
-                    <a href={NOMAD_EXHIBITIONS}>Exhibitons</a>
-                    <a href={NOMAD_LECTURES}>Lectures</a>
                </div>
                
                <div class="footer-link-block">

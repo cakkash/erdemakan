@@ -1,17 +1,14 @@
 import { getDesignerData } from "../../../services";
 import { designerStoreData } from "../../../store/store";
 
-export const load = async ({ fetch }) => {
+export const load = async ({}) => {
     let designerData = null;
-    try {
-        const result = await getDesignerData(fetch);
-        if (result && result.success) {
-            designerData = result.success;
+    await getDesignerData().then( result => {
+        if (result && result.data && result.data.success) {
+            designerData = result.data.success;
             designerStoreData.update( result => result = designerData)
         }
-    } catch (e) {
-        console.error("Designer data yüklenemedi:", e);
-    }
+    })
     return {
         designerData
     };

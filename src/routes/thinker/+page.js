@@ -1,17 +1,14 @@
 import { getThinker } from "../../services";
 import { thinkerStoreData } from "../../store/store";
 
-export const load = async ({ fetch }) => {
+export const load = async ({}) => {
     let thinkerData = null;
-    try {
-        const result = await getThinker(fetch);
-        if (result && result.success) {
-            thinkerData = result.success;
+    await getThinker().then( result => {
+        if (result && result.data && result.data.success) {
+            thinkerData = result.data.success;
             thinkerStoreData.update( result => result = thinkerData)
         }
-    } catch (e) {
-        console.error("Thinker data yüklenemedi:", e);
-    }
+    })
     return {
         thinkerData
     };
