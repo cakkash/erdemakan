@@ -285,18 +285,30 @@
         },
         "case-study-5": {
             "banner": {
-                "title": "Case Study 5",
+                "title": "Sitbag Studio Collection",
                 "img": "/img/case-detail/case-detail-banner-img-5.jpg",
                 "img_mobile": "/img/case-detail/case-detail-banner-mobile-img-5.jpg"
             },
             "descArea": [
                 {
-                    "title": "Description",
-                    "text": "<p>Content goes here.</p>"
+                    "title": "The story",
+                    "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vestibulum leo ac eleifend auctor. Maecenas mi leo, facilisis et enim sit amet, rhoncus tempus purus. Nunc rutrum egestas lorem, fermentum euismod metus rhoncus non.</p><p>Quisque et ligula eu arcu scelerisque sagittis. Duis magna leo, vehicula ac ultricies a, dictum eget nulla. Aenean sodales vestibulum interdum. Praesent molestie id lorem vitae vulputate.</p>"
+                },
+                {
+                    "title": "The moment & first principles",
+                    "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vestibulum leo ac eleifend auctor. Maecenas mi leo, facilisis et enim sit amet, rhoncus tempus purus. Nunc rutrum egestas lorem, fermentum euismod metus rhoncus non.</p><p>Quisque et ligula eu arcu scelerisque sagittis. Duis magna leo, vehicula ac ultricies a, dictum eget nulla. Aenean sodales vestibulum interdum. Praesent molestie id lorem vitae vulputate.</p>",
+                    "img": "/img/case-detail/case-detail-img.jpg",
+                    "img_mobile": "/img/case-detail/case-detail-mobile-img.jpg"
+                },
+                {
+                    "title": "Insights & idea",
+                    "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vestibulum leo ac eleifend auctor. Maecenas mi leo, facilisis et enim sit amet, rhoncus tempus purus. Nunc rutrum egestas lorem, fermentum euismod metus rhoncus non.</p><p>Quisque et ligula eu arcu scelerisque sagittis. Duis magna leo, vehicula ac ultricies a, dictum eget nulla. Aenean sodales vestibulum interdum. Praesent molestie id lorem vitae vulputate.</p>",
+                    "img": "/img/case-detail/case-detail-img.jpg",
+                    "img_mobile": "/img/case-detail/case-detail-mobile-img.jpg"
                 }
             ],
             "sliderArea": {
-                "title": "Case Study 5",
+                "title": "Creation & implementation",
                 "images": [
                     {
                         "id": 1,
@@ -345,18 +357,30 @@
         },
         "case-study-6": {
             "banner": {
-                "title": "Case Study 6",
+                "title": "Turkish Reforms Collection",
                 "img": "/img/case-detail/case-detail-banner-img-6.jpg",
                 "img_mobile": "/img/case-detail/case-detail-banner-mobile-img-6.jpg"
             },
             "descArea": [
                 {
-                    "title": "Description",
-                    "text": "<p>Content goes here.</p>"
+                    "title": "The story",
+                    "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vestibulum leo ac eleifend auctor. Maecenas mi leo, facilisis et enim sit amet, rhoncus tempus purus. Nunc rutrum egestas lorem, fermentum euismod metus rhoncus non.</p><p>Quisque et ligula eu arcu scelerisque sagittis. Duis magna leo, vehicula ac ultricies a, dictum eget nulla. Aenean sodales vestibulum interdum. Praesent molestie id lorem vitae vulputate.</p>"
+                },
+                {
+                    "title": "The moment & first principles",
+                    "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vestibulum leo ac eleifend auctor. Maecenas mi leo, facilisis et enim sit amet, rhoncus tempus purus. Nunc rutrum egestas lorem, fermentum euismod metus rhoncus non.</p><p>Quisque et ligula eu arcu scelerisque sagittis. Duis magna leo, vehicula ac ultricies a, dictum eget nulla. Aenean sodales vestibulum interdum. Praesent molestie id lorem vitae vulputate.</p>",
+                    "img": "/img/case-detail/case-detail-img.jpg",
+                    "img_mobile": "/img/case-detail/case-detail-mobile-img.jpg"
+                },
+                {
+                    "title": "Insights & idea",
+                    "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vestibulum leo ac eleifend auctor. Maecenas mi leo, facilisis et enim sit amet, rhoncus tempus purus. Nunc rutrum egestas lorem, fermentum euismod metus rhoncus non.</p><p>Quisque et ligula eu arcu scelerisque sagittis. Duis magna leo, vehicula ac ultricies a, dictum eget nulla. Aenean sodales vestibulum interdum. Praesent molestie id lorem vitae vulputate.</p>",
+                    "img": "/img/case-detail/case-detail-img.jpg",
+                    "img_mobile": "/img/case-detail/case-detail-mobile-img.jpg"
                 }
             ],
             "sliderArea": {
-                "title": "Case Study 6",
+                "title": "Creation & implementation",
                 "images": [
                     {
                         "id": 1,
@@ -405,18 +429,30 @@
         },
         "case-study-7": {
             "banner": {
-                "title": "Case Study 7",
+                "title": "Paşabahçe",
                 "img": "/img/case-detail/case-detail-banner-img-7.jpg",
                 "img_mobile": "/img/case-detail/case-detail-banner-mobile-img-7.jpg"
             },
             "descArea": [
                 {
-                    "title": "Description",
-                    "text": "<p>Content goes here.</p>"
+                    "title": "The story",
+                    "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vestibulum leo ac eleifend auctor. Maecenas mi leo, facilisis et enim sit amet, rhoncus tempus purus. Nunc rutrum egestas lorem, fermentum euismod metus rhoncus non.</p><p>Quisque et ligula eu arcu scelerisque sagittis. Duis magna leo, vehicula ac ultricies a, dictum eget nulla. Aenean sodales vestibulum interdum. Praesent molestie id lorem vitae vulputate.</p>"
+                },
+                {
+                    "title": "The moment & first principles",
+                    "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vestibulum leo ac eleifend auctor. Maecenas mi leo, facilisis et enim sit amet, rhoncus tempus purus. Nunc rutrum egestas lorem, fermentum euismod metus rhoncus non.</p><p>Quisque et ligula eu arcu scelerisque sagittis. Duis magna leo, vehicula ac ultricies a, dictum eget nulla. Aenean sodales vestibulum interdum. Praesent molestie id lorem vitae vulputate.</p>",
+                    "img": "/img/case-detail/case-detail-img.jpg",
+                    "img_mobile": "/img/case-detail/case-detail-mobile-img.jpg"
+                },
+                {
+                    "title": "Insights & idea",
+                    "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vestibulum leo ac eleifend auctor. Maecenas mi leo, facilisis et enim sit amet, rhoncus tempus purus. Nunc rutrum egestas lorem, fermentum euismod metus rhoncus non.</p><p>Quisque et ligula eu arcu scelerisque sagittis. Duis magna leo, vehicula ac ultricies a, dictum eget nulla. Aenean sodales vestibulum interdum. Praesent molestie id lorem vitae vulputate.</p>",
+                    "img": "/img/case-detail/case-detail-img.jpg",
+                    "img_mobile": "/img/case-detail/case-detail-mobile-img.jpg"
                 }
             ],
             "sliderArea": {
-                "title": "Case Study 7",
+                "title": "Creation & implementation",
                 "images": [
                     {
                         "id": 1,
