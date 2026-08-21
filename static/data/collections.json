@@ -436,26 +436,42 @@
         },
         "case-study-7": {
             "banner": {
-                "title": "Paşabahçe",
+                "title": "Good Time Bath Time",
                 "img": "/img/case-detail/case-7/case-detail-banner-img.jpg",
                 "img_mobile": "/img/case-detail/case-7/case-detail-banner-mobile-img.jpg"
             },
             "descArea": [
                 {
-                    "title": "The story",
-                    "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vestibulum leo ac eleifend auctor. Maecenas mi leo, facilisis et enim sit amet, rhoncus tempus purus. Nunc rutrum egestas lorem, fermentum euismod metus rhoncus non.</p><p>Quisque et ligula eu arcu scelerisque sagittis. Duis magna leo, vehicula ac ultricies a, dictum eget nulla. Aenean sodales vestibulum interdum. Praesent molestie id lorem vitae vulputate.</p>"
+                    "title": "Design Research for VitrA: Good Time Bath Time",
+                    "text": "<p>How open-ended research can move from conversation and experimentation to real product innovation.</p>"
                 },
                 {
-                    "title": "The moment & first principles",
-                    "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vestibulum leo ac eleifend auctor. Maecenas mi leo, facilisis et enim sit amet, rhoncus tempus purus. Nunc rutrum egestas lorem, fermentum euismod metus rhoncus non.</p><p>Quisque et ligula eu arcu scelerisque sagittis. Duis magna leo, vehicula ac ultricies a, dictum eget nulla. Aenean sodales vestibulum interdum. Praesent molestie id lorem vitae vulputate.</p>",
+                    "title": "The Question Behind the Research",
+                    "text": "<p>When I became Design Director of VitrA in 2014, I realised that managing design well required more than managing projects, products and designers. I first needed to question the bathroom itself: what it meant to people, how it was experienced, and what could make time spent there genuinely valuable.</p><p>In 2015, I invited a group of designers from different cultural and professional backgrounds to a five-day workshop. The intention was not to solve a predefined product problem. Before defining what VitrA should design, I wanted to create space to understand what a bathroom experience could mean.</p><p>My role was both design director and curator: I initiated the research, brought the designers together, shaped the conditions for the workshop, interpreted the resulting work and developed the curatorial concept that brought their individual proposals together as Good Time Bath Time.</p>",
                     "img": "/img/case-detail/case-7/case-detail-img.jpg",
                     "img_mobile": "/img/case-detail/case-7/case-detail-mobile-img.jpg"
                 },
                 {
-                    "title": "Insights & idea",
-                    "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vestibulum leo ac eleifend auctor. Maecenas mi leo, facilisis et enim sit amet, rhoncus tempus purus. Nunc rutrum egestas lorem, fermentum euismod metus rhoncus non.</p><p>Quisque et ligula eu arcu scelerisque sagittis. Duis magna leo, vehicula ac ultricies a, dictum eget nulla. Aenean sodales vestibulum interdum. Praesent molestie id lorem vitae vulputate.</p>",
+                    "title": "Five Days Without a Conventional Brief",
+                    "text": "<p>The workshop deliberately had no rigid structure, corporate agenda or expected outcome. For five days, we shared thoughts about design, bathing, wellbeing and the everyday rituals associated with feeling good.</p><p>The conversation moved freely between personal memories, experiences, film scenes, tastes, humour, objects and behaviours. Rather than directing the designers towards a product category or commercial brief, I wanted the discussion to accumulate naturally.</p><p>At the end of the five days, I asked one simple question:</p><p>Based on everything that had stayed with you from these conversations, would you design your ideal bathroom? The brief therefore came at the end of the research, not at the beginning. This reversed the usual sequence of product development. Instead of starting with a predefined solution, we first built a broader understanding from which new possibilities could emerge.</p>",
                     "img": "/img/case-detail/case-7/case-detail-img.jpg",
                     "img_mobile": "/img/case-detail/case-7/case-detail-mobile-img.jpg"
+                },
+                {
+                    "title": "Reading the Individual Visions",
+                    "text": "<p>When I studied the resulting sketches, I noticed a recurring pattern. In each proposal, one particular element had become the protagonist of the bathroom. For one designer it was the surfaces surrounding the body; for another, personal care rituals; for another, the bathtub itself.</p><p>The projects were highly individual, but together they revealed something more useful. Instead of searching for a single definition of the ideal bathroom, they showed that the bathroom could be understood as a collection of emotional, functional and sensory experiences.</p><p>This led me to imagine all the proposals existing together in one fictional bathroom: coherent as an exhibition, but deliberately fragmented, contradictory and almost schizophrenic as a single space.</p>",
+                    "img": "/img/case-detail/case-7/case-detail-img.jpg",
+                    "img_mobile": "/img/case-detail/case-7/case-detail-mobile-img.jpg"
+                },
+                {
+                    "title": "From Research to Exhibition to Product",
+                    "text": "<p>That idea became Good Time Bath Time, exhibited in Milan in 2016.</p><p>The original workshop sketches were developed into physical prototypes and brought together in a large gallery installation.</p><p>The exhibition was not conceived as a conventional product launch. It was the physical outcome of the research and a way of making different interpretations of bathing visible at full scale. From there, my role shifted from curating experimentation to directing how selected ideas could continue into VitrA's product development process.</p><p>Some of the strongest ideas were taken further with our development and manufacturing teams and ultimately contributed to the creation of Plural, which became one of VitrA's most recognisable bathroom collections. The process created a clear progression: conversation became insight, insight became experimentation, experimentation became an exhibition, and selected ideas became commercially viable products.</p>",
+                    "img": "/img/case-detail/case-7/case-detail-img.jpg",
+                    "img_mobile": "/img/case-detail/case-7/case-detail-mobile-img.jpg"
+                },
+                {
+                    "title": "",
+                    "text": "<p>For me, Good Time Bath Time confirmed something fundamental about design leadership: the role is not always to provide the answer, but to create the right conditions, ask the right question and build a process through which ambiguity can become direction and, ultimately, real product development.</p>"
                 }
             ],
             "sliderArea": {
