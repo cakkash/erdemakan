@@ -53,7 +53,7 @@
                               
                               
                     </a>
-                    <a title="Erdem Akan Medium" target="_blank" rel="noreferrer" href="#">
+                    <a title="Erdem Akan Medium" target="_blank" rel="noreferrer" href="https://erdemakan.medium.com">
                          <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
                               <path d="M7.49007 10.468C7.51606 10.2051 7.41789 9.94522 7.22547 9.76829L5.2646 7.35975V7H11.3528L16.0586 17.5242L20.1961 7H26V7.35975L24.3234 8.99872C24.1788 9.11115 24.1071 9.29558 24.137 9.4784V21.5216C24.1071 21.7044 24.1788 21.8891 24.3234 22.0013L25.9606 23.6402V24H17.7252V23.6402L19.4212 21.9611C19.5879 21.7912 19.5879 21.7414 19.5879 21.4815V11.7472L14.8721 23.9604H14.2347L8.74509 11.7472V19.9327C8.69941 20.2769 8.8115 20.6233 9.04906 20.8722L11.2548 23.6006V23.9604H5V23.6006L7.20579 20.8722C7.44177 20.623 7.5473 20.2742 7.49007 19.9327V10.468Z" fill="#231F20"/>
                          </svg>
@@ -100,7 +100,7 @@
                     <a title="Erdem Akan Twitter" target="_blank" rel="noreferrer" href="https://twitter.com/erdem_akan">Twitter</a>
                </div>
                <div class="footer-link-block last">
-                    <a title="Erdem Akan Medium" target="_blank" rel="noreferrer" href="#">Medium</a>
+                    <a title="Erdem Akan Medium" target="_blank" rel="noreferrer" href="https://erdemakan.medium.com">Medium</a>
                     <a title="Erdem Akan Youtube" target="_blank" rel="noreferrer" href="#">Youtube</a>
                     <a title="Erdem Akan Pinterest" target="_blank" rel="noreferrer" href="https://tr.pinterest.com/erdemakan/">Pinterest</a>
                </div>
