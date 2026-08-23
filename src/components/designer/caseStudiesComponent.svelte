@@ -21,6 +21,7 @@
             <div class="text-item">
                 <h2>{item.title}</h2>
                 <p>{item.text}</p>
+                {#if item.role}<p><strong>{item.role}</strong></p>{/if}
                 <a href={CASE_DETAIL.replace(":detail",item.link)}>
                     <svg width="34" height="2" viewBox="0 0 34 2" fill="none" xmlns="http://www.w3.org/2000/svg">
                         <rect width="34" height="2" fill="black"/>

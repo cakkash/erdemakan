@@ -69,8 +69,8 @@
             "next_collection": {
                 "img": "/img/case-detail/case-2/next-collection.jpg",
                 "img_mobile": "/img/case-detail/case-2/next-mobile-collection.jpg",
-                "alt": "Sitbag Studio Collection",
-                "title": "Sitbag Studio Collection",
+                "alt": "Reincarnation Collection",
+                "title": "Reincarnation Collection",
                 "link": "sitbag-studio-collection"
             }
         },
@@ -141,8 +141,8 @@
             "next_collection": {
                 "img": "/img/case-detail/case-3/next-collection.jpg",
                 "img_mobile": "/img/case-detail/case-3/next-mobile-collection.jpg",
-                "alt": "Turkish Reforms Collection",
-                "title": "Turkish Reforms Collection",
+                "alt": "Brand Experience for Divan",
+                "title": "Brand Experience for Divan",
                 "link": "turkish-reforms-collection"
             }
         },
@@ -213,8 +213,8 @@
             "next_collection": {
                 "img": "/img/case-detail/case-4/next-collection.jpg",
                 "img_mobile": "/img/case-detail/case-4/next-mobile-collection.jpg",
-                "alt": "Paşabahçe",
-                "title": "Paşabahçe",
+                "alt": "Cliché Collection",
+                "title": "Cliché Collection",
                 "link": "pasabahce"
             }
         },
@@ -285,8 +285,8 @@
             "next_collection": {
                 "img": "/img/case-detail/case-5/next-collection.jpg",
                 "img_mobile": "/img/case-detail/case-5/next-mobile-collection.jpg",
-                "alt": "Sitbag Studio Collection",
-                "title": "Sitbag Studio Collection",
+                "alt": "Glass in the Bedroom for Nude",
+                "title": "Glass in the Bedroom for Nude",
                 "link": "case-study-5"
             }
         },
@@ -357,8 +357,8 @@
             "next_collection": {
                 "img": "/img/case-detail/case-6/next-collection.jpg",
                 "img_mobile": "/img/case-detail/case-6/next-mobile-collection.jpg",
-                "alt": "Turkish Reforms Collection",
-                "title": "Turkish Reforms Collection",
+                "alt": "Spaces for VitrA",
+                "title": "Spaces for VitrA",
                 "link": "case-study-6"
             }
         },
@@ -429,8 +429,8 @@
             "next_collection": {
                 "img": "/img/case-detail/case-7/next-collection.jpg",
                 "img_mobile": "/img/case-detail/case-7/next-mobile-collection.jpg",
-                "alt": "Paşabahçe",
-                "title": "Paşabahçe",
+                "alt": "Good Time Bath Time",
+                "title": "Good Time Bath Time",
                 "link": "case-study-7"
             }
         },
@@ -447,9 +447,7 @@
                 },
                 {
                     "title": "The Question Behind the Research",
-                    "text": "<p>When I became Design Director of VitrA in 2014, I realised that managing design well required more than managing projects, products and designers. I first needed to question the bathroom itself: what it meant to people, how it was experienced, and what could make time spent there genuinely valuable.</p><p>In 2015, I invited a group of designers from different cultural and professional backgrounds to a five-day workshop. The intention was not to solve a predefined product problem. Before defining what VitrA should design, I wanted to create space to understand what a bathroom experience could mean.</p><p>My role was both design director and curator: I initiated the research, brought the designers together, shaped the conditions for the workshop, interpreted the resulting work and developed the curatorial concept that brought their individual proposals together as Good Time Bath Time.</p>",
-                    "img": "/img/case-detail/case-7/case-detail-img.jpg",
-                    "img_mobile": "/img/case-detail/case-7/case-detail-mobile-img.jpg"
+                    "text": "<p>When I became Design Director of VitrA in 2014, I realised that managing design well required more than managing projects, products and designers. I first needed to question the bathroom itself: what it meant to people, how it was experienced, and what could make time spent there genuinely valuable.</p><p>In 2015, I invited a group of designers from different cultural and professional backgrounds to a five-day workshop. The intention was not to solve a predefined product problem. Before defining what VitrA should design, I wanted to create space to understand what a bathroom experience could mean.</p><p>My role was both design director and curator: I initiated the research, brought the designers together, shaped the conditions for the workshop, interpreted the resulting work and developed the curatorial concept that brought their individual proposals together as Good Time Bath Time.</p>"
                 },
                 {
                     "title": "Five Days Without a Conventional Brief",
@@ -459,9 +457,7 @@
                 },
                 {
                     "title": "Reading the Individual Visions",
-                    "text": "<p>When I studied the resulting sketches, I noticed a recurring pattern. In each proposal, one particular element had become the protagonist of the bathroom. For one designer it was the surfaces surrounding the body; for another, personal care rituals; for another, the bathtub itself.</p><p>The projects were highly individual, but together they revealed something more useful. Instead of searching for a single definition of the ideal bathroom, they showed that the bathroom could be understood as a collection of emotional, functional and sensory experiences.</p><p>This led me to imagine all the proposals existing together in one fictional bathroom: coherent as an exhibition, but deliberately fragmented, contradictory and almost schizophrenic as a single space.</p>",
-                    "img": "/img/case-detail/case-7/case-detail-img.jpg",
-                    "img_mobile": "/img/case-detail/case-7/case-detail-mobile-img.jpg"
+                    "text": "<p>When I studied the resulting sketches, I noticed a recurring pattern. In each proposal, one particular element had become the protagonist of the bathroom. For one designer it was the surfaces surrounding the body; for another, personal care rituals; for another, the bathtub itself.</p><p>The projects were highly individual, but together they revealed something more useful. Instead of searching for a single definition of the ideal bathroom, they showed that the bathroom could be understood as a collection of emotional, functional and sensory experiences.</p><p>This led me to imagine all the proposals existing together in one fictional bathroom: coherent as an exhibition, but deliberately fragmented, contradictory and almost schizophrenic as a single space.</p>"
                 },
                 {
                     "title": "From Research to Exhibition to Product",
@@ -475,7 +471,7 @@
                 }
             ],
             "sliderArea": {
-                "title": "Creation & implementation",
+                "title": "Good Time Bath Time",
                 "images": [
                     {
                         "id": 1,
@@ -485,40 +481,35 @@
                     },
                     {
                         "id": 2,
-                        "title": "Creation & implementation",
                         "img": "/img/case-detail/case-7/detail-slider-img.jpg",
                         "img_mobile": "/img/case-detail/case-7/detail-slider-mobile-img.jpg",
                         "alt": "case-detail"
                     },
                     {
                         "id": 3,
-                        "title": "Creation & implementation",
                         "img": "/img/case-detail/case-7/detail-slider-img.jpg",
                         "img_mobile": "/img/case-detail/case-7/detail-slider-mobile-img.jpg",
                         "alt": "case-detail"
                     },
                     {
                         "id": 4,
-                        "title": "Creation & implementation",
                         "img": "/img/case-detail/case-7/detail-slider-img.jpg",
                         "img_mobile": "/img/case-detail/case-7/detail-slider-mobile-img.jpg",
                         "alt": "case-detail"
                     },
                     {
                         "id": 5,
-                        "title": "Creation & implementation",
                         "img": "/img/case-detail/case-7/detail-slider-img.jpg",
                         "img_mobile": "/img/case-detail/case-7/detail-slider-mobile-img.jpg",
                         "alt": "case-detail"
                     }
-                ],
-                "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vestibulum leo ac eleifend auctor. Maecenas mi leo, facilisis et enim sit amet, rhoncus tempus purus. Nunc rutrum egestas lorem, fermentum euismod metus rhoncus non.</p><p>Quisque et ligula eu arcu scelerisque sagittis. Duis magna leo, vehicula ac ultricies a, dictum eget nulla. Aenean sodales vestibulum interdum. Praesent molestie id lorem vitae vulputate.</p>"
+                ]
             },
             "next_collection": {
                 "img": "/img/case-detail/case-1/next-collection.jpg",
                 "img_mobile": "/img/case-detail/case-1/next-mobile-collection.jpg",
-                "alt": "Armaggan Centerpieces",
-                "title": "Armaggan Centerpieces",
+                "alt": "East Meets West",
+                "title": "East Meets West",
                 "link": "armaggan-centerpieces"
             }
         }

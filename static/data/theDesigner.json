@@ -62,57 +62,64 @@
                 "img": "/img/case-studies-img.jpg",
                 "img_mobile": "/img/case-studies-mobile-img.jpg",
                 "alt": "case-studies",
-                "title": "Armaggan Centerpieces",
-                "text": "Traditional craftsmanship and materials like silver, marble blended with contemporary design to create centerpiece collection with more than 50 items for Armaggan, the most prestigious brand from Turkey. 2009",
-                "link": "armaggan-centerpieces"
+                "title": "East Meets West",
+                "text": "How a familiar cultural object became an independent design opportunity with international reach.",
+                "link": "armaggan-centerpieces",
+                "role": "Designer / Entrepreneur"
             },
             {
                 "img": "/img/case-studies-img-2.jpg",
                 "img_mobile": "/img/case-studies-mobile-img-2.jpg",
                 "alt": "case-studies",
-                "title": "Sitbag Studio Collection",
-                "text": "As part of the “Reincarnation Collection”, The Suitcases are reincarnated to chairs with all the memories from previous lives. The 7 piece installation features sitbags’ very first version from 2003 designed by Erdem, as well as other new typologies such as the easychair, the rocker, the chaise longue, the beanbag and chair on rollers. The series aim to question concepts such as production consumption, function-dysfunction, industrial-handmade from the design point of view.",
-                "link": "sitbag-studio-collection"
+                "title": "Reincarnation Collection",
+                "text": "An early exploration of how design can create new value without erasing what already exists.",
+                "link": "sitbag-studio-collection",
+                "role": "Experimental Designer / Entrepreneur"
             },
             {
                 "img": "/img/case-studies-img-3.jpg",
                 "img_mobile": "/img/case-studies-mobile-img-3.jpg",
                 "alt": "case-studies",
-                "title": "Turkish Reforms Collection",
-                "text": "As part of “Turkish Reforms” collection, experimental furnitures and products are designed. Among others: Grandbazaar Sofa, Big Iznik, Hadji Bowl and Morphing Beads 'Grandbazaar Sofa' is a visual delusion based on a very popular myth of flying carpets. This lean bench can carry magically up to 500 kg’s.",
-                "link": "turkish-reforms-collection"
+                "title": "Brand Experience for Divan",
+                "text": "How questioning a simple brief revealed a much larger opportunity to bring coherence to a heritage brand.",
+                "link": "turkish-reforms-collection",
+                "role": "Designer / Consultant"
             },
             {
                 "img": "/img/case-studies-img-4.jpg",
                 "img_mobile": "/img/case-studies-mobile-img-4.jpg",
                 "alt": "case-studies",
-                "title": "Paşabahçe",
-                "text": "glass designs for handmade production.",
-                "link": "pasabahce"
+                "title": "Cliché Collection",
+                "text": "An independent experiment in redefining luxury, testing craftsmanship and listening to the market.",
+                "link": "pasabahce",
+                "role": "Designer / Entrepreneur"
             },
             {
                 "img": "/img/case-studies-img-5.jpg",
                 "img_mobile": "/img/case-studies-mobile-img-5.jpg",
                 "alt": "case-studies",
-                "title": "Sitbag Studio Collection",
-                "text": "As part of the “Reincarnation Collection”, The Suitcases are reincarnated to chairs with all the memories from previous lives. The 7 piece installation features sitbags’ very first version from 2003 designed by Erdem, as well as other new typologies such as the easychair, the rocker, the chaise longue, the beanbag and chair on rollers. The series aim to question concepts such as production consumption, function-dysfunction, industrial-handmade from the design point of view.",
-                "link": "case-study-5"
+                "title": "Glass in the Bedroom for Nude",
+                "text": "How rethinking where a material belongs can open an entirely new product territory.",
+                "link": "case-study-5",
+                "role": "Product Designer"
             },
             {
                 "img": "/img/case-studies-img-6.jpg",
                 "img_mobile": "/img/case-studies-mobile-img-6.jpg",
                 "alt": "case-studies",
-                "title": "Turkish Reforms Collection",
-                "text": "As part of “Turkish Reforms” collection, experimental furnitures and products are designed. Among others: Grandbazaar Sofa, Big Iznik, Hadji Bowl and Morphing Beads 'Grandbazaar Sofa' is a visual delusion based on a very popular myth of flying carpets. This lean bench can carry magically up to 500 kg’s.",
-                "link": "case-study-6"
+                "title": "Spaces for VitrA",
+                "text": "How a design idea evolved into a scalable spatial language across products, places and brand experiences.",
+                "link": "case-study-6",
+                "role": "Concept Designer / Design Director"
             },
             {
                 "img": "/img/case-studies-img-7.jpg",
                 "img_mobile": "/img/case-studies-mobile-img-7.jpg",
                 "alt": "case-studies",
-                "title": "Paşabahçe",
-                "text": "glass designs for handmade production.",
-                "link": "case-study-7"
+                "title": "Good Time Bath Time",
+                "text": "How open-ended research can move from conversation and experimentation to real product innovation.",
+                "link": "case-study-7",
+                "role": "Design Director / Curator"
             }
         ]
     }
