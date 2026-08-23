@@ -476,10 +476,6 @@
                     "img": "/img/case-detail/case-7/case-detail-img.jpg",
                     "img_mobile": "/img/case-detail/case-7/case-detail-mobile-img.jpg",
                     "alt": "case-detail"
-                },
-                {
-                    "title": "",
-                    "text": "<p>For me, Good Time Bath Time confirmed something fundamental about design leadership: the role is not always to provide the answer, but to create the right conditions, ask the right question and build a process through which ambiguity can become direction and, ultimately, real product development.</p>"
                 }
             ],
             "sliderArea": {
@@ -515,7 +511,8 @@
                         "img_mobile": "/img/case-detail/case-7/detail-slider-mobile-img.jpg",
                         "alt": "case-detail"
                     }
-                ]
+                ],
+                "text": "<p>For me, Good Time Bath Time confirmed something fundamental about design leadership: the role is not always to provide the answer, but to create the right conditions, ask the right question and build a process through which ambiguity can become direction and, ultimately, real product development.</p>"
             },
             "next_collection": {
                 "img": "/img/case-detail/case-1/next-collection.jpg",
