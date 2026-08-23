@@ -2,7 +2,7 @@
     "success": {
         "armaggan-centerpieces": {
             "banner": {
-                "title": "Armaggan Centerpieces",
+                "title": "East Meets West",
                 "img": "/img/case-detail/case-1/case-detail-banner-img.jpg",
                 "img_mobile": "/img/case-detail/case-1/case-detail-banner-mobile-img.jpg"
             },
@@ -76,7 +76,7 @@
         },
         "sitbag-studio-collection": {
             "banner": {
-                "title": "Sitbag Studio Collection",
+                "title": "Reincarnation Collection",
                 "img": "/img/case-detail/case-2/case-detail-banner-img.jpg",
                 "img_mobile": "/img/case-detail/case-2/case-detail-banner-mobile-img.jpg"
             },
@@ -148,7 +148,7 @@
         },
         "turkish-reforms-collection": {
             "banner": {
-                "title": "Turkish Reforms Collection",
+                "title": "Brand Experience for Divan",
                 "img": "/img/case-detail/case-3/case-detail-banner-img.jpg",
                 "img_mobile": "/img/case-detail/case-3/case-detail-banner-mobile-img.jpg"
             },
@@ -220,7 +220,7 @@
         },
         "pasabahce": {
             "banner": {
-                "title": "Paşabahçe",
+                "title": "Cliché Collection",
                 "img": "/img/case-detail/case-4/case-detail-banner-img.jpg",
                 "img_mobile": "/img/case-detail/case-4/case-detail-banner-mobile-img.jpg"
             },
@@ -292,7 +292,7 @@
         },
         "case-study-5": {
             "banner": {
-                "title": "Sitbag Studio Collection",
+                "title": "Glass in the Bedroom for Nude",
                 "img": "/img/case-detail/case-5/case-detail-banner-img.jpg",
                 "img_mobile": "/img/case-detail/case-5/case-detail-banner-mobile-img.jpg"
             },
@@ -364,7 +364,7 @@
         },
         "case-study-6": {
             "banner": {
-                "title": "Turkish Reforms Collection",
+                "title": "Spaces for VitrA",
                 "img": "/img/case-detail/case-6/case-detail-banner-img.jpg",
                 "img_mobile": "/img/case-detail/case-6/case-detail-banner-mobile-img.jpg"
             },
