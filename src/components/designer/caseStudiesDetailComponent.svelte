@@ -231,7 +231,7 @@
                  </div>
             </div>
             <div class="text-item">
-                {@html sliderArea.text}
+                {@html sliderArea.text || ''}
             </div>
         </div>
         {#if next_collection}
