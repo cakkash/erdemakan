@@ -78,7 +78,9 @@
                 "img_mobile": "/img/case-detail/case-2/next-mobile-collection.jpg",
                 "alt": "Reincarnation Collection",
                 "title": "Reincarnation Collection",
-                "link": "sitbag-studio-collection"
+                "link": "sitbag-studio-collection",
+                "text": "An early exploration of how design can create new value without erasing what already exists.",
+                "role": "Experimental Designer / Entrepreneur"
             }
         },
         "sitbag-studio-collection": {
@@ -159,7 +161,9 @@
                 "img_mobile": "/img/case-detail/case-3/next-mobile-collection.jpg",
                 "alt": "Brand Experience for Divan",
                 "title": "Brand Experience for Divan",
-                "link": "turkish-reforms-collection"
+                "link": "turkish-reforms-collection",
+                "text": "How questioning a simple brief revealed a much larger opportunity to bring coherence to a heritage brand.",
+                "role": "Designer / Consultant"
             }
         },
         "turkish-reforms-collection": {
@@ -240,7 +244,9 @@
                 "img_mobile": "/img/case-detail/case-4/next-mobile-collection.jpg",
                 "alt": "Cliché Collection",
                 "title": "Cliché Collection",
-                "link": "pasabahce"
+                "link": "pasabahce",
+                "text": "An independent experiment in redefining luxury, testing craftsmanship and listening to the market.",
+                "role": "Designer / Entrepreneur"
             }
         },
         "pasabahce": {
@@ -321,7 +327,9 @@
                 "img_mobile": "/img/case-detail/case-5/next-mobile-collection.jpg",
                 "alt": "Glass in the Bedroom for Nude",
                 "title": "Glass in the Bedroom for Nude",
-                "link": "case-study-5"
+                "link": "case-study-5",
+                "text": "How rethinking where a material belongs can open an entirely new product territory.",
+                "role": "Product Designer"
             }
         },
         "case-study-5": {
@@ -402,7 +410,9 @@
                 "img_mobile": "/img/case-detail/case-6/next-mobile-collection.jpg",
                 "alt": "Spaces for VitrA",
                 "title": "Spaces for VitrA",
-                "link": "case-study-6"
+                "link": "case-study-6",
+                "text": "How a design idea evolved into a scalable spatial language across products, places and brand experiences.",
+                "role": "Concept Designer / Design Director"
             }
         },
         "case-study-6": {
@@ -483,7 +493,9 @@
                 "img_mobile": "/img/case-detail/case-7/next-mobile-collection.jpg",
                 "alt": "Good Time Bath Time",
                 "title": "Good Time Bath Time",
-                "link": "case-study-7"
+                "link": "case-study-7",
+                "text": "How open-ended research can move from conversation and experimentation to real product innovation.",
+                "role": "Design Director / Curator"
             }
         },
         "case-study-7": {
@@ -560,7 +572,9 @@
                 "img_mobile": "/img/case-detail/case-1/next-mobile-collection.jpg",
                 "alt": "East Meets West",
                 "title": "East Meets West",
-                "link": "armaggan-centerpieces"
+                "link": "armaggan-centerpieces",
+                "text": "How a familiar cultural object became an independent design opportunity with international reach.",
+                "role": "Designer / Entrepreneur"
             }
         }
     }
