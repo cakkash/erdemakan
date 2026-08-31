@@ -240,8 +240,6 @@
             <div class="next-collection-block">
                 <span>Next</span>
                 <h3>{next_collection.title}</h3>
-                {#if next_collection.text}<p>{next_collection.text}</p>{/if}
-                {#if next_collection.role}<p class="role-item"><strong>{next_collection.role}</strong></p>{/if}
                 <div class="next-collection-link-item" on:click={()=>goTo(next_collection)}>
                     <svg width="34" height="2" viewBox="0 0 34 2" fill="none" xmlns="http://www.w3.org/2000/svg">
                         <rect width="34" height="2" fill="black"/>
