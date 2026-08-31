@@ -59,8 +59,8 @@
         ],
         "case_studies": [
             {
-                "img": "/img/case-studies-img.jpg",
-                "img_mobile": "/img/case-studies-mobile-img.jpg",
+                "img": "/img/case-cards/card-1/case-studies-img.jpg",
+                "img_mobile": "/img/case-cards/card-1/case-studies-mobile-img.jpg",
                 "alt": "case-studies",
                 "title": "East Meets West",
                 "text": "How a familiar cultural object became an independent design opportunity with international reach.",
@@ -68,8 +68,8 @@
                 "role": "Designer / Entrepreneur"
             },
             {
-                "img": "/img/case-studies-img-2.jpg",
-                "img_mobile": "/img/case-studies-mobile-img-2.jpg",
+                "img": "/img/case-cards/card-2/case-studies-img.jpg",
+                "img_mobile": "/img/case-cards/card-2/case-studies-mobile-img.jpg",
                 "alt": "case-studies",
                 "title": "Reincarnation Collection",
                 "text": "An early exploration of how design can create new value without erasing what already exists.",
@@ -77,8 +77,8 @@
                 "role": "Experimental Designer / Entrepreneur"
             },
             {
-                "img": "/img/case-studies-img-3.jpg",
-                "img_mobile": "/img/case-studies-mobile-img-3.jpg",
+                "img": "/img/case-cards/card-3/case-studies-img.jpg",
+                "img_mobile": "/img/case-cards/card-3/case-studies-mobile-img.jpg",
                 "alt": "case-studies",
                 "title": "Brand Experience for Divan",
                 "text": "How questioning a simple brief revealed a much larger opportunity to bring coherence to a heritage brand.",
@@ -86,8 +86,8 @@
                 "role": "Designer / Consultant"
             },
             {
-                "img": "/img/case-studies-img-4.jpg",
-                "img_mobile": "/img/case-studies-mobile-img-4.jpg",
+                "img": "/img/case-cards/card-4/case-studies-img.jpg",
+                "img_mobile": "/img/case-cards/card-4/case-studies-mobile-img.jpg",
                 "alt": "case-studies",
                 "title": "Cliché Collection",
                 "text": "An independent experiment in redefining luxury, testing craftsmanship and listening to the market.",
@@ -95,8 +95,8 @@
                 "role": "Designer / Entrepreneur"
             },
             {
-                "img": "/img/case-studies-img-5.jpg",
-                "img_mobile": "/img/case-studies-mobile-img-5.jpg",
+                "img": "/img/case-cards/card-5/case-studies-img.jpg",
+                "img_mobile": "/img/case-cards/card-5/case-studies-mobile-img.jpg",
                 "alt": "case-studies",
                 "title": "Glass in the Bedroom for Nude",
                 "text": "How rethinking where a material belongs can open an entirely new product territory.",
@@ -104,8 +104,8 @@
                 "role": "Product Designer"
             },
             {
-                "img": "/img/case-studies-img-6.jpg",
-                "img_mobile": "/img/case-studies-mobile-img-6.jpg",
+                "img": "/img/case-cards/card-6/case-studies-img.jpg",
+                "img_mobile": "/img/case-cards/card-6/case-studies-mobile-img.jpg",
                 "alt": "case-studies",
                 "title": "Spaces for VitrA",
                 "text": "How a design idea evolved into a scalable spatial language across products, places and brand experiences.",
@@ -113,8 +113,8 @@
                 "role": "Concept Designer / Design Director"
             },
             {
-                "img": "/img/case-studies-img-7.jpg",
-                "img_mobile": "/img/case-studies-mobile-img-7.jpg",
+                "img": "/img/case-cards/card-7/case-studies-img.jpg",
+                "img_mobile": "/img/case-cards/card-7/case-studies-mobile-img.jpg",
                 "alt": "case-studies",
                 "title": "Good Time Bath Time",
                 "text": "How open-ended research can move from conversation and experimentation to real product innovation.",
