@@ -8,26 +8,34 @@
             },
             "descArea": [
                 {
-                    "title": "The story",
-                    "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vestibulum leo ac eleifend auctor. Maecenas mi leo, facilisis et enim sit amet, rhoncus tempus purus. Nunc rutrum egestas lorem, fermentum euismod metus rhoncus non.</p><p>Quisque et ligula eu arcu scelerisque sagittis. Duis magna leo, vehicula ac ultricies a, dictum eget nulla. Aenean sodales vestibulum interdum. Praesent molestie id lorem vitae vulputate.</p>"
+                    "title": "Designer / Entrepreneur",
+                    "text": "<p>How a familiar cultural object became an independent design opportunity with international reach.</p>"
                 },
                 {
-                    "title": "The moment & first principles",
-                    "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vestibulum leo ac eleifend auctor. Maecenas mi leo, facilisis et enim sit amet, rhoncus tempus purus. Nunc rutrum egestas lorem, fermentum euismod metus rhoncus non.</p><p>Quisque et ligula eu arcu scelerisque sagittis. Duis magna leo, vehicula ac ultricies a, dictum eget nulla. Aenean sodales vestibulum interdum. Praesent molestie id lorem vitae vulputate.</p>",
-                    "img": "/img/case-detail/case-1/case-detail-img.jpg",
-                    "img_mobile": "/img/case-detail/case-1/case-detail-mobile-img.jpg",
-                    "alt": "The moment & first principles"
+                    "title": "A Question in a Factory Office",
+                    "text": "<p>It was a hot summer day in the early 2000s at Paşabahçe's Denizli factory. I was in the factory manager's office discussing production details for another project when the conversation suddenly shifted. At one point, he looked at me and said, \"Erdem, there are some things in life you simply cannot change. Take this tea glass, for example.\" Someone had just entered the room to serve tea, and he lifted the familiar narrow-waisted glass to make his point.</p><p>The comment stayed with me.</p><p>On the flight back to Istanbul, I kept asking myself the same question: could a form that had become so deeply embedded in everyday life, and almost anonymous through familiarity, really be changed? For the entire one-hour flight, I filled pages of my sketchbook with alternatives. Most were not convincing. Then another thought emerged. Perhaps the answer was not to redesign the glass at all, but to recognise and elevate what was already there.</p>"
                 },
                 {
-                    "title": "Insights & idea",
-                    "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vestibulum leo ac eleifend auctor. Maecenas mi leo, facilisis et enim sit amet, rhoncus tempus purus. Nunc rutrum egestas lorem, fermentum euismod metus rhoncus non.</p><p>Quisque et ligula eu arcu scelerisque sagittis. Duis magna leo, vehicula ac ultricies a, dictum eget nulla. Aenean sodales vestibulum interdum. Praesent molestie id lorem vitae vulputate.</p>",
+                    "title": "Protecting Rather Than Replacing",
+                    "text": "<p>That change of perspective became the starting point of East Meets West.</p><p>Instead of altering the traditional Turkish tea glass, I placed it inside a simple cylindrical outer glass. The straight external form acted almost like a protective envelope around the familiar inner shape. It framed the anonymous object, elevated it and made its cultural value visible.</p><p>The intervention was deliberately minimal. The familiar object remained intact, but it was now seen through another layer of design awareness. The project was not about creating a new icon. It was about making an existing cultural icon visible again.</p><p>East Meets West was a self-initiated project. I developed the idea independently, took it through production and launched it through my own design brand, maybedesign.</p>",
                     "img": "/img/case-detail/case-1/case-detail-img.jpg",
                     "img_mobile": "/img/case-detail/case-1/case-detail-mobile-img.jpg",
-                    "alt": "Insights & idea"
+                    "alt": "case-detail"
+                },
+                {
+                    "title": "A Fast Idea, a Long Development",
+                    "text": "<p>The concept appeared quickly but developing it into a convincing product took around nine months. I worked closely with borosilicate glass craftsmen, testing hundreds of variations before achieving the precise relationship between the inner and outer forms. The success of the design depended less on visual complexity than on proportion, joining, thickness and the quality of execution.</p><p>Once launched through maybedesign, East Meets West became a bestseller for more than a decade and attracted significant international attention through sales, exhibitions and design publications. Its longevity demonstrated that a culturally specific idea could travel far beyond its original context when translated into a clear and carefully developed product. What began without a client brief became an independently produced design with sustained international demand.</p>"
+                },
+                {
+                    "title": "From Object to Design Philosophy",
+                    "text": "<p>Over time, I became increasingly interested in what the glass symbolised. I began to read the straight cylinder as a rational, Western archetype and the narrow-waisted tea glass as a more emotional and seemingly irrational Eastern form. Further east lies another ancient culture, China, with its own familiar tea vessel: the low, tulip-like porcelain cup.</p><p>This led me to imagine a sequence of forms moving across an invented cultural geography from the Far East to the Middle East and then towards the West. That line of thought later developed into From Beijing to Istanbul with Love.</p><p>Looking back, the entire journey began with an informal conversation in a factory office. East Meets West taught me that design does not always begin by changing an object. Sometimes it begins by understanding why an object should not be changed and finding a new way for people to value it. It also became an early example of how cultural insight, product development and entrepreneurship could come together in a single project.</p>",
+                    "img": "/img/case-detail/case-1/case-detail-img.jpg",
+                    "img_mobile": "/img/case-detail/case-1/case-detail-mobile-img.jpg",
+                    "alt": "case-detail"
                 }
             ],
             "sliderArea": {
-                "title": "Creation & implementation",
+                "title": "",
                 "images": [
                     {
                         "id": 1,
@@ -63,8 +71,7 @@
                         "img_mobile": "/img/case-detail/case-1/detail-slider-mobile-img.jpg",
                         "alt": "case-detail"
                     }
-                ],
-                "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vestibulum leo ac eleifend auctor. Maecenas mi leo, facilisis et enim sit amet, rhoncus tempus purus. Nunc rutrum egestas lorem, fermentum euismod metus rhoncus non.</p><p>Quisque et ligula eu arcu scelerisque sagittis. Duis magna leo, vehicula ac ultricies a, dictum eget nulla. Aenean sodales vestibulum interdum. Praesent molestie id lorem vitae vulputate.</p>"
+                ]
             },
             "next_collection": {
                 "img": "/img/case-detail/case-2/next-collection.jpg",
@@ -82,26 +89,34 @@
             },
             "descArea": [
                 {
-                    "title": "The story",
-                    "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vestibulum leo ac eleifend auctor. Maecenas mi leo, facilisis et enim sit amet, rhoncus tempus purus. Nunc rutrum egestas lorem, fermentum euismod metus rhoncus non.</p><p>Quisque et ligula eu arcu scelerisque sagittis. Duis magna leo, vehicula ac ultricies a, dictum eget nulla. Aenean sodales vestibulum interdum. Praesent molestie id lorem vitae vulputate.</p>"
+                    "title": "Experimental Designer / Entrepreneur",
+                    "text": "<p>An early exploration of how design can create new value without erasing what already exists.</p>"
                 },
                 {
-                    "title": "The moment & first principles",
-                    "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vestibulum leo ac eleifend auctor. Maecenas mi leo, facilisis et enim sit amet, rhoncus tempus purus. Nunc rutrum egestas lorem, fermentum euismod metus rhoncus non.</p><p>Quisque et ligula eu arcu scelerisque sagittis. Duis magna leo, vehicula ac ultricies a, dictum eget nulla. Aenean sodales vestibulum interdum. Praesent molestie id lorem vitae vulputate.</p>",
+                    "title": "Before Sustainability Became Mainstream",
+                    "text": "<p>In the early 2000s, recycling was not yet a mainstream design concern. Sustainability had not reached the level of urgency or visibility it has today, and for many designers it remained outside the core of the design agenda.</p><p>At the same time, artists, designers and thinkers were already questioning consumer culture, limited resources and the consequences of constant production. These questions were becoming increasingly important to me.</p><p>I was interested in moving beyond the conventional idea of recycling as simply recovering raw material for industrial use. Could design give an existing object a second chance without erasing its first life? That became the central question behind the Reincarnation Collection. I developed Reincarnation independently, using the collection as a way to test these ideas through real objects rather than leaving them as a theoretical position.</p>"
+                },
+                {
+                    "title": "Understanding the Previous Life of an Object",
+                    "text": "<p>The idea gradually developed around the notion of reincarnation. Rather than treating a discarded object as anonymous material, I wanted to understand what it had been, how it had been used and which memories or cultural associations were already embedded in it. The role of the designer was then to propose a new life that responded to that existing identity.</p><p>This echoed the idea of reincarnation in Eastern philosophies: the object continues to exist, but in another form and with another purpose. Its previous life is not erased. It becomes part of its new identity. The design process therefore began with interpretation rather than invention.</p>",
                     "img": "/img/case-detail/case-2/case-detail-img.jpg",
                     "img_mobile": "/img/case-detail/case-2/case-detail-mobile-img.jpg",
                     "alt": "case-detail"
                 },
                 {
-                    "title": "Insights & idea",
-                    "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vestibulum leo ac eleifend auctor. Maecenas mi leo, facilisis et enim sit amet, rhoncus tempus purus. Nunc rutrum egestas lorem, fermentum euismod metus rhoncus non.</p><p>Quisque et ligula eu arcu scelerisque sagittis. Duis magna leo, vehicula ac ultricies a, dictum eget nulla. Aenean sodales vestibulum interdum. Praesent molestie id lorem vitae vulputate.</p>",
+                    "title": "From Beer Bottle to Whisky Glass, From Suitcase to Chair",
+                    "text": "<p>In one series, used beer bottles were cut at the neck and their bases decorated with patterns inspired by Bohemian crystal. After a final polishing process, the bottles became whisky glasses. Within one object, two very different worlds came together: the industrial batch number of a mass-produced beer bottle and the visual language of highly crafted crystal. The previous life remained visible, but its value and meaning had changed.</p><p>Another series, Seatbag, transformed old suitcases into seating. In their first life, these objects had been designed for movement. In their second, they were given a quieter and more stationary existence. By opening a suitcase to the angle of a backrest, adding upholstery and introducing legs or a rocking structure, each could become a lounge chair or rocking chair.</p><p>These transformations showed that reuse could create not only environmental value, but also narrative, familiarity and a stronger emotional connection with the user.</p>"
+                },
+                {
+                    "title": "Resource, Communication and Participation",
+                    "text": "<p>The experiments became important to me not only as exercises in reuse, but also as a different way of approaching creativity. Instead of beginning with a blank sheet, the designer had to respond to what was already there: its form, history, limitations and cultural associations.</p><p>I also noticed how quickly these objects connected with people. Because the original objects were familiar, viewers could immediately recognise their previous lives and understand the transformation. Familiarity reduced the distance between the designer, the object and the audience. That made the design process more accessible and, in a sense, allowed people to become participants in the story rather than passive observers.</p><p>Existing materials and discarded objects could become sources of differentiation, storytelling and renewed value. Long before circularity became a mainstream corporate priority, the project helped shape a belief that has stayed with me: responsible resource use can strengthen desirability rather than diminish it.</p>",
                     "img": "/img/case-detail/case-2/case-detail-img.jpg",
                     "img_mobile": "/img/case-detail/case-2/case-detail-mobile-img.jpg",
                     "alt": "case-detail"
                 }
             ],
             "sliderArea": {
-                "title": "Creation & implementation",
+                "title": "",
                 "images": [
                     {
                         "id": 1,
@@ -137,8 +152,7 @@
                         "img_mobile": "/img/case-detail/case-2/detail-slider-mobile-img.jpg",
                         "alt": "case-detail"
                     }
-                ],
-                "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vestibulum leo ac eleifend auctor. Maecenas mi leo, facilisis et enim sit amet, rhoncus tempus purus. Nunc rutrum egestas lorem, fermentum euismod metus rhoncus non.</p><p>Quisque et ligula eu arcu scelerisque sagittis. Duis magna leo, vehicula ac ultricies a, dictum eget nulla. Aenean sodales vestibulum interdum. Praesent molestie id lorem vitae vulputate.</p>"
+                ]
             },
             "next_collection": {
                 "img": "/img/case-detail/case-3/next-collection.jpg",
@@ -156,26 +170,34 @@
             },
             "descArea": [
                 {
-                    "title": "The story",
-                    "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vestibulum leo ac eleifend auctor. Maecenas mi leo, facilisis et enim sit amet, rhoncus tempus purus. Nunc rutrum egestas lorem, fermentum euismod metus rhoncus non.</p><p>Quisque et ligula eu arcu scelerisque sagittis. Duis magna leo, vehicula ac ultricies a, dictum eget nulla. Aenean sodales vestibulum interdum. Praesent molestie id lorem vitae vulputate.</p>"
+                    "title": "Designer / Consultant",
+                    "text": "<p>How questioning a simple brief revealed a much larger opportunity to bring coherence to a heritage brand.</p>"
                 },
                 {
-                    "title": "The moment & first principles",
-                    "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vestibulum leo ac eleifend auctor. Maecenas mi leo, facilisis et enim sit amet, rhoncus tempus purus. Nunc rutrum egestas lorem, fermentum euismod metus rhoncus non.</p><p>Quisque et ligula eu arcu scelerisque sagittis. Duis magna leo, vehicula ac ultricies a, dictum eget nulla. Aenean sodales vestibulum interdum. Praesent molestie id lorem vitae vulputate.</p>",
+                    "title": "Refusing to Add More Noise",
+                    "text": "<p>In the early 2000s, we were approached to design a New Year gift box for Divan, one of Turkey's most established confectionery and hospitality brands. After visiting stores, reviewing the existing packaging and speaking with the management team, we reached an unexpected conclusion: the brand did not need another box.</p><p>At the time, Divan's visual and product language was fragmented across stores, packaging and chocolates. Adding one more design to an already crowded system would only increase the noise. We therefore declined the initial project.</p><p>The real design problem was not the absence of another package. It was the absence of a coherent system. Looking back, I still strongly believe in that decision. When there is already too much visual and strategic noise, sometimes the best design strategy is not to design another object.</p>"
+                },
+                {
+                    "title": "From a Packaging Brief to a Brand System",
+                    "text": "<p>This was not a conventional response to a commercial brief, and a few months later senior management invited us back to explain our thinking in greater detail. That conversation became the beginning of a much broader collaboration.</p><p>Our role gradually shifted from designing an individual package to advising Divan on how design could create coherence across the wider brand experience. Together, we defined a programme lasting roughly eighteen months that addressed the brand as an integrated system across identity, products, packaging, retail display and architecture. We began with the brand itself. Divan's existing wreath symbol had become visually heavy and had lost some of its original symmetry over time. Rather than replacing it, we refined it into a more geometric and contemporary form. Small but meaningful adjustments were also made to the logotype.</p><p>The intention was not to reinvent a heritage brand, but to understand what was essential, preserve it and make it relevant again.</p>",
                     "img": "/img/case-detail/case-3/case-detail-img.jpg",
                     "img_mobile": "/img/case-detail/case-3/case-detail-mobile-img.jpg",
                     "alt": "case-detail"
                 },
                 {
-                    "title": "Insights & idea",
-                    "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vestibulum leo ac eleifend auctor. Maecenas mi leo, facilisis et enim sit amet, rhoncus tempus purus. Nunc rutrum egestas lorem, fermentum euismod metus rhoncus non.</p><p>Quisque et ligula eu arcu scelerisque sagittis. Duis magna leo, vehicula ac ultricies a, dictum eget nulla. Aenean sodales vestibulum interdum. Praesent molestie id lorem vitae vulputate.</p>",
+                    "title": "Designing from the Chocolate Outwards",
+                    "text": "<p>The next step was the product itself: the chocolates. We worked closely with Divan's Belgian chocolate master to establish a coherent product architecture. What proportion of a box should be milk, dark or white chocolate? How many pieces should carry recognisable Divan signatures such as the wreath or the letter D? What should their dimensions and forms be? Which pieces should be handmade and which machine-produced?</p><p>Once these principles were established, packaging became much more rational. Products with controlled dimensions and weights could be organised into a coherent family of boxes rather than being fitted into individually designed packages. From there, the same logic extended to shelves, sales points and eventually the stores.</p><p>What had started as a request for one seasonal package became a system capable of guiding product, packaging, retail and spatial decisions. A clearer product architecture reduced unnecessary variation and made future decisions easier across different disciplines.</p>"
+                },
+                {
+                    "title": "Turning Brand Values into Experience",
+                    "text": "<p>The project became an exercise in translating one vision across graphic design, food design, packaging and architecture. Each discipline was answering the same underlying question: what should luxury hospitality and taste feel like for Divan?</p><p>The objective was not simply visual consistency. It was to make the values of the brand recognisable across every customer touchpoint. The outcome went far beyond a redesign. Individual products, packages and spaces could now contribute to a recognisable whole without losing their own character.</p><p>A couple of years later, the brand was redesigned again as part of a wider corporate identity programme initiated by its parent company and developed with a major American design agency led by a renowned graphic designer. That later approach was more radical and created a distinctly new contemporary identity.</p><p>The contrast still interests me.</p><p>What should a designer preserve, and what should be changed? For me, Divan remains a reminder that one of design's most important responsibilities is not simply creating the new, but deciding what deserves continuity and what genuinely needs transformation.</p>",
                     "img": "/img/case-detail/case-3/case-detail-img.jpg",
                     "img_mobile": "/img/case-detail/case-3/case-detail-mobile-img.jpg",
                     "alt": "case-detail"
                 }
             ],
             "sliderArea": {
-                "title": "Creation & implementation",
+                "title": "",
                 "images": [
                     {
                         "id": 1,
@@ -211,8 +233,7 @@
                         "img_mobile": "/img/case-detail/case-3/detail-slider-mobile-img.jpg",
                         "alt": "case-detail"
                     }
-                ],
-                "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vestibulum leo ac eleifend auctor. Maecenas mi leo, facilisis et enim sit amet, rhoncus tempus purus. Nunc rutrum egestas lorem, fermentum euismod metus rhoncus non.</p><p>Quisque et ligula eu arcu scelerisque sagittis. Duis magna leo, vehicula ac ultricies a, dictum eget nulla. Aenean sodales vestibulum interdum. Praesent molestie id lorem vitae vulputate.</p>"
+                ]
             },
             "next_collection": {
                 "img": "/img/case-detail/case-4/next-collection.jpg",
@@ -230,26 +251,34 @@
             },
             "descArea": [
                 {
-                    "title": "The story",
-                    "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vestibulum leo ac eleifend auctor. Maecenas mi leo, facilisis et enim sit amet, rhoncus tempus purus. Nunc rutrum egestas lorem, fermentum euismod metus rhoncus non.</p><p>Quisque et ligula eu arcu scelerisque sagittis. Duis magna leo, vehicula ac ultricies a, dictum eget nulla. Aenean sodales vestibulum interdum. Praesent molestie id lorem vitae vulputate.</p>"
+                    "title": "Designer / Entrepreneur",
+                    "text": "<p>An independent experiment in redefining luxury, testing craftsmanship and listening to the market.</p>"
                 },
                 {
-                    "title": "The moment & first principles",
-                    "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vestibulum leo ac eleifend auctor. Maecenas mi leo, facilisis et enim sit amet, rhoncus tempus purus. Nunc rutrum egestas lorem, fermentum euismod metus rhoncus non.</p><p>Quisque et ligula eu arcu scelerisque sagittis. Duis magna leo, vehicula ac ultricies a, dictum eget nulla. Aenean sodales vestibulum interdum. Praesent molestie id lorem vitae vulputate.</p>",
+                    "title": "Questioning the Language of Value",
+                    "text": "<p>In the 2010s, many designer friends around me were creating jewellery that I found highly contemporary, intelligent and beautifully resolved. At the same time, I noticed a contradiction in the market. On one side, semi-precious materials, inexpensive materials and even waste could be transformed through design into jewellery with considerable creative value. On the other, major jewellery brands were working with gold and diamonds yet often producing pieces that remained conventional and stylistically familiar.</p><p>This led me to a simple question: What would happen if precious materials were treated with the same contemporary design ambition?</p><p>That question became the starting point for the Cliché Collection. Cliché was an independent project, so I was responsible not only for the design but also for taking the collection through production, launch and ultimately the decision to withdraw it from the market.</p>"
+                },
+                {
+                    "title": "Abstracting the Familiar",
+                    "text": "<p>I deliberately began with some of jewellery's most familiar and perhaps overused symbols: the solitaire ring, the three-stone setting, the heart and other recognisable archetypes. Instead of rejecting these clichés, I tried to reduce them to their geometric essence.</p><p>The forms gradually became more abstract, precise and minimal. Gold and diamonds remained central, but the visual language was stripped of ornament and sentimentality. At the time, the results felt unusually restrained and perhaps even too modern for the category.</p><p>The collection was not questioning the value of precious jewellery. It was questioning how that value could be expressed. Could proportion, geometry and precision replace complexity and decoration as signals of quality?</p>",
                     "img": "/img/case-detail/case-4/case-detail-img.jpg",
                     "img_mobile": "/img/case-detail/case-4/case-detail-mobile-img.jpg",
                     "alt": "case-detail"
                 },
                 {
-                    "title": "Insights & idea",
-                    "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vestibulum leo ac eleifend auctor. Maecenas mi leo, facilisis et enim sit amet, rhoncus tempus purus. Nunc rutrum egestas lorem, fermentum euismod metus rhoncus non.</p><p>Quisque et ligula eu arcu scelerisque sagittis. Duis magna leo, vehicula ac ultricies a, dictum eget nulla. Aenean sodales vestibulum interdum. Praesent molestie id lorem vitae vulputate.</p>",
+                    "title": "When Simplicity Becomes Difficult",
+                    "text": "<p>Production took place with craftsmen in Istanbul's Grand Bazaar who were accustomed to working for established jewellery houses. When they first saw the drawings, some seemed almost amused by their simplicity. They were used to producing highly elaborate pieces and expected the reduced geometric forms to be relatively straightforward. The opposite proved true.</p><p>Pieces initially expected within three months took five months to complete. Eventually, the craftsmen explained why: pure geometry allowed almost no tolerance for error. A slightly incorrect angle, proportion or surface immediately became visible. Several pieces had to be remade from the beginning.</p><p>This became one of the most valuable outcomes of the project. Formal simplicity had pushed craftsmanship towards greater precision. The collection was therefore not only an aesthetic experiment. It tested both what traditional jewellery production could achieve with a radically reduced formal language and how the market might respond to a different expression of luxury.</p>"
+                },
+                {
+                    "title": "Design, Market and the Right to Experiment",
+                    "text": "<p>The collection was eventually presented at the Nişantaşı jewellery store of my friends Ela Cindoruk and Nazan Pak, who generously hosted both the pieces and the launch. At that point, I was confident we had created something meaningful. I liked the work, and the difficulties encountered in production had strengthened my belief in it. Three months later, almost nothing had sold. I withdrew the collection.</p><p>That experience was uncomfortable but important. Perhaps some products do not exist because there is simply no demand for them. But design cannot always know this before testing the idea.</p><p>If every design project begins only with proven demand, design can do little more than reproduce what the market already understands.</p><p>Cliché became a lesson in both ambition and humility: push materials, craftsmanship and conventions when there is a meaningful question to explore but remain prepared for the market to answer differently. Commercial success is one form of validation; understanding the boundaries of acceptance is another. The market had answered, and the answer was useful. Innovation needs room for experiments whose value may sometimes be learning rather than immediate sales.</p>",
                     "img": "/img/case-detail/case-4/case-detail-img.jpg",
                     "img_mobile": "/img/case-detail/case-4/case-detail-mobile-img.jpg",
                     "alt": "case-detail"
                 }
             ],
             "sliderArea": {
-                "title": "Creation & implementation",
+                "title": "",
                 "images": [
                     {
                         "id": 1,
@@ -285,8 +314,7 @@
                         "img_mobile": "/img/case-detail/case-4/detail-slider-mobile-img.jpg",
                         "alt": "case-detail"
                     }
-                ],
-                "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vestibulum leo ac eleifend auctor. Maecenas mi leo, facilisis et enim sit amet, rhoncus tempus purus. Nunc rutrum egestas lorem, fermentum euismod metus rhoncus non.</p><p>Quisque et ligula eu arcu scelerisque sagittis. Duis magna leo, vehicula ac ultricies a, dictum eget nulla. Aenean sodales vestibulum interdum. Praesent molestie id lorem vitae vulputate.</p>"
+                ]
             },
             "next_collection": {
                 "img": "/img/case-detail/case-5/next-collection.jpg",
@@ -304,26 +332,34 @@
             },
             "descArea": [
                 {
-                    "title": "The story",
-                    "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vestibulum leo ac eleifend auctor. Maecenas mi leo, facilisis et enim sit amet, rhoncus tempus purus. Nunc rutrum egestas lorem, fermentum euismod metus rhoncus non.</p><p>Quisque et ligula eu arcu scelerisque sagittis. Duis magna leo, vehicula ac ultricies a, dictum eget nulla. Aenean sodales vestibulum interdum. Praesent molestie id lorem vitae vulputate.</p>"
+                    "title": "Product Designer",
+                    "text": "<p>How rethinking where a material belongs can open an entirely new product territory.</p>"
                 },
                 {
-                    "title": "The moment & first principles",
-                    "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vestibulum leo ac eleifend auctor. Maecenas mi leo, facilisis et enim sit amet, rhoncus tempus purus. Nunc rutrum egestas lorem, fermentum euismod metus rhoncus non.</p><p>Quisque et ligula eu arcu scelerisque sagittis. Duis magna leo, vehicula ac ultricies a, dictum eget nulla. Aenean sodales vestibulum interdum. Praesent molestie id lorem vitae vulputate.</p>",
+                    "title": "A New Brand, A New Territory",
+                    "text": "<p>In the 2010s, a close friend of mine, then Design Director at Paşabahçe, told me about a new design-led brand they were developing: Nude. Paşabahçe was already one of the world's major glass manufacturers, so my first thought was not simply what object I could design for the new brand.</p><p>I began instead with the material. Glass was already deeply associated with kitchens, dining tables and living rooms. These were the places where people naturally expected to encounter it. I wanted to challenge that familiarity with a different question: Could glass become relevant in a room where it was not normally considered a primary material?</p><p>The bedroom became that territory. My role was to explore this through design and translate the idea into a coherent family of bedroom objects.</p>"
+                },
+                {
+                    "title": "Looking at Behaviour Before Typology",
+                    "text": "<p>The project started by looking at the bedroom not through existing glass product categories, but through behaviours and rituals. What do people touch before sleeping and immediately after waking? What do they place beside the bed? What objects support dressing, preparation, storage and small personal routines?</p><p>From these observations, a family of possible products began to emerge: mirrors, glass hangers, jewellery holders, a bedside carafe and a bedside lamp. The objective was not to create decorative glass objects and simply place them in a bedroom. The material needed to earn its place through function and experience. Transparency, reflection, weight, delicacy and light became part of the design vocabulary.</p>",
                     "img": "/img/case-detail/case-5/case-detail-img.jpg",
                     "img_mobile": "/img/case-detail/case-5/case-detail-mobile-img.jpg",
                     "alt": "case-detail"
                 },
                 {
-                    "title": "Insights & idea",
-                    "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vestibulum leo ac eleifend auctor. Maecenas mi leo, facilisis et enim sit amet, rhoncus tempus purus. Nunc rutrum egestas lorem, fermentum euismod metus rhoncus non.</p><p>Quisque et ligula eu arcu scelerisque sagittis. Duis magna leo, vehicula ac ultricies a, dictum eget nulla. Aenean sodales vestibulum interdum. Praesent molestie id lorem vitae vulputate.</p>",
+                    "title": "Designing a Product Family",
+                    "text": "<p>Each product was developed in detail as part of the same material exploration. The mirror naturally used the reflective quality of glass, while the hangers questioned whether an object normally associated with wood, metal or plastic could acquire a completely different presence through transparency. The jewellery holders explored the relationship between precious personal objects and the material supporting them. The bedside carafe introduced glass into the intimate ritual of drinking water during the night, while the lamp used glass as both body and medium for controlling and expressing light.</p><p>Although their functions were different, the objects shared one central principle: glass should not appear as a stylistic addition. It needed to contribute something specific to the function or experience. The result was a coherent family rather than a collection of unrelated glass objects.</p>"
+                },
+                {
+                    "title": "Extending What a Material Can Do",
+                    "text": "<p>The project changed the question from \"what other glass object can we make?\" to \"where else could our expertise in glass genuinely matter?\" That shift was important. Materials and manufacturing capabilities often become associated with familiar categories simply because that is where we are used to seeing them. Design can question those assumptions and reveal uses that are already technically possible but culturally unexpected.</p><p>Glass in the Bedroom explored how an established industrial capability could enter a different part of everyday life without feeling forced or decorative. For Nude, the opportunity was not simply another object, but a broader context in which the qualities of glass could become relevant. Innovation does not always require new technology or an unfamiliar form. Sometimes it begins by looking differently at what a company already knows how to do.</p>",
                     "img": "/img/case-detail/case-5/case-detail-img.jpg",
                     "img_mobile": "/img/case-detail/case-5/case-detail-mobile-img.jpg",
                     "alt": "case-detail"
                 }
             ],
             "sliderArea": {
-                "title": "Creation & implementation",
+                "title": "",
                 "images": [
                     {
                         "id": 1,
@@ -359,8 +395,7 @@
                         "img_mobile": "/img/case-detail/case-5/detail-slider-mobile-img.jpg",
                         "alt": "case-detail"
                     }
-                ],
-                "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vestibulum leo ac eleifend auctor. Maecenas mi leo, facilisis et enim sit amet, rhoncus tempus purus. Nunc rutrum egestas lorem, fermentum euismod metus rhoncus non.</p><p>Quisque et ligula eu arcu scelerisque sagittis. Duis magna leo, vehicula ac ultricies a, dictum eget nulla. Aenean sodales vestibulum interdum. Praesent molestie id lorem vitae vulputate.</p>"
+                ]
             },
             "next_collection": {
                 "img": "/img/case-detail/case-6/next-collection.jpg",
@@ -378,26 +413,34 @@
             },
             "descArea": [
                 {
-                    "title": "The story",
-                    "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vestibulum leo ac eleifend auctor. Maecenas mi leo, facilisis et enim sit amet, rhoncus tempus purus. Nunc rutrum egestas lorem, fermentum euismod metus rhoncus non.</p><p>Quisque et ligula eu arcu scelerisque sagittis. Duis magna leo, vehicula ac ultricies a, dictum eget nulla. Aenean sodales vestibulum interdum. Praesent molestie id lorem vitae vulputate.</p>"
+                    "title": "Concept Designer / Design Director",
+                    "text": "<p>How a design idea evolved into a scalable spatial language across products, places and brand experiences.</p>"
                 },
                 {
-                    "title": "The moment & first principles",
-                    "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vestibulum leo ac eleifend auctor. Maecenas mi leo, facilisis et enim sit amet, rhoncus tempus purus. Nunc rutrum egestas lorem, fermentum euismod metus rhoncus non.</p><p>Quisque et ligula eu arcu scelerisque sagittis. Duis magna leo, vehicula ac ultricies a, dictum eget nulla. Aenean sodales vestibulum interdum. Praesent molestie id lorem vitae vulputate.</p>",
+                    "title": "A Space as a Blank Page",
+                    "text": "<p>My relationship with VitrA began in 2012–2013 through the design of an innovation exhibition space. The central question was simple but demanding: how can a space behave like a blank sheet of paper and make innovation visible?</p><p>Rather than creating a fixed architectural statement, the aim was to establish a framework that could remain relevant over time and accommodate continuous change. The space needed to support new products, technologies and narratives without being redesigned from the beginning each time.</p><p>Architecture was not intended to compete with what was exhibited. Its role was to create clarity, hierarchy and flexibility so that innovation itself could become the protagonist. That project became my introduction to VitrA and, in retrospect, the starting point of a much broader relationship between products, environments and brand identity.</p>"
+                },
+                {
+                    "title": "Ten Years of Spatial Applications",
+                    "text": "<p>After becoming Design Director in 2014, my responsibility expanded beyond products to include the environments in which the brand was experienced. My role was to conceive the main spatial ideas, develop the design concepts and provide overall creative and design direction as architects, designers, technical teams and implementation partners brought them into built form.</p><p>Over the following years, we developed international fair stands, showrooms, factory entrance and visitor areas, retail displays, product presentation systems, overseas showrooms and information centres.</p><p>Each had a different purpose. A fair stand had to communicate quickly and clearly. A showroom required a more immersive and long-term experience. Factory environments needed to connect industrial capability with brand values, while retail spaces had to make complex product ranges easier to understand.</p><p>Across these different applications, a shared spatial language gradually emerged, flexible enough to adapt to different markets, scales and functions.</p>",
                     "img": "/img/case-detail/case-6/case-detail-img.jpg",
                     "img_mobile": "/img/case-detail/case-6/case-detail-mobile-img.jpg",
                     "alt": "case-detail"
                 },
                 {
-                    "title": "Insights & idea",
-                    "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vestibulum leo ac eleifend auctor. Maecenas mi leo, facilisis et enim sit amet, rhoncus tempus purus. Nunc rutrum egestas lorem, fermentum euismod metus rhoncus non.</p><p>Quisque et ligula eu arcu scelerisque sagittis. Duis magna leo, vehicula ac ultricies a, dictum eget nulla. Aenean sodales vestibulum interdum. Praesent molestie id lorem vitae vulputate.</p>",
+                    "title": "When Products Shape Spaces",
+                    "text": "<p>Being responsible for both product design and the broader design direction of VitrA's environments created an opportunity to connect the two more closely.</p><p>Products were no longer simply placed inside neutral spaces. Their proportions, materials, systems and modes of use began to influence how environments were organised and experienced. At the same time, spatial work influenced how we thought about products, product families and displays.</p><p>Questions of scale, sequence, material continuity, colour, rhythm and user movement moved naturally between the two disciplines. The boundary gradually became less distinct. Spaces helped explain the products, while products increasingly helped define the spaces.</p><p>The result was greater coherence across very different brand experiences without reducing them to a fixed architectural formula.</p>"
+                },
+                {
+                    "title": "Building a Scalable Brand Experience",
+                    "text": "<p>Years later, when the innovation exhibition hall was redesigned, the project became an opportunity to bring together what we had learned through nearly a decade of spatial work. The new space incorporated experience gained from fairs, showrooms, factories, retail environments and product presentation systems.</p><p>In this sense, the project came full circle.</p><p>What began with a question about how architecture could make innovation visible had evolved into a design logic for expressing VitrA across different physical contexts.</p><p>Its value was not one successful space, but the ability to create continuity without uniformity. New projects could build on a shared understanding rather than reinventing the brand each time. For me, Spaces for VitrA became an ongoing design practice rather than a single architectural project: a dialogue in which products shape spaces, spaces shape products, and both contribute to the identity and experience of the brand.</p>",
                     "img": "/img/case-detail/case-6/case-detail-img.jpg",
                     "img_mobile": "/img/case-detail/case-6/case-detail-mobile-img.jpg",
                     "alt": "case-detail"
                 }
             ],
             "sliderArea": {
-                "title": "Creation & implementation",
+                "title": "",
                 "images": [
                     {
                         "id": 1,
@@ -433,8 +476,7 @@
                         "img_mobile": "/img/case-detail/case-6/detail-slider-mobile-img.jpg",
                         "alt": "case-detail"
                     }
-                ],
-                "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vestibulum leo ac eleifend auctor. Maecenas mi leo, facilisis et enim sit amet, rhoncus tempus purus. Nunc rutrum egestas lorem, fermentum euismod metus rhoncus non.</p><p>Quisque et ligula eu arcu scelerisque sagittis. Duis magna leo, vehicula ac ultricies a, dictum eget nulla. Aenean sodales vestibulum interdum. Praesent molestie id lorem vitae vulputate.</p>"
+                ]
             },
             "next_collection": {
                 "img": "/img/case-detail/case-7/next-collection.jpg",
@@ -452,7 +494,7 @@
             },
             "descArea": [
                 {
-                    "title": "Design Research for VitrA: Good Time Bath Time",
+                    "title": "Design Director / Curator",
                     "text": "<p>How open-ended research can move from conversation and experimentation to real product innovation.</p>"
                 },
                 {
@@ -472,7 +514,7 @@
                 },
                 {
                     "title": "From Research to Exhibition to Product",
-                    "text": "<p>That idea became Good Time Bath Time, exhibited in Milan in 2016.</p><p>The original workshop sketches were developed into physical prototypes and brought together in a large gallery installation.</p><p>The exhibition was not conceived as a conventional product launch. It was the physical outcome of the research and a way of making different interpretations of bathing visible at full scale. From there, my role shifted from curating experimentation to directing how selected ideas could continue into VitrA's product development process.</p><p>Some of the strongest ideas were taken further with our development and manufacturing teams and ultimately contributed to the creation of Plural, which became one of VitrA's most recognisable bathroom collections. The process created a clear progression: conversation became insight, insight became experimentation, experimentation became an exhibition, and selected ideas became commercially viable products.</p>",
+                    "text": "<p>That idea became Good Time Bath Time, exhibited in Milan in 2016.</p><p>The original workshop sketches were developed into physical prototypes and brought together in a large gallery installation.</p><p>The exhibition was not conceived as a conventional product launch. It was the physical outcome of the research and a way of making different interpretations of bathing visible at full scale. From there, my role shifted from curating experimentation to directing how selected ideas could continue into VitrA's product development process.</p><p>Some of the strongest ideas were taken further with our development and manufacturing teams and ultimately contributed to the creation of Plural, which became one of VitrA's most recognisable bathroom collections. The process created a clear progression: conversation became insight, insight became experimentation, experimentation became an exhibition, and selected ideas became commercially viable products.</p><p>For me, Good Time Bath Time confirmed something fundamental about design leadership: the role is not always to provide the answer, but to create the right conditions, ask the right question and build a process through which ambiguity can become direction and, ultimately, real product development.</p>",
                     "img": "/img/case-detail/case-7/case-detail-img.jpg",
                     "img_mobile": "/img/case-detail/case-7/case-detail-mobile-img.jpg",
                     "alt": "case-detail"
@@ -511,8 +553,7 @@
                         "img_mobile": "/img/case-detail/case-7/detail-slider-mobile-img.jpg",
                         "alt": "case-detail"
                     }
-                ],
-                "text": "<p>For me, Good Time Bath Time confirmed something fundamental about design leadership: the role is not always to provide the answer, but to create the right conditions, ask the right question and build a process through which ambiguity can become direction and, ultimately, real product development.</p>"
+                ]
             },
             "next_collection": {
                 "img": "/img/case-detail/case-1/next-collection.jpg",
