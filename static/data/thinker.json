@@ -46,27 +46,27 @@
                     "video_card": [
                         {
                             "id": "1",
-                            "img": "/img/articles-img1.jpg",
-                            "img_mobile": "/img/articles-mobile-img1.jpg",
+                            "img": "/img/articles/articles-img1.jpg",
+                            "img_mobile": "/img/articles/articles-mobile-img1.jpg",
                             "alt": "articles-img",
-                            "desc": "Do You Believe in the Aesthetics of Belief?",
-                            "link": "https://erdemakan.medium.com/do-you-believe-in-the-aesthetics-of-belief-c4d723d1a42f"
+                            "desc": "Why Do Designers Wear Black?",
+                            "link": "https://erdemakan.medium.com/why-do-designers-wear-black-c575395028f7"
                         },
                         {
                             "id": "2",
-                            "img": "/img/articles-img2.jpg",
-                            "img_mobile": "/img/articles-mobile-img2.jpg",
+                            "img": "/img/articles/articles-img2.jpg",
+                            "img_mobile": "/img/articles/articles-mobile-img2.jpg",
                             "alt": "articles-img",
-                            "desc": "Maecenas mi leo, facilisis et enim sit amet",
-                            "link": "https://erdemakan.medium.com"
+                            "desc": "Why Are There So Many Chairs?",
+                            "link": "https://erdemakan.medium.com/why-are-there-so-many-chairs-1ca0b7159a2a"
                         },
                         {
                             "id": "3",
-                            "img": "/img/articles-img3.jpg",
-                            "img_mobile": "/img/articles-mobile-img3.jpg",
+                            "img": "/img/articles/articles-img3.jpg",
+                            "img_mobile": "/img/articles/articles-mobile-img3.jpg",
                             "alt": "articles-img",
-                            "desc": "Roncus tempus purus.",
-                            "link": "https://erdemakan.medium.com"
+                            "desc": "Would You Put Your Own Money Into It?",
+                            "link": "https://erdemakan.medium.com/would-you-put-your-own-money-into-it-7a5f89e95cfa"
                         }
                     ]
                 },
