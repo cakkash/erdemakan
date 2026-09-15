@@ -123,7 +123,7 @@
 				<li class="menu-block">
 					{#if isMobile} 
 					<div   class={`menu-item active`}>
-						<span>The designer</span>	
+						<span>The Designer</span>	
 						<!-- <svg xmlns="http://www.w3.org/2000/svg" width="11" height="8" viewBox="0 0 11 8" fill="none">
 							<path d="M1 1L5.5 6L10 1" stroke="black" stroke-width="2"/>
 						</svg> -->
@@ -132,7 +132,7 @@
 					<a  href={DESIGNER_WORKS} class={`${$page.url.pathname === DESIGNER_WORKS || 
 						$page.url.pathname === CASE_DETAIL || 
 						$page.url.pathname === CASE_STUDIES ? "active" : ""}`}>
-						The designer 
+						The Designer 
 						<!-- <svg xmlns="http://www.w3.org/2000/svg" width="11" height="8" viewBox="0 0 11 8" fill="none">
 							<path d="M1 1L5.5 6L10 1" stroke="black" stroke-width="2"/>
 						</svg> -->
@@ -149,7 +149,7 @@
 				<li class="menu-block">
 					{#if isMobile} 
 					<div class={`menu-item active`} >
-						<span>The curator</span>	
+						<span>The Curator</span>	
 						<!-- <svg xmlns="http://www.w3.org/2000/svg" width="11" height="8" viewBox="0 0 11 8" fill="none">
 							<path d="M1 1L5.5 6L10 1" stroke="black" stroke-width="2"/>
 						  </svg> -->
@@ -158,7 +158,7 @@
 					<a  href={NOMAD_MILESTONES} class={`${$page.url.pathname === NOMAD_MILESTONES || 
 						$page.url.pathname === NOMAD_EXHIBITIONS || 
 						$page.url.pathname === NOMAD_LECTURES ? "active" : ""}`}>
-						The curator
+						The Curator
 						<!-- <svg xmlns="http://www.w3.org/2000/svg" width="11" height="8" viewBox="0 0 11 8" fill="none">
 							<path d="M1 1L5.5 6L10 1" stroke="black" stroke-width="2"/>
 						  </svg> -->
@@ -175,7 +175,7 @@
 						</ul>
 	
 					</li>
-				<li class="menu-block"><a  on:click={closeMenu} href={THINKER} class={`${$page.url.pathname === THINKER ? "active" : ""}`}>The thinker</a></li>
+				<li class="menu-block"><a  on:click={closeMenu} href={THINKER} class={`${$page.url.pathname === THINKER ? "active" : ""}`}>The Thinker</a></li>
 				<li class="menu-block"><a on:click={closeMenu} href={CONTACT} class={`${$page.url.pathname === CONTACT ? "active" : ""}`}>Contact</a></li>
 			</ul>
 			<div class="mobile-menu-social-block">
