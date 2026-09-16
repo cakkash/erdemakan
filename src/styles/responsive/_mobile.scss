@@ -415,8 +415,8 @@
             padding:  16px 24px;
         }
         h2 {
-            font-size: 32px;
-            line-height: 42px;
+            font-size: 22px;
+            line-height: 28px;
         }
         p {
             font-size: 16px;
@@ -425,6 +425,18 @@
         .desc-block {
             padding: 0 0 42px;
             margin: 42px 0 0;
+            &:first-child {
+                h2 {
+                    font-size: 32px;
+                    line-height: 42px;
+                }
+                .text-item {
+                    margin: 12px 0 0 0;
+                }
+                p.role-item {
+                    margin: 32px 0 0;
+                }
+            }
         }
         .case-detail-banner-container {
             h1 {

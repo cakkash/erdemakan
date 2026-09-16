@@ -4,12 +4,13 @@
             "banner": {
                 "title": "East Meets West",
                 "img": "/img/case-detail/case-1/case-detail-banner-img.jpg",
-                "img_mobile": "/img/case-detail/case-1/case-detail-banner-mobile-img.jpg"
+                "img_mobile": "/img/case-detail/case-1/case-detail-banner-mobile-img.jpg",
+                "case_number": "CASE 01"
             },
             "descArea": [
                 {
                     "title": "East Meets West",
-                    "text": "<p>How a familiar cultural object became an independent design opportunity with international reach.</p><p><strong>Designer / Entrepreneur</strong></p>"
+                    "text": "<p>How a familiar cultural object became an independent design opportunity with international reach.</p><p class=\"role-item\"><strong>Designer / Entrepreneur</strong></p>"
                 },
                 {
                     "title": "A Question in a Factory Office",
@@ -87,12 +88,13 @@
             "banner": {
                 "title": "Reincarnation Collection",
                 "img": "/img/case-detail/case-2/case-detail-banner-img.jpg",
-                "img_mobile": "/img/case-detail/case-2/case-detail-banner-mobile-img.jpg"
+                "img_mobile": "/img/case-detail/case-2/case-detail-banner-mobile-img.jpg",
+                "case_number": "CASE 02"
             },
             "descArea": [
                 {
                     "title": "Reincarnation Collection",
-                    "text": "<p>An early exploration of how design can create new value without erasing what already exists.</p><p><strong>Experimental Designer / Entrepreneur</strong></p>"
+                    "text": "<p>An early exploration of how design can create new value without erasing what already exists.</p><p class=\"role-item\"><strong>Experimental Designer / Entrepreneur</strong></p>"
                 },
                 {
                     "title": "Before Sustainability Became Mainstream",
@@ -170,12 +172,13 @@
             "banner": {
                 "title": "Brand Experience for Divan",
                 "img": "/img/case-detail/case-3/case-detail-banner-img.jpg",
-                "img_mobile": "/img/case-detail/case-3/case-detail-banner-mobile-img.jpg"
+                "img_mobile": "/img/case-detail/case-3/case-detail-banner-mobile-img.jpg",
+                "case_number": "CASE 03"
             },
             "descArea": [
                 {
                     "title": "Brand Experience for Divan",
-                    "text": "<p>How questioning a simple brief revealed a much larger opportunity to bring coherence to a heritage brand.</p><p><strong>Designer / Consultant</strong></p>"
+                    "text": "<p>How questioning a simple brief revealed a much larger opportunity to bring coherence to a heritage brand.</p><p class=\"role-item\"><strong>Designer / Consultant</strong></p>"
                 },
                 {
                     "title": "Refusing to Add More Noise",
@@ -253,12 +256,13 @@
             "banner": {
                 "title": "Cliché Collection",
                 "img": "/img/case-detail/case-4/case-detail-banner-img.jpg",
-                "img_mobile": "/img/case-detail/case-4/case-detail-banner-mobile-img.jpg"
+                "img_mobile": "/img/case-detail/case-4/case-detail-banner-mobile-img.jpg",
+                "case_number": "CASE 04"
             },
             "descArea": [
                 {
                     "title": "Cliché Collection",
-                    "text": "<p>An independent experiment in redefining luxury, testing craftsmanship and listening to the market.</p><p><strong>Designer / Entrepreneur</strong></p>"
+                    "text": "<p>An independent experiment in redefining luxury, testing craftsmanship and listening to the market.</p><p class=\"role-item\"><strong>Designer / Entrepreneur</strong></p>"
                 },
                 {
                     "title": "Questioning the Language of Value",
@@ -336,12 +340,13 @@
             "banner": {
                 "title": "Glass in the Bedroom for Nude",
                 "img": "/img/case-detail/case-5/case-detail-banner-img.jpg",
-                "img_mobile": "/img/case-detail/case-5/case-detail-banner-mobile-img.jpg"
+                "img_mobile": "/img/case-detail/case-5/case-detail-banner-mobile-img.jpg",
+                "case_number": "CASE 05"
             },
             "descArea": [
                 {
                     "title": "Glass in the Bedroom for Nude",
-                    "text": "<p>How rethinking where a material belongs can open an entirely new product territory.</p><p><strong>Product Designer</strong></p>"
+                    "text": "<p>How rethinking where a material belongs can open an entirely new product territory.</p><p class=\"role-item\"><strong>Product Designer</strong></p>"
                 },
                 {
                     "title": "A New Brand, A New Territory",
@@ -419,12 +424,13 @@
             "banner": {
                 "title": "Spaces for VitrA",
                 "img": "/img/case-detail/case-6/case-detail-banner-img.jpg",
-                "img_mobile": "/img/case-detail/case-6/case-detail-banner-mobile-img.jpg"
+                "img_mobile": "/img/case-detail/case-6/case-detail-banner-mobile-img.jpg",
+                "case_number": "CASE 06"
             },
             "descArea": [
                 {
                     "title": "Spaces for VitrA",
-                    "text": "<p>How a design idea evolved into a scalable spatial language across products, places and brand experiences.</p><p><strong>Concept Designer / Design Director</strong></p>"
+                    "text": "<p>How a design idea evolved into a scalable spatial language across products, places and brand experiences.</p><p class=\"role-item\"><strong>Concept Designer / Design Director</strong></p>"
                 },
                 {
                     "title": "A Space as a Blank Page",
@@ -502,12 +508,13 @@
             "banner": {
                 "title": "Good Time Bath Time",
                 "img": "/img/case-detail/case-7/case-detail-banner-img.jpg",
-                "img_mobile": "/img/case-detail/case-7/case-detail-banner-mobile-img.jpg"
+                "img_mobile": "/img/case-detail/case-7/case-detail-banner-mobile-img.jpg",
+                "case_number": "CASE 07"
             },
             "descArea": [
                 {
                     "title": "Design Research for VitrA: Good Time Bath Time",
-                    "text": "<p>How open-ended research can move from conversation and experimentation to real product innovation.</p><p><strong>Design Director / Curator</strong></p>"
+                    "text": "<p>How open-ended research can move from conversation and experimentation to real product innovation.</p><p class=\"role-item\"><strong>Design Director / Curator</strong></p>"
                 },
                 {
                     "title": "The Question Behind the Research",

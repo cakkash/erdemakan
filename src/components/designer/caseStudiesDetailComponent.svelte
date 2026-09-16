@@ -154,8 +154,9 @@
             </div>
         </div>
         <div class="case-detail-desc-container">
-            {#each descArea as item}
+            {#each descArea as item, i}
                 <div class="desc-block">
+                    {#if i === 0 && banner.case_number}<span class="case-number">{banner.case_number}</span>{/if}
                     <h2>{item.title}</h2>
                     
                     {#if item.img}
