@@ -21,16 +21,16 @@
                     },
                     {
                         "id": "2",
-                        "img": "/img/talks/talks-img3.jpg",
-                        "img_mobile": "/img/talks/talks-mobile-img3.jpg",
+                        "img": "/img/talks/talks-img2.jpg",
+                        "img_mobile": "/img/talks/talks-mobile-img2.jpg",
                         "alt": "talks-img",
                         "desc": "Balancing Market Needs with Design Vision",
                         "link": "https://player.vimeo.com/video/1220146545?h=0377a2ef68&autoplay=1"
                     },
                     {
                         "id": "3",
-                        "img": "/img/talks/talks-img2.jpg",
-                        "img_mobile": "/img/talks/talks-mobile-img2.jpg",
+                        "img": "/img/talks/talks-img3.jpg",
+                        "img_mobile": "/img/talks/talks-mobile-img3.jpg",
                         "alt": "talks-img",
                         "desc": "Inside Zero Design Festival: An Interview",
                         "link": "https://player.vimeo.com/video/1220147175?h=9749e46458&autoplay=1"
