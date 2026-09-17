@@ -1338,6 +1338,9 @@ template {
 .case-detail-root p {
   margin: 22px 0 0;
 }
+.case-detail-root p strong {
+  font-weight: 700;
+}
 .case-detail-root .desc-block {
   margin: 64px 0 0;
   padding: 0 0 26px;
