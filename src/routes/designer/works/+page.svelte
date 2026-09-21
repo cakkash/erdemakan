@@ -19,7 +19,7 @@
     <div class="sub-menu-block">
         <h1 class="secret-title">The designer</h1>
         <a href={DESIGNER_WORKS} class={`${$page.url.pathname === DESIGNER_WORKS ? "active":""}`}>Works</a>
-        <a href={CASE_STUDIES} class={`${$page.url.pathname === CASE_STUDIES ? "active":""}`} >Case studies</a>
+        <a href={CASE_STUDIES} class={`${$page.url.pathname === CASE_STUDIES ? "active":""}`} >Case Studies</a>
     </div>
      <div class="designer-wrapper safe-area">
         <DesignerWorksComponent {...designerData}/> 
