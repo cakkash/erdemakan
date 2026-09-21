@@ -294,6 +294,19 @@
                 ],
                 "linkDesc": "view works",
                 "link": "/designer/works"
+            },
+            {
+                "id": 17,
+                "img": "/img/cards/card-17/card-img.jpg",
+                "mobile_img": "/img/cards/card-17/card-mobile-img.jpg",
+                "alt": "case-img",
+                "designer_type": "Case study",
+                "year": "1900",
+                "title": [
+                    "<p>Brand Experience for Divan<br/>1900<p/>"
+                ],
+                "linkDesc": "view case",
+                "link": "/case-studies/turkish-reforms-collection"
             }
         ]
     }
