@@ -99,6 +99,72 @@
                 "year": "2026",
                 "title": "Work 9",
                 "desc": "Lorem ipsum dolor sit amet"
+            },
+            {
+                "id": 10,
+                "img": "/img/works/work-10/works-img.jpg",
+                "img_mobile": "/img/works/work-10/works-mobile-img.jpg",
+                "lb_img": "/img/lightbox/work-10/lightbox-img.jpg",
+                "lb_img_mobile": "/img/lightbox/work-10/lightbox-mobile-img.jpg",
+                "alt": "designer-works",
+                "year": "2026",
+                "title": "Work 10",
+                "desc": "Lorem ipsum dolor sit amet"
+            },
+            {
+                "id": 11,
+                "img": "/img/works/work-11/works-img.jpg",
+                "img_mobile": "/img/works/work-11/works-mobile-img.jpg",
+                "lb_img": "/img/lightbox/work-11/lightbox-img.jpg",
+                "lb_img_mobile": "/img/lightbox/work-11/lightbox-mobile-img.jpg",
+                "alt": "designer-works",
+                "year": "2026",
+                "title": "Work 11",
+                "desc": "Lorem ipsum dolor sit amet"
+            },
+            {
+                "id": 12,
+                "img": "/img/works/work-12/works-img.jpg",
+                "img_mobile": "/img/works/work-12/works-mobile-img.jpg",
+                "lb_img": "/img/lightbox/work-12/lightbox-img.jpg",
+                "lb_img_mobile": "/img/lightbox/work-12/lightbox-mobile-img.jpg",
+                "alt": "designer-works",
+                "year": "2026",
+                "title": "Work 12",
+                "desc": "Lorem ipsum dolor sit amet"
+            },
+            {
+                "id": 13,
+                "img": "/img/works/work-13/works-img.jpg",
+                "img_mobile": "/img/works/work-13/works-mobile-img.jpg",
+                "lb_img": "/img/lightbox/work-13/lightbox-img.jpg",
+                "lb_img_mobile": "/img/lightbox/work-13/lightbox-mobile-img.jpg",
+                "alt": "designer-works",
+                "year": "2026",
+                "title": "Work 13",
+                "desc": "Lorem ipsum dolor sit amet"
+            },
+            {
+                "id": 14,
+                "img": "/img/works/work-14/works-img.jpg",
+                "img_mobile": "/img/works/work-14/works-mobile-img.jpg",
+                "lb_img": "/img/lightbox/work-14/lightbox-img.jpg",
+                "lb_img_mobile": "/img/lightbox/work-14/lightbox-mobile-img.jpg",
+                "alt": "designer-works",
+                "year": "2026",
+                "title": "Work 14",
+                "desc": "Lorem ipsum dolor sit amet"
+            },
+            {
+                "id": 15,
+                "img": "/img/works/work-15/works-img.jpg",
+                "img_mobile": "/img/works/work-15/works-mobile-img.jpg",
+                "lb_img": "/img/lightbox/work-15/lightbox-img.jpg",
+                "lb_img_mobile": "/img/lightbox/work-15/lightbox-mobile-img.jpg",
+                "alt": "designer-works",
+                "year": "2026",
+                "title": "Work 15",
+                "desc": "Lorem ipsum dolor sit amet"
             }
         ],
         "case_studies": [
