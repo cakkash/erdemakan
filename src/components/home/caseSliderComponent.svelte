@@ -186,9 +186,9 @@
         {#each caseData as item,key}
         <CaseSliderItemComponent imgTransitionVal={imgTransitionVal} index={key} activeIndex={activeIndex} bind:this={sliderItem}  item={item}  />
         {/each}
-        <CaseSliderItemComponent imgTransitionVal={imgTransitionVal} item={caseData[0]}  activeIndex={activeIndex} index={16} bind:this={sliderItem}    />
-        <CaseSliderItemComponent imgTransitionVal={imgTransitionVal} item={caseData[1]}  activeIndex={activeIndex} index={17} bind:this={sliderItem}    />
-        <CaseSliderItemComponent imgTransitionVal={imgTransitionVal} item={caseData[2]} activeIndex={activeIndex} index={18} bind:this={sliderItem}    />
+        <CaseSliderItemComponent imgTransitionVal={imgTransitionVal} item={caseData[0]}  activeIndex={activeIndex} index={caseData.length} bind:this={sliderItem}    />
+        <CaseSliderItemComponent imgTransitionVal={imgTransitionVal} item={caseData[1]}  activeIndex={activeIndex} index={caseData.length + 1} bind:this={sliderItem}    />
+        <CaseSliderItemComponent imgTransitionVal={imgTransitionVal} item={caseData[2]} activeIndex={activeIndex} index={caseData.length + 2} bind:this={sliderItem}    />
       </div>
       <div class="arrow-btn right" on:click={() => slideFunction(1)}>
         <i class="arrow-icon"></i>
