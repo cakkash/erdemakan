@@ -3,58 +3,102 @@
         "works": [
             {
                 "id": 1,
-                "img": "/img/design-work-img.jpg",
-                "img_mobile": "/img/design-work-mobile-img.jpg",
-                "lb_img": "/img/gallery-img1.jpg",
-                "lb_img_mobile": "/img/gallery-mobile-img1.jpg",
+                "img": "/img/works/work-1/works-img.jpg",
+                "img_mobile": "/img/works/work-1/works-mobile-img.jpg",
+                "lb_img": "/img/lightbox/work-1/lightbox-img.jpg",
+                "lb_img_mobile": "/img/lightbox/work-1/lightbox-mobile-img.jpg",
                 "alt": "designer-works",
-                "year": "2010",
-                "title": "Sitbag Studio Collection",
-                "desc": "As part of the “Reincarnation Collection”, The Suitcases are reincarnated to chairs with all the memories from previous lives."
+                "year": "",
+                "title": "Work 1",
+                "desc": ""
             },
             {
                 "id": 2,
-                "img": "/img/design-work-img-5.jpg",
-                "img_mobile": "/img/design-work-mobile-img-5.jpg",
-                "lb_img": "/img/gallery-img2.jpg",
-                "lb_img_mobile": "/img/gallery-mobile-img2.jpg",
+                "img": "/img/works/work-2/works-img.jpg",
+                "img_mobile": "/img/works/work-2/works-mobile-img.jpg",
+                "lb_img": "/img/lightbox/work-2/lightbox-img.jpg",
+                "lb_img_mobile": "/img/lightbox/work-2/lightbox-mobile-img.jpg",
                 "alt": "designer-works",
-                "year": "2009",
-                "title": "Sitbag Studio Collection",
-                "desc": "As part of the “Reincarnation Collection”, The Suitcases are reincarnated to chairs with all the memories from previous lives."
+                "year": "",
+                "title": "Work 2",
+                "desc": ""
             },
             {
                 "id": 3,
-                "img": "/img/design-work-img-2.jpg",
-                "img_mobile": "/img/design-work-mobile-img-2.jpg",
-                "lb_img": "/img/gallery-img1.jpg",
-                "lb_img_mobile": "/img/gallery-mobile-img1.jpg",
+                "img": "/img/works/work-3/works-img.jpg",
+                "img_mobile": "/img/works/work-3/works-mobile-img.jpg",
+                "lb_img": "/img/lightbox/work-3/lightbox-img.jpg",
+                "lb_img_mobile": "/img/lightbox/work-3/lightbox-mobile-img.jpg",
                 "alt": "designer-works",
-                "year": "2008",
-                "title": "Sitbag Studio Collection",
-                "desc": "As part of the “Reincarnation Collection”, The Suitcases are reincarnated to chairs with all the memories from previous lives."
+                "year": "",
+                "title": "Work 3",
+                "desc": ""
             },
             {
                 "id": 4,
-                "img": "/img/design-work-img-4.jpg",
-                "img_mobile": "/img/design-work-mobile-img-4.jpg",
-                "lb_img": "/img/gallery-img3.jpg",
-                "lb_img_mobile": "/img/gallery-mobile-img3.jpg",
+                "img": "/img/works/work-4/works-img.jpg",
+                "img_mobile": "/img/works/work-4/works-mobile-img.jpg",
+                "lb_img": "/img/lightbox/work-4/lightbox-img.jpg",
+                "lb_img_mobile": "/img/lightbox/work-4/lightbox-mobile-img.jpg",
                 "alt": "designer-works",
-                "year": "2011",
-                "title": "Sitbag Studio Collection",
-                "desc": "As part of the “Reincarnation Collection”, The Suitcases are reincarnated to chairs with all the memories from previous lives."
+                "year": "",
+                "title": "Work 4",
+                "desc": ""
             },
             {
                 "id": 5,
-                "img": "/img/design-work-img-3.jpg",
-                "img_mobile": "/img/design-work-mobile-img-3.jpg",
-                "lb_img": "/img/gallery-img2.jpg",
-                "lb_img_mobile": "/img/gallery-mobile-img2.jpg",
+                "img": "/img/works/work-5/works-img.jpg",
+                "img_mobile": "/img/works/work-5/works-mobile-img.jpg",
+                "lb_img": "/img/lightbox/work-5/lightbox-img.jpg",
+                "lb_img_mobile": "/img/lightbox/work-5/lightbox-mobile-img.jpg",
                 "alt": "designer-works",
-                "year": "2012",
-                "title": "Sitbag Studio Collection",
-                "desc": "As part of the “Reincarnation Collection”, The Suitcases are reincarnated to chairs with all the memories from previous lives."
+                "year": "",
+                "title": "Work 5",
+                "desc": ""
+            },
+            {
+                "id": 6,
+                "img": "/img/works/work-6/works-img.jpg",
+                "img_mobile": "/img/works/work-6/works-mobile-img.jpg",
+                "lb_img": "/img/lightbox/work-6/lightbox-img.jpg",
+                "lb_img_mobile": "/img/lightbox/work-6/lightbox-mobile-img.jpg",
+                "alt": "designer-works",
+                "year": "",
+                "title": "Work 6",
+                "desc": ""
+            },
+            {
+                "id": 7,
+                "img": "/img/works/work-7/works-img.jpg",
+                "img_mobile": "/img/works/work-7/works-mobile-img.jpg",
+                "lb_img": "/img/lightbox/work-7/lightbox-img.jpg",
+                "lb_img_mobile": "/img/lightbox/work-7/lightbox-mobile-img.jpg",
+                "alt": "designer-works",
+                "year": "",
+                "title": "Work 7",
+                "desc": ""
+            },
+            {
+                "id": 8,
+                "img": "/img/works/work-8/works-img.jpg",
+                "img_mobile": "/img/works/work-8/works-mobile-img.jpg",
+                "lb_img": "/img/lightbox/work-8/lightbox-img.jpg",
+                "lb_img_mobile": "/img/lightbox/work-8/lightbox-mobile-img.jpg",
+                "alt": "designer-works",
+                "year": "",
+                "title": "Work 8",
+                "desc": ""
+            },
+            {
+                "id": 9,
+                "img": "/img/works/work-9/works-img.jpg",
+                "img_mobile": "/img/works/work-9/works-mobile-img.jpg",
+                "lb_img": "/img/lightbox/work-9/lightbox-img.jpg",
+                "lb_img_mobile": "/img/lightbox/work-9/lightbox-mobile-img.jpg",
+                "alt": "designer-works",
+                "year": "",
+                "title": "Work 9",
+                "desc": ""
             }
         ],
         "case_studies": [

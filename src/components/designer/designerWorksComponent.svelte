@@ -66,6 +66,18 @@
     let index = 0;
     let originalDataArr = [...works]
     let originalData = works.splice(0, works.length, ...originalDataArr);
+
+    // Work sayısı kaç olursa olsun (5, 9, vs.) otomatik olarak ikişerli
+    // gruplara bölüyoruz; son grup tek kalırsa "last" class'ını alır.
+    $: sortedWorks = [...works].sort((a,b)=> index === 1 ? a.year - b.year : index === -1 ? b.year - a.year : originalData);
+    $: workGroups = (() => {
+        const groups = [];
+        for (let i = 0; i < sortedWorks.length; i += 2) {
+            groups.push(sortedWorks.slice(i, i + 2));
+        }
+        return groups;
+    })();
+
     onMount(()=>{
         lazyImage()
         originalData
@@ -100,22 +112,13 @@
 
     <FilterComponent isSortOpen={isSortOpen} toggleSort={toggleSort} data={works}/>
     <div class="designer-content-container">
-       
-        <div class="designer-content-block">
-            {#each works.sort((a,b)=> index === 1 ? a.year - b.year : index === -1 ? b.year - a.year : originalData).slice(0,2) as item}
-                <DesignerWorksItemComponent openLightBox={openLightBox} closeLightBox={closeLightBox} isGalleryOpen={isGalleryOpen} item={item} index={item.id}/>
-            {/each}
-        </div>
-         <div class="designer-content-block">
-            {#each works.sort((a,b)=> index === 1 ? a.year - b.year : index === -1 ? b.year - a.year : originalData).slice(2,4) as item}
-                <DesignerWorksItemComponent openLightBox={openLightBox} closeLightBox={closeLightBox} isGalleryOpen={isGalleryOpen} item={item} index={item.id}/>   
-            {/each}
-        </div>
-        <div class="designer-content-block last">
-            {#each works.sort((a,b)=> index === 1 ? a.year - b.year : index === -1 ? b.year - a.year : originalData).slice(-1) as item}
-                <DesignerWorksItemComponent openLightBox={openLightBox} closeLightBox={closeLightBox} isGalleryOpen={isGalleryOpen} item={item} index={item.id}/>
-            {/each}
-        </div> 
+        {#each workGroups as group, gi}
+            <div class={`designer-content-block ${gi === workGroups.length - 1 ? "last" : ""}`}>
+                {#each group as item}
+                    <DesignerWorksItemComponent openLightBox={openLightBox} closeLightBox={closeLightBox} isGalleryOpen={isGalleryOpen} item={item} index={item.id}/>
+                {/each}
+            </div>
+        {/each}
     </div>
 
 {#if isGalleryOpen}
