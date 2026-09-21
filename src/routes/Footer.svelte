@@ -77,7 +77,7 @@
                <div class="footer-link-block">
                     <a class="link-head-item" href={DESIGNER_WORKS}>The Designer</a>
                     <a href={DESIGNER_WORKS}>Works</a>
-                    <a href={CASE_STUDIES}>Case studies</a>
+                    <a href={CASE_STUDIES}>Case Studies</a>
                     
                </div>
                <div class="footer-link-block">

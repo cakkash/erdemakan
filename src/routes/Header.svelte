@@ -141,7 +141,7 @@
 
 					<ul class="open-link-menu-block">
 						<li><a on:click={closeMenu} class={`${$page.url.pathname === DESIGNER_WORKS  ? "active" : ""}`} href={DESIGNER_WORKS}>Works</a></li>
-						<li><a on:click={closeMenu} class={`${$page.url.pathname === CASE_STUDIES ? "active" : ""}`} href={CASE_STUDIES}>Case studies</a></li>
+						<li><a on:click={closeMenu} class={`${$page.url.pathname === CASE_STUDIES ? "active" : ""}`} href={CASE_STUDIES}>Case Studies</a></li>
 					</ul>
 
 				</li>

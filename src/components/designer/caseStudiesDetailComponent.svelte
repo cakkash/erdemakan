@@ -149,7 +149,7 @@
         </div>
         <div class="breadcrumb-container">
             <div class="breadcrumb-block">
-                <a href={CASE_STUDIES}>Case studies</a>
+                <a href={CASE_STUDIES}>Case Studies</a>
                 <span>{banner.title}</span>
             </div>
         </div>
