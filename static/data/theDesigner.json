@@ -8,9 +8,9 @@
                 "lb_img": "/img/lightbox/work-1/lightbox-img.jpg",
                 "lb_img_mobile": "/img/lightbox/work-1/lightbox-mobile-img.jpg",
                 "alt": "designer-works",
-                "year": "",
+                "year": "2026",
                 "title": "Work 1",
-                "desc": ""
+                "desc": "Lorem ipsum dolor sit amet"
             },
             {
                 "id": 2,
@@ -19,9 +19,9 @@
                 "lb_img": "/img/lightbox/work-2/lightbox-img.jpg",
                 "lb_img_mobile": "/img/lightbox/work-2/lightbox-mobile-img.jpg",
                 "alt": "designer-works",
-                "year": "",
+                "year": "2026",
                 "title": "Work 2",
-                "desc": ""
+                "desc": "Lorem ipsum dolor sit amet"
             },
             {
                 "id": 3,
@@ -30,9 +30,9 @@
                 "lb_img": "/img/lightbox/work-3/lightbox-img.jpg",
                 "lb_img_mobile": "/img/lightbox/work-3/lightbox-mobile-img.jpg",
                 "alt": "designer-works",
-                "year": "",
+                "year": "2026",
                 "title": "Work 3",
-                "desc": ""
+                "desc": "Lorem ipsum dolor sit amet"
             },
             {
                 "id": 4,
@@ -41,9 +41,9 @@
                 "lb_img": "/img/lightbox/work-4/lightbox-img.jpg",
                 "lb_img_mobile": "/img/lightbox/work-4/lightbox-mobile-img.jpg",
                 "alt": "designer-works",
-                "year": "",
+                "year": "2026",
                 "title": "Work 4",
-                "desc": ""
+                "desc": "Lorem ipsum dolor sit amet"
             },
             {
                 "id": 5,
@@ -52,9 +52,9 @@
                 "lb_img": "/img/lightbox/work-5/lightbox-img.jpg",
                 "lb_img_mobile": "/img/lightbox/work-5/lightbox-mobile-img.jpg",
                 "alt": "designer-works",
-                "year": "",
+                "year": "2026",
                 "title": "Work 5",
-                "desc": ""
+                "desc": "Lorem ipsum dolor sit amet"
             },
             {
                 "id": 6,
@@ -63,9 +63,9 @@
                 "lb_img": "/img/lightbox/work-6/lightbox-img.jpg",
                 "lb_img_mobile": "/img/lightbox/work-6/lightbox-mobile-img.jpg",
                 "alt": "designer-works",
-                "year": "",
+                "year": "2026",
                 "title": "Work 6",
-                "desc": ""
+                "desc": "Lorem ipsum dolor sit amet"
             },
             {
                 "id": 7,
@@ -74,9 +74,9 @@
                 "lb_img": "/img/lightbox/work-7/lightbox-img.jpg",
                 "lb_img_mobile": "/img/lightbox/work-7/lightbox-mobile-img.jpg",
                 "alt": "designer-works",
-                "year": "",
+                "year": "2026",
                 "title": "Work 7",
-                "desc": ""
+                "desc": "Lorem ipsum dolor sit amet"
             },
             {
                 "id": 8,
@@ -85,9 +85,9 @@
                 "lb_img": "/img/lightbox/work-8/lightbox-img.jpg",
                 "lb_img_mobile": "/img/lightbox/work-8/lightbox-mobile-img.jpg",
                 "alt": "designer-works",
-                "year": "",
+                "year": "2026",
                 "title": "Work 8",
-                "desc": ""
+                "desc": "Lorem ipsum dolor sit amet"
             },
             {
                 "id": 9,
@@ -96,9 +96,9 @@
                 "lb_img": "/img/lightbox/work-9/lightbox-img.jpg",
                 "lb_img_mobile": "/img/lightbox/work-9/lightbox-mobile-img.jpg",
                 "alt": "designer-works",
-                "year": "",
+                "year": "2026",
                 "title": "Work 9",
-                "desc": ""
+                "desc": "Lorem ipsum dolor sit amet"
             }
         ],
         "case_studies": [
