@@ -22,8 +22,8 @@
                 "title": [
                     "<p>Heritage<br/>Ceramic Collection for Gorbon, 2021<p/>"
                 ],
-                "link": "/case-studies/armaggan-centerpieces",
-                "linkBtn": "view case"
+                "link": "/designer/works",
+                "linkBtn": "view works"
             },
             {
                 "id": 3,
@@ -34,7 +34,7 @@
                 "title": [
                     "<p>Bath Time Good Time<br/>Milan Design Week Exhibition for VitrA, 2016<p/>"
                 ],
-                "link": "/case-studies/armaggan-centerpieces",
+                "link": "/case-studies/case-study-7",
                 "linkBtn": "view case"
             },
             {
@@ -58,8 +58,8 @@
                 "title": [
                     "<p>Sitbag<br/>Reincarnation Project, 2009<p/>"
                 ],
-                "link": "/designer/works",
-                "linkBtn": "view works"
+                "link": "/case-studies/sitbag-studio-collection",
+                "linkBtn": "view case"
             },
             {
                 "id": 6,
@@ -82,8 +82,8 @@
                 "title": [
                     "<p>NExT<br/>Exhibition Space for VitrA, 2021<p/>"
                 ],
-                "link": "/designer/works",
-                "linkBtn": "view works"
+                "link": "/case-studies/case-study-6",
+                "linkBtn": "view case"
             }
         ],
         "case_data": [
