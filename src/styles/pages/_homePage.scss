@@ -524,6 +524,53 @@
         }
     }
 }
+.works-list-root{
+    .works-list-wrapper{
+        max-width: 1568px;
+        padding: 0 64px 61px;
+    }
+    .works-list-block{
+        display: flex;
+        align-items: flex-start;
+        justify-content: space-between;
+        border-top: 1px solid #DDDDDD;
+        padding: 65px 0 48px;
+        &:first-child{
+            border: none;
+        }
+        .img-item{
+            picture{
+                display: flex;
+            }
+        }
+        .text-item{
+            max-width: 550px;
+            width: 100%;
+            margin: 0 0 0 24px;
+            h2{
+                font-size: 48px;
+                line-height: 48px;
+                margin: 0 0 8px;
+            }
+            .year-item{
+                display: block;
+                font-size: 14px;
+                line-height: 17px;
+                color: #AAAAAA;
+                margin: 0 0 16px;
+            }
+            p{
+                font-size: 18px;
+                line-height: 24px;
+                margin: 0 0 24px;
+                font-family: "HelveticaNeue-Light",Arial, Helvetica, sans-serif;
+                &:last-child{
+                    margin: 0;
+                }
+            }
+        }
+    }
+}
 .img-item{
     position: relative;
 }

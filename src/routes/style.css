@@ -831,6 +831,50 @@ template {
   display: flex;
 }
 
+.works-list-root .works-list-wrapper {
+  max-width: 1568px;
+  padding: 0 64px 61px;
+}
+.works-list-root .works-list-block {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  border-top: 1px solid #DDDDDD;
+  padding: 65px 0 48px;
+}
+.works-list-root .works-list-block:first-child {
+  border: none;
+}
+.works-list-root .works-list-block .img-item picture {
+  display: flex;
+}
+.works-list-root .works-list-block .text-item {
+  max-width: 550px;
+  width: 100%;
+  margin: 0 0 0 24px;
+}
+.works-list-root .works-list-block .text-item h2 {
+  font-size: 48px;
+  line-height: 48px;
+  margin: 0 0 8px;
+}
+.works-list-root .works-list-block .text-item .year-item {
+  display: block;
+  font-size: 14px;
+  line-height: 17px;
+  color: #AAAAAA;
+  margin: 0 0 16px;
+}
+.works-list-root .works-list-block .text-item p {
+  font-size: 18px;
+  line-height: 24px;
+  margin: 0 0 24px;
+  font-family: "HelveticaNeue-Light", Arial, Helvetica, sans-serif;
+}
+.works-list-root .works-list-block .text-item p:last-child {
+  margin: 0;
+}
+
 .img-item {
   position: relative;
 }
@@ -1337,9 +1381,6 @@ template {
 }
 .case-detail-root p {
   margin: 22px 0 0;
-}
-.case-detail-root p strong {
-  font-weight: 700;
 }
 .case-detail-root .desc-block {
   margin: 64px 0 0;

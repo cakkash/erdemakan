@@ -4,11 +4,10 @@
      
      export let toggleSort
      export let isSortOpen
-    let index
+     export let selectedCategory = null;
+     export let selectedType = null;
+
     let isFilterOpen = false;
- 
-    
-    let selectedItem;
     let isMobile;
     let selectBoxArea;
     let isOpen = {};
@@ -40,27 +39,32 @@
         isOpen = {[key]: !isOpen[key]};
     }
     
-    const selectedItemFunc = (item,inx) =>{
-        selectedItem = item;
-        index = inx;
+    const selectedItemFunc = (filterKey, value) =>{
+        if (filterKey === "category") {
+            selectedCategory = (selectedCategory === value) ? null : value;
+        } else if (filterKey === "type") {
+            selectedType = (selectedType === value) ? null : value;
+        }
         isFilterOpen = false;
         isOpen = false;
     }
+
+    const clearFilters = (e) => {
+        e.stopPropagation();
+        selectedCategory = null;
+        selectedType = null;
+    }
+
     let filterData = [
         {
-            "id": 1,
+            "id": "category",
             "title": "Category",
             "category_names":["Furnitures","Accessories","Jewelry"]
         },
         {
-            "id": 2,
+            "id": "type",
             "title": "Type",
             "category_names":["Glass","Ceramic","Wood","Metal"]
-        },
-        {
-            "id": 3,
-            "title": "Batch Size",
-            "category_names":["0-100","100-1000","1000+"]
         }
     ]
 
@@ -76,8 +80,8 @@
 
     <div class={`filter-block ${isFilterOpen === true ? "active" : ""}`}  on:click={()=>toggleFilter()}>
         <span>
-            {#if selectedItem}
-                {selectedItem}
+            {#if selectedCategory || selectedType}
+                {[selectedCategory, selectedType].filter(Boolean).join(", ")}
                 {:else}
                 Filter
             {/if}
@@ -86,6 +90,11 @@
           <path d="M12 16L7.66987 8.5L16.3301 8.5L12 16Z" fill="black"/>
       </svg>           
     </div>
+    {#if selectedCategory || selectedType}
+        <div class="clear-filter-block" on:click={clearFilters}>
+            <span>Clear</span>
+        </div>
+    {/if}
 
     <div class={`sort-block ${isSortOpen === true ? "active" : ""}`} on:click={()=>{toggleSort()}}>
         <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -109,15 +118,15 @@
                 {#if isMobile}
                     {#if isOpen[menuIndex + 1]}
                         <div class="filter-menu-block">
-                            {#each item.category_names as items,index}
-                                    <span on:click={()=>{selectedItemFunc(items,index)}}>{items}</span>
+                            {#each item.category_names as items}
+                                    <span class={`${(item.id === "category" ? selectedCategory : selectedType) === items ? "selected" : ""}`} on:click={(e)=>{e.stopPropagation(); selectedItemFunc(item.id, items)}}>{items}</span>
                             {/each}
                         </div>
                     {/if}
                     {:else}
                         <div class="filter-menu-block">
-                            {#each item.category_names as items,index}
-                                    <span on:click={()=>{selectedItemFunc(items,index)}}>{items}</span>
+                            {#each item.category_names as items}
+                                    <span class={`${(item.id === "category" ? selectedCategory : selectedType) === items ? "selected" : ""}`} on:click={(e)=>{e.stopPropagation(); selectedItemFunc(item.id, items)}}>{items}</span>
                             {/each}
                         </div>
                 {/if}
