@@ -15,7 +15,7 @@
 </svelte:head>
 
 
-<div class="designer-root">
+<div class="designer-root works-list-root">
     <div class="sub-menu-block">
         <h1 class="secret-title">The designer</h1>
         <a href={DESIGNER_WORKS} class={`${$page.url.pathname === DESIGNER_WORKS ? "active":""}`}>Works</a>
