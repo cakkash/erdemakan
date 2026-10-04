@@ -169,32 +169,6 @@
                 "desc": "<p style=\"margin:0 0 16px\"><strong style=\"font-family: 'HelveticaNeue', Arial, Helvetica, sans-serif; font-weight: 700;\">Arçelik</strong></p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p><p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
                 "category": "",
                 "type": ""
-            },
-            {
-                "id": 14,
-                "img": "/img/works/work-14/works-img.jpg",
-                "img_mobile": "/img/works/work-14/works-mobile-img.jpg",
-                "lb_img": "/img/lightbox/work-14/lightbox-img.jpg",
-                "lb_img_mobile": "/img/lightbox/work-14/lightbox-mobile-img.jpg",
-                "alt": "designer-works",
-                "year": "2026",
-                "title": "Work 14",
-                "desc": "<p>Lorem ipsum dolor sit amet</p>",
-                "category": "",
-                "type": ""
-            },
-            {
-                "id": 15,
-                "img": "/img/works/work-15/works-img.jpg",
-                "img_mobile": "/img/works/work-15/works-mobile-img.jpg",
-                "lb_img": "/img/lightbox/work-15/lightbox-img.jpg",
-                "lb_img_mobile": "/img/lightbox/work-15/lightbox-mobile-img.jpg",
-                "alt": "designer-works",
-                "year": "2026",
-                "title": "Work 15",
-                "desc": "<p>Lorem ipsum dolor sit amet</p>",
-                "category": "",
-                "type": ""
             }
         ],
         "case_studies": [
