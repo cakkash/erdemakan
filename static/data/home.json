@@ -199,10 +199,10 @@
                 "designer_type": "Case study",
                 "year": "2018",
                 "title": [
-                    "<p>Underconstruction Conceptual Furnitures<br/>Identity exhibition<br/>Barbar, 2018<p/>"
+                    "<p>Underconstruction Conceptual Furnitures<br/>Identity Exhibition<br/>Barbar, 2018<p/>"
                 ],
-                "linkDesc": "view works",
-                "link": "/designer/works"
+                "linkDesc": "view exhibitions",
+                "link": "/nomad/exhibitions"
             },
             {
                 "id": 10,
@@ -277,10 +277,10 @@
                 "designer_type": "Case study",
                 "year": "2007",
                 "title": [
-                    "<p>Perfecet Stiletto<br/>Sex&Design Exhibition, 2007<p/>"
+                    "<p>Perfect Stiletto<br/>Sex & Design Exhibition, 2007<p/>"
                 ],
-                "linkDesc": "view works",
-                "link": "/designer/works"
+                "linkDesc": "view exhibitions",
+                "link": "/nomad/exhibitions"
             },
             {
                 "id": 16,
