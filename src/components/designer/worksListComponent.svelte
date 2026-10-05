@@ -9,7 +9,7 @@
     })
 </script>
 
-<div class="works-list-container">
+<div class="works-list-wrapper safe-area">
     {#each works as item}
         <div class="works-list-block">
             <WorksListImgComponent item={item}/>
