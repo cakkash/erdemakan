@@ -1,11 +1,35 @@
 {
   "success": {
+    "curatedExhibitionsIntro": {
+      "text": "For Erdem Akan, curating is another way of designing. His exhibitions widen the field of design and give fellow designers a platform, yet they begin with a simple curiosity: how would other designers and artists think about the same question? Seen together, the works become a form of design research: a collective inquiry whose findings take physical form.",
+      "note": "A selection of curated exhibitions, in reverse chronological order."
+    },
     "curatedExhibitionsData": [
       {
         "year": "2026",
         "title": "Big Soft",
-        "topDesc": [
-          "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vestibulum leo ac eleifend auctor. Maecenas mi leo, facilisis et enim sit amet, rhoncus tempus purus.</p>"
+        "subtitle": "The Sculptural Nature of Softness",
+        "description": "What happens to softness when it outgrows the body? Comfort is usually measured against our own scale: a cushion for the back, a seat for the hips. Big Soft sets that measure aside and asks six designers to treat softness as a sculptural quality rather than a service. In foam, textile, glass, wood and metal, their oversized objects swell, fold, embrace or seem to melt. Some call for touch; others only look soft. Comfort becomes something to enter and move around, not simply to sit on.",
+        "details": [
+          {
+            "label": "Dates & Venues",
+            "values": [
+              "24 June 2026 | NG Loft, Istanbul",
+              "24–26 September 2026 | FDI Fair, Istanbul"
+            ]
+          },
+          {
+            "label": "Project Coordinator",
+            "values": [
+              "Nur Gültekin / NG Agency"
+            ]
+          },
+          {
+            "label": "Designers",
+            "values": [
+              "Adnan Serbest, Atilla Kuzu, Erdem Akan, Erhan Sağır, Feza Koca, Yeşim Kozanlı"
+            ]
+          }
         ],
         "imgList": [
           {
@@ -29,299 +53,570 @@
         ]
       },
       {
-        "year": "2026",
-        "title": "Exhibition Title 2",
-        "topDesc": [
-          "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vestibulum leo ac eleifend auctor. Maecenas mi leo, facilisis et enim sit amet, rhoncus tempus purus.</p>"
+        "year": "2025",
+        "title": "Masterful",
+        "subtitle": "A Dialogue on Sitting, Thinking and Making",
+        "description": "A chair is rarely used for sitting alone: we rest, read, think and work in it. Masterful sets out to understand these ordinary rituals by pairing six designers with three furniture manufacturers. Each designer composes a setting of a seat, a side table and a light, approaching furniture as a fragment of daily life rather than a standalone product. Six interiors answer the same brief in six ways, revealing how comfort, material and craftsmanship are weighed by a particular mind and made real by a particular maker.",
+        "details": [
+          {
+            "label": "Dates & Venues",
+            "values": [
+              "25–27 September 2025 | FDI Fair, IFM Halls 9–10, Istanbul"
+            ]
+          },
+          {
+            "label": "Designers",
+            "values": [
+              "Ece Yalım, Erdem Akan, Kunter Şekercioğlu, Şebnem Buhara, Şule Koç, Tanju Özelgin"
+            ]
+          },
+          {
+            "label": "Manufacturers",
+            "values": [
+              "Birim, Mobi, Ndesign"
+            ]
+          }
         ],
         "imgList": [
           {
             "id": 1,
             "img": "/img/curated-exhibitions/exhibition-2/curated-img-1.jpg",
             "img_mobile": "/img/curated-exhibitions/exhibition-2/curated-mobile-img-1.jpg",
-            "alt": "Exhibition Title 2 1"
+            "alt": "Masterful 1"
           },
           {
             "id": 2,
             "img": "/img/curated-exhibitions/exhibition-2/curated-img-2.jpg",
             "img_mobile": "/img/curated-exhibitions/exhibition-2/curated-mobile-img-2.jpg",
-            "alt": "Exhibition Title 2 2"
+            "alt": "Masterful 2"
           },
           {
             "id": 3,
             "img": "/img/curated-exhibitions/exhibition-2/curated-img-3.jpg",
             "img_mobile": "/img/curated-exhibitions/exhibition-2/curated-mobile-img-3.jpg",
-            "alt": "Exhibition Title 2 3"
+            "alt": "Masterful 3"
           }
         ]
       },
       {
-        "year": "2026",
-        "title": "Exhibition Title 3",
-        "topDesc": [
-          "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vestibulum leo ac eleifend auctor. Maecenas mi leo, facilisis et enim sit amet, rhoncus tempus purus.</p>"
+        "year": "2021",
+        "title": "Light Path",
+        "subtitle": "Light, Colour and Perception",
+        "description": "Light determines how we see colour, form and space, yet in the city it is mostly taken for granted. Light Path gives this condition a public stage. Fourteen women from art, design and architecture create eleven installations along İstiklal Avenue, moving between illumination and darkness from Gezi Park to Galataport. Staged within the Beyoğlu Cultural Route Festival, the works also carry a civic question: how do coexistence, difference and tolerance become visible in shared space? The avenue turns into a route of encounters with light.",
+        "details": [
+          {
+            "label": "Dates & Venues",
+            "values": [
+              "29 October – 14 November 2021 | Gezi Park – Galataport, Istanbul",
+              "Beyoğlu Cultural Route Festival"
+            ]
+          },
+          {
+            "label": "Designers & Artists",
+            "values": [
+              "Alexis Şanal, Burcu Büyükünal, Burcu Sülek, Canan Tulca, Ceren Özşahin, Derya İyikul, Gülşah Cantaş, Melike Altınışık, Meriç Kara, Nihal Akarsu, Selva Gürdoğan, Sema Topaloğlu, Şule Koç, Zeynep Tümertekin"
+            ]
+          },
+          {
+            "label": "Organised by",
+            "values": [
+              "Republic of Türkiye Ministry of Culture and Tourism"
+            ]
+          }
         ],
         "imgList": [
           {
             "id": 1,
             "img": "/img/curated-exhibitions/exhibition-3/curated-img-1.jpg",
             "img_mobile": "/img/curated-exhibitions/exhibition-3/curated-mobile-img-1.jpg",
-            "alt": "Exhibition Title 3 1"
+            "alt": "Light Path 1"
           },
           {
             "id": 2,
             "img": "/img/curated-exhibitions/exhibition-3/curated-img-2.jpg",
             "img_mobile": "/img/curated-exhibitions/exhibition-3/curated-mobile-img-2.jpg",
-            "alt": "Exhibition Title 3 2"
+            "alt": "Light Path 2"
           },
           {
             "id": 3,
             "img": "/img/curated-exhibitions/exhibition-3/curated-img-3.jpg",
             "img_mobile": "/img/curated-exhibitions/exhibition-3/curated-mobile-img-3.jpg",
-            "alt": "Exhibition Title 3 3"
+            "alt": "Light Path 3"
           }
         ]
       },
       {
-        "year": "2026",
-        "title": "Exhibition Title 4",
-        "topDesc": [
-          "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vestibulum leo ac eleifend auctor. Maecenas mi leo, facilisis et enim sit amet, rhoncus tempus purus.</p>"
+        "year": "2016",
+        "title": "From Craft to Design",
+        "subtitle": "Reinterpreting Traditional Craftsmanship",
+        "description": "Traditional crafts live on in the hands of a few masters, often without a contemporary language to carry them forward. From Craft to Design tests what a new kind of encounter can offer. Five artists and designers enter the workshops of four master craftspeople working in hammered copper, wood, glass, bone and mother-of-pearl. Neither side leads alone: the designer’s idea is reshaped by the maker’s knowledge, and the technique by an unfamiliar brief. The resulting objects propose a future for these skills built on collaboration rather than nostalgia.",
+        "details": [
+          {
+            "label": "Dates & Venues",
+            "values": [
+              "3 May – December 2016 | Istanbul Modern Store, Istanbul"
+            ]
+          },
+          {
+            "label": "Artists & Designers",
+            "values": [
+              "Adnan Serbest, Atilla Kuzu, Ekrem Yalçındağ, Hatice Gökçe, Seyhun Topuz"
+            ]
+          },
+          {
+            "label": "Craftspeople",
+            "values": [
+              "Battal Yakut, Fatma Ayran, Gamze Araz Eskinazi, Sezgin Yalçın"
+            ]
+          },
+          {
+            "label": "Organised by",
+            "values": [
+              "Istanbul Modern Craft, Art and Design Platform"
+            ]
+          },
+          {
+            "label": "Supported by",
+            "values": [
+              "Istanbul Development Agency (İSTKA)"
+            ]
+          }
         ],
         "imgList": [
           {
             "id": 1,
             "img": "/img/curated-exhibitions/exhibition-4/curated-img-1.jpg",
             "img_mobile": "/img/curated-exhibitions/exhibition-4/curated-mobile-img-1.jpg",
-            "alt": "Exhibition Title 4 1"
+            "alt": "From Craft to Design 1"
           },
           {
             "id": 2,
             "img": "/img/curated-exhibitions/exhibition-4/curated-img-2.jpg",
             "img_mobile": "/img/curated-exhibitions/exhibition-4/curated-mobile-img-2.jpg",
-            "alt": "Exhibition Title 4 2"
+            "alt": "From Craft to Design 2"
           },
           {
             "id": 3,
             "img": "/img/curated-exhibitions/exhibition-4/curated-img-3.jpg",
             "img_mobile": "/img/curated-exhibitions/exhibition-4/curated-mobile-img-3.jpg",
-            "alt": "Exhibition Title 4 3"
+            "alt": "From Craft to Design 3"
           }
         ]
       },
       {
-        "year": "2026",
-        "title": "Exhibition Title 5",
-        "topDesc": [
-          "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vestibulum leo ac eleifend auctor. Maecenas mi leo, facilisis et enim sit amet, rhoncus tempus purus.</p>"
+        "year": "2014",
+        "title": "Idea Casting",
+        "subtitle": "The Art of Pure Aesthetics",
+        "description": "What remains of design when function and technology are removed? Idea Casting poses this question to fifteen designers and artists, freeing them from briefs, users and production constraints. Each translates a personal thought or preoccupation of the moment into a sculptural object, cast in bronze through a traditional technique. An ancient process lends permanence to something fleeting. Fifteen ideas take form with no purpose other than to be looked at, revealing what each participant reaches for when nothing is required of the object.",
+        "details": [
+          {
+            "label": "Dates & Venues",
+            "values": [
+              "October 2014 | ECNP Gallery, Istanbul"
+            ]
+          },
+          {
+            "label": "Designers & Artists",
+            "values": [
+              "Atilla Kuzu, Ayşe Birsel, Aziz Sarıyer, Cem Dinlenmiş, Ela Cindoruk, Emir Uras, Erdal Duman, Erdem Akan, Günnur Özsoy, Han Tümertekin, Nazan Pak, Seçkin Pirim, Sezgin Aksu, Ümit Ünal, Yeşim Demir"
+            ]
+          },
+          {
+            "label": "Organised by",
+            "values": [
+              "ELNA Ltd. / elacindoruknazanpak"
+            ]
+          },
+          {
+            "label": "Bronze Casting",
+            "values": [
+              "Fevzi Köz"
+            ]
+          }
         ],
         "imgList": [
           {
             "id": 1,
             "img": "/img/curated-exhibitions/exhibition-5/curated-img-1.jpg",
             "img_mobile": "/img/curated-exhibitions/exhibition-5/curated-mobile-img-1.jpg",
-            "alt": "Exhibition Title 5 1"
+            "alt": "Idea Casting 1"
           },
           {
             "id": 2,
             "img": "/img/curated-exhibitions/exhibition-5/curated-img-2.jpg",
             "img_mobile": "/img/curated-exhibitions/exhibition-5/curated-mobile-img-2.jpg",
-            "alt": "Exhibition Title 5 2"
+            "alt": "Idea Casting 2"
           },
           {
             "id": 3,
             "img": "/img/curated-exhibitions/exhibition-5/curated-img-3.jpg",
             "img_mobile": "/img/curated-exhibitions/exhibition-5/curated-mobile-img-3.jpg",
-            "alt": "Exhibition Title 5 3"
+            "alt": "Idea Casting 3"
           }
         ]
       },
       {
-        "year": "2026",
-        "title": "Exhibition Title 6",
-        "topDesc": [
-          "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vestibulum leo ac eleifend auctor. Maecenas mi leo, facilisis et enim sit amet, rhoncus tempus purus.</p>"
+        "year": "2011",
+        "title": "Nature of Design",
+        "subtitle": "Learning from the Natural World",
+        "description": "Nature is design’s oldest reference, yet designers draw on it in very different ways. Created for Addresistanbul’s fifth anniversary, Nature of Design places furniture, lighting and household objects side by side to map these approaches. Some works echo the curves, patterns and textures of the natural world; others build on its materials, structures or underlying principles. Read as a whole, the selection presents observation as a design method: close looking that leads to new forms, functions and ways of making.",
+        "details": [
+          {
+            "label": "Dates & Venues",
+            "values": [
+              "3 November – 15 December 2011 | Addresistanbul Decoration Center, Istanbul"
+            ]
+          },
+          {
+            "label": "Participants",
+            "values": [
+              "Ali Bakova, Ali Konyalı, Alper Böler, Art Stone, Atilla Kuzu, Autoban, Birim Mobilya, Birsen Canbaz, Boa Studio, Can Yalman, Çanakkale Seramik, Dani Benreytan, Derin Sarıyer, Devran Mursaloğlu, Didem Aras, Ekay, Ela Cindoruk, Erdem Akan, Eşik Dizayn, Faruk Akın, Gamze Güven, Gürsan Ergil, Habitat, Hakan Gencol, Hamam, Hastens, Hisar, Mavi Jeans, Meriç Kara, Mozaik, Murad Babadağ, Nazan Pak, Oya Akman, Ömer Ünal, Özlem Tuna, Papatya, Paşabahçe, Platt-K, Rare Blossom, Sadi Tekin, Serhan Gürkan, Step, Studio Punto, Şule Koç, Tardu Kuman, Tina Chandellier, Ümit Altun, Viko, Vitra, Yılmaz Zenger, Zeynep Balaban"
+            ]
+          },
+          {
+            "label": "In collaboration with",
+            "values": [
+              "maybedesign, Addresistanbul"
+            ]
+          },
+          {
+            "label": "Sponsors",
+            "values": [
+              "Addresistanbul, Lounge 96 FM, Le Pain Quotidien, Starbucks, Mövenpick, Leona/Kayra, Binboa, Bozca"
+            ]
+          }
         ],
         "imgList": [
           {
             "id": 1,
             "img": "/img/curated-exhibitions/exhibition-6/curated-img-1.jpg",
             "img_mobile": "/img/curated-exhibitions/exhibition-6/curated-mobile-img-1.jpg",
-            "alt": "Exhibition Title 6 1"
+            "alt": "Nature of Design 1"
           },
           {
             "id": 2,
             "img": "/img/curated-exhibitions/exhibition-6/curated-img-2.jpg",
             "img_mobile": "/img/curated-exhibitions/exhibition-6/curated-mobile-img-2.jpg",
-            "alt": "Exhibition Title 6 2"
+            "alt": "Nature of Design 2"
           },
           {
             "id": 3,
             "img": "/img/curated-exhibitions/exhibition-6/curated-img-3.jpg",
             "img_mobile": "/img/curated-exhibitions/exhibition-6/curated-mobile-img-3.jpg",
-            "alt": "Exhibition Title 6 3"
+            "alt": "Nature of Design 3"
           }
         ]
       },
       {
-        "year": "2026",
-        "title": "Exhibition Title 7",
-        "topDesc": [
-          "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vestibulum leo ac eleifend auctor. Maecenas mi leo, facilisis et enim sit amet, rhoncus tempus purus.</p>"
+        "year": "2010",
+        "title": "Morphing Archetypes",
+        "subtitle": "An Experiment in Collective Creativity",
+        "description": "Design is usually credited to a single author. Morphing Archetypes asks what happens when authorship is shared. Seven designers each begin with a familiar archetype, from a chair to a vase, then pass their drawings on, each altering what the previous one left behind. Like a visual game of Chinese whispers, seven objects travel through seven hands. Presented as a 3D animation, the exhibition traces how an idea mutates as it moves between minds, and how much of the original survives the journey.",
+        "details": [
+          {
+            "label": "Dates & Venues",
+            "values": [
+              "29 September – 3 October 2010 | Old Galata Bridge & Istanbul Modern, Istanbul",
+              "Istanbul Design Week"
+            ]
+          },
+          {
+            "label": "Designers",
+            "values": [
+              "Derin Sarıyer, Erdem Akan, Hakan Gencol, Kunter Şekercioğlu, Meriç Kara, Murad Babadağ, Ümit Altun"
+            ]
+          },
+          {
+            "label": "Project Management",
+            "values": [
+              "Erdem Akan, Hakan Gencol"
+            ]
+          },
+          {
+            "label": "Organised by",
+            "values": [
+              "Cooperative Project"
+            ]
+          },
+          {
+            "label": "Sponsors",
+            "values": [
+              "Arçelik, maybedesign"
+            ]
+          }
         ],
         "imgList": [
           {
             "id": 1,
             "img": "/img/curated-exhibitions/exhibition-7/curated-img-1.jpg",
             "img_mobile": "/img/curated-exhibitions/exhibition-7/curated-mobile-img-1.jpg",
-            "alt": "Exhibition Title 7 1"
+            "alt": "Morphing Archetypes 1"
           },
           {
             "id": 2,
             "img": "/img/curated-exhibitions/exhibition-7/curated-img-2.jpg",
             "img_mobile": "/img/curated-exhibitions/exhibition-7/curated-mobile-img-2.jpg",
-            "alt": "Exhibition Title 7 2"
+            "alt": "Morphing Archetypes 2"
           },
           {
             "id": 3,
             "img": "/img/curated-exhibitions/exhibition-7/curated-img-3.jpg",
             "img_mobile": "/img/curated-exhibitions/exhibition-7/curated-mobile-img-3.jpg",
-            "alt": "Exhibition Title 7 3"
+            "alt": "Morphing Archetypes 3"
           }
         ]
       },
       {
-        "year": "2026",
-        "title": "Exhibition Title 8",
-        "topDesc": [
-          "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vestibulum leo ac eleifend auctor. Maecenas mi leo, facilisis et enim sit amet, rhoncus tempus purus.</p>"
+        "year": "2009",
+        "title": "OOPS!",
+        "subtitle": "The Other Side of Design",
+        "description": "Design history is written through finished products; the ideas that fail rarely come into view. OOPS! turns to that hidden archive. It brings unrealised projects by Turkish designers into public view, each abandoned or interrupted by technical obstacles, financial limits or simple circumstance. Shown side by side, these works become evidence of how design actually happens: through trial, compromise and chance as much as intention. Failure is treated not as an embarrassment, but as a body of knowledge worth sharing.",
+        "details": [
+          {
+            "label": "Dates & Venues",
+            "values": [
+              "18–21 June 2009 | Istanbul Culinary Institute, Istanbul"
+            ]
+          },
+          {
+            "label": "Designers",
+            "values": [
+              "Aslı Oğuzer, Bahadır Yargın, Bertan Berk, Boğaç Şimşir, Derya Özçelik, Ela Cindoruk, Emre Ergene, Erdem Akan, Gamze Güven, Kunter Şekercioğlu, Murat Tamgüç, Oya Akman, Serhan Gürkan, Uğraş Akpınar, Ümit Altun"
+            ]
+          },
+          {
+            "label": "Sponsors",
+            "values": [
+              "Istanbul Design Week, Elle Decor"
+            ]
+          }
         ],
         "imgList": [
           {
             "id": 1,
             "img": "/img/curated-exhibitions/exhibition-8/curated-img-1.jpg",
             "img_mobile": "/img/curated-exhibitions/exhibition-8/curated-mobile-img-1.jpg",
-            "alt": "Exhibition Title 8 1"
+            "alt": "OOPS! 1"
           },
           {
             "id": 2,
             "img": "/img/curated-exhibitions/exhibition-8/curated-img-2.jpg",
             "img_mobile": "/img/curated-exhibitions/exhibition-8/curated-mobile-img-2.jpg",
-            "alt": "Exhibition Title 8 2"
+            "alt": "OOPS! 2"
           },
           {
             "id": 3,
             "img": "/img/curated-exhibitions/exhibition-8/curated-img-3.jpg",
             "img_mobile": "/img/curated-exhibitions/exhibition-8/curated-mobile-img-3.jpg",
-            "alt": "Exhibition Title 8 3"
+            "alt": "OOPS! 3"
           }
         ]
       },
       {
-        "year": "2026",
-        "title": "Exhibition Title 9",
-        "topDesc": [
-          "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vestibulum leo ac eleifend auctor. Maecenas mi leo, facilisis et enim sit amet, rhoncus tempus purus.</p>"
+        "year": "2008",
+        "title": "Dream Mugs",
+        "subtitle": "Rethinking an Everyday Object",
+        "description": "The coffee mug is one of the most personal objects we use, held every day and rarely noticed. Commissioned for Starbucks Türkiye’s fifth anniversary, Dream Mugs challenges designers and artists to look at it again, beyond its conventional form and function. Each response approaches the mug from a different angle: its daily routine, its shared moments, its shape. The collection measures how much character, humour and invention a single familiar form can hold.",
+        "details": [
+          {
+            "label": "Dates & Venues",
+            "values": [
+              "December 2008 | Kanyon, Istanbul"
+            ]
+          },
+          {
+            "label": "Designers",
+            "values": [
+              "Adnan Serbest, Ahmet Başar, Ali Bakova, Alper Böler, Beste Miray Doğan, Betsy Levi, Birsen Canbaz, Boğaç Şimşir, Bora Akçay, Derin Sarıyer, Ela Cindoruk, Emine Nursel Boztepe Turan, Emre Güntürkün / Design, Erdem Akan, Gamze Güven, Gaye Kalavlı, Guillaume Credoz, Günnur Özsoy, Hakan Gencol, Hatice Armağan, Işık Görgün, Koray Özgen, Kunter Şekercioğlu, Murad Babadağ, Nazan Pak, Ömer Ünal, Oya Akman, Sadi Tekin, Taner Şekercioğlu, Yılmaz Aysan, Yılmaz Zenger, Yonca Akçay, Zeynep Fadıllıoğlu, Zeynep Köksal"
+            ]
+          },
+          {
+            "label": "Commissioned by",
+            "values": [
+              "Starbucks Türkiye"
+            ]
+          }
         ],
         "imgList": [
           {
             "id": 1,
             "img": "/img/curated-exhibitions/exhibition-9/curated-img-1.jpg",
             "img_mobile": "/img/curated-exhibitions/exhibition-9/curated-mobile-img-1.jpg",
-            "alt": "Exhibition Title 9 1"
+            "alt": "Dream Mugs 1"
           },
           {
             "id": 2,
             "img": "/img/curated-exhibitions/exhibition-9/curated-img-2.jpg",
             "img_mobile": "/img/curated-exhibitions/exhibition-9/curated-mobile-img-2.jpg",
-            "alt": "Exhibition Title 9 2"
+            "alt": "Dream Mugs 2"
           },
           {
             "id": 3,
             "img": "/img/curated-exhibitions/exhibition-9/curated-img-3.jpg",
             "img_mobile": "/img/curated-exhibitions/exhibition-9/curated-mobile-img-3.jpg",
-            "alt": "Exhibition Title 9 3"
+            "alt": "Dream Mugs 3"
           }
         ]
       },
       {
-        "year": "2026",
-        "title": "Exhibition Title 10",
-        "topDesc": [
-          "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vestibulum leo ac eleifend auctor. Maecenas mi leo, facilisis et enim sit amet, rhoncus tempus purus.</p>"
+        "year": "2007",
+        "title": "XXX-Design",
+        "subtitle": "Sex as a Subject of Design",
+        "description": "Sex runs through much of material culture, yet design seldom addresses it openly. XXX-Design takes the subject out of the private sphere and onto Istanbul’s historic Galata Bridge. Designers and artists approach intimacy, desire and social taboo with humour, curiosity and provocation, through objects, images and associations. The public setting is part of the statement: the exhibition tests how far design can open a conversation that society usually keeps behind closed doors.",
+        "details": [
+          {
+            "label": "Dates & Venues",
+            "values": [
+              "4–10 September 2007 | Old Galata Bridge, Istanbul"
+            ]
+          },
+          {
+            "label": "Designers",
+            "values": [
+              "Ahmet Başar, Ayşe Küçük, Aziz Sarıyer, Beste Miray Doğan, Birsen Canbaz, Bora Akçay, Çiğdem Kaya, Devran Mursaloğlu, Elif Tanrıbilir, Emine Turan, Erdem Akan, Evrim Kavcar, Faruk Akın, Gamze Güven, Gaye Kalavlı, Günnur Özsoy, Hatice Çoban, Koray Özgen, Kunter Şekercioğlu, Murat Armağan, Oya Şenocak Akman, Sadi Tekin, Sedef Haydaroğlu, Taner Şekercioğlu, Tanju Özelgin, UB Studio, Yankı Göktepe, Yılmaz Zenger, Yonca Akçay"
+            ]
+          },
+          {
+            "label": "Sponsor",
+            "values": [
+              "Epengle"
+            ]
+          }
         ],
         "imgList": [
           {
             "id": 1,
             "img": "/img/curated-exhibitions/exhibition-10/curated-img-1.jpg",
             "img_mobile": "/img/curated-exhibitions/exhibition-10/curated-mobile-img-1.jpg",
-            "alt": "Exhibition Title 10 1"
+            "alt": "XXX-Design 1"
           },
           {
             "id": 2,
             "img": "/img/curated-exhibitions/exhibition-10/curated-img-2.jpg",
             "img_mobile": "/img/curated-exhibitions/exhibition-10/curated-mobile-img-2.jpg",
-            "alt": "Exhibition Title 10 2"
+            "alt": "XXX-Design 2"
           },
           {
             "id": 3,
             "img": "/img/curated-exhibitions/exhibition-10/curated-img-3.jpg",
             "img_mobile": "/img/curated-exhibitions/exhibition-10/curated-mobile-img-3.jpg",
-            "alt": "Exhibition Title 10 3"
+            "alt": "XXX-Design 3"
           }
         ]
       },
       {
-        "year": "2026",
-        "title": "Exhibition Title 11",
-        "topDesc": [
-          "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vestibulum leo ac eleifend auctor. Maecenas mi leo, facilisis et enim sit amet, rhoncus tempus purus.</p>"
+        "year": "2005",
+        "title": "abç",
+        "subtitle": "An Alphabet for Turkish Design",
+        "description": "Can contemporary design build its own vocabulary from the visual culture of Türkiye? abç assembles designers working across furniture, objects, graphics, photography and performance to reinterpret familiar forms, from tea glasses to architectural details. The title condenses the ambition: the universal abc becomes the Turkish abç through a single cedilla beneath the c. A small typographic gesture stands for a larger aim, to speak a universal design language with a local accent.",
+        "details": [
+          {
+            "label": "Dates & Venues",
+            "values": [
+              "5–20 July 2005 | Çağla Cabaoğlu Art Gallery, Teşvikiye & Derin Showroom, Maçka, Istanbul"
+            ]
+          },
+          {
+            "label": "Designers & Artists",
+            "values": [
+              "Aali Müstecaplıoğlu, Ali Konyalı, Alper Maral, Aslı Aydemir, Aslı Bor, Ayşe Birsel, Aziz Sarıyer, Defne Koz, Deniz Duru, Emir Uras, Erdem Akan, Gaye Kalavlı, Jülide Arslan, Luca Proto, Meltem Eti Proto, Nanni Minutolo, Nazlı Batırbaygil, Senem Oluz, Serdar Şamlı, Tanju Özelgin"
+            ]
+          },
+          {
+            "label": "Organised by",
+            "values": [
+              "Ali Baba Design Lab"
+            ]
+          },
+          {
+            "label": "Exhibition Design",
+            "values": [
+              "Ali Baba Design Lab"
+            ]
+          },
+          {
+            "label": "Sponsors & Supporters",
+            "values": [
+              "Adil Öngel Mimarlık, Asya Kızılcahamam Termal Tatil Köyü, Cameks, Çağla Cabaoğlu Art Gallery, Derin Design, Fiberli Aydınlatma, İdem Reklam, Leea Brasserie, TMMOB Chamber of Interior Architects Istanbul, Step Halıcılık, Şişli Municipality, VitrA"
+            ]
+          }
         ],
         "imgList": [
           {
             "id": 1,
             "img": "/img/curated-exhibitions/exhibition-11/curated-img-1.jpg",
             "img_mobile": "/img/curated-exhibitions/exhibition-11/curated-mobile-img-1.jpg",
-            "alt": "Exhibition Title 11 1"
+            "alt": "abç 1"
           },
           {
             "id": 2,
             "img": "/img/curated-exhibitions/exhibition-11/curated-img-2.jpg",
             "img_mobile": "/img/curated-exhibitions/exhibition-11/curated-mobile-img-2.jpg",
-            "alt": "Exhibition Title 11 2"
+            "alt": "abç 2"
           },
           {
             "id": 3,
             "img": "/img/curated-exhibitions/exhibition-11/curated-img-3.jpg",
             "img_mobile": "/img/curated-exhibitions/exhibition-11/curated-mobile-img-3.jpg",
-            "alt": "Exhibition Title 11 3"
+            "alt": "abç 3"
           }
         ]
       },
       {
-        "year": "2026",
-        "title": "Exhibition Title 12",
-        "topDesc": [
-          "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vestibulum leo ac eleifend auctor. Maecenas mi leo, facilisis et enim sit amet, rhoncus tempus purus.</p>"
+        "year": "2005",
+        "title": "Design & Recycle",
+        "subtitle": "New Possibilities for Discarded Materials",
+        "description": "What a culture throws away says as much about it as what it keeps. Design & Recycle sets out to reconsider the value of discarded materials. Thirty-four artists and designers present 35 projects: glass, plastic, paper and packaging waste reworked into everyday objects, alongside conceptual pieces that question the consumer habits producing that waste in the first place. Familiar materials take on new forms and functions, unsettling assumptions about what is worthless and what deserves a second life.",
+        "details": [
+          {
+            "label": "Dates & Venues",
+            "values": [
+              "2–24 June 2005 | Istanbul Modern Art Gallery, Istanbul"
+            ]
+          },
+          {
+            "label": "Designers & Artists",
+            "values": [
+              "Balım Gürel, Birsen Canbaz, Cam Ocağı, Ceyden Şan, Dani Benreytan & Betsy Kohen, Denizhan Özer, Eralp Akyol, Esma Paçal Turam, Eşik Dizayn, Faruk Akın, Fikir Küpü, Gaye Kalavlı, Jülide Arslan, Ka-BUM!, maybedesign, metlu, Murad Babadağ, Nilay Bektaş, Sabahattin Emir, Şeref Erol, Şule Koç & Zeynep Balaban, u studio, Yonca Akçay, Zeynep Balaban"
+            ]
+          },
+          {
+            "label": "Project Assistant",
+            "values": [
+              "Aslı Aydemir"
+            ]
+          },
+          {
+            "label": "Scenography",
+            "values": [
+              "Meltem Eti Proto, Luca Proto"
+            ]
+          },
+          {
+            "label": "Sponsors",
+            "values": [
+              "ÇEVKO, WWF, Efes Pilsen, Coca-Cola"
+            ]
+          }
         ],
         "imgList": [
           {
             "id": 1,
             "img": "/img/curated-exhibitions/exhibition-12/curated-img-1.jpg",
             "img_mobile": "/img/curated-exhibitions/exhibition-12/curated-mobile-img-1.jpg",
-            "alt": "Exhibition Title 12 1"
+            "alt": "Design & Recycle 1"
           },
           {
             "id": 2,
             "img": "/img/curated-exhibitions/exhibition-12/curated-img-2.jpg",
             "img_mobile": "/img/curated-exhibitions/exhibition-12/curated-mobile-img-2.jpg",
-            "alt": "Exhibition Title 12 2"
+            "alt": "Design & Recycle 2"
           },
           {
             "id": 3,
             "img": "/img/curated-exhibitions/exhibition-12/curated-img-3.jpg",
             "img_mobile": "/img/curated-exhibitions/exhibition-12/curated-mobile-img-3.jpg",
-            "alt": "Exhibition Title 12 3"
+            "alt": "Design & Recycle 3"
           }
         ]
       }

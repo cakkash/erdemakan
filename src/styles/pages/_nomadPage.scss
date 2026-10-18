@@ -50,6 +50,31 @@
                 margin: 0;
             }
         }
+        .subtitle {
+            font-style: italic;
+            margin: 0;
+            & + p {
+                margin: 12px 0 0;
+            }
+        }
+        // Curated Exhibitions: Dates & Venues, Designers vb. bilgi blokları
+        .detail-block {
+            margin: 24px 0 0;
+        }
+        .detail-label {
+            font-family: "HelveticaNeue-Bold", Arial, Helvetica, sans-serif;
+            font-size: 14px;
+            line-height: 17px;
+            margin: 0 0 4px;
+        }
+        .detail-value {
+            font-size: 14px;
+            line-height: 20px;
+            color: #000;
+        }
+        .detail-block + .img-block {
+            margin-top: 32px;
+        }
         .img-block {
             display: flex;
             margin: 24px 0;
@@ -60,6 +85,18 @@
                 margin: 0 0 0 24px;
                 &:first-child {
                     margin: 0;
+                }
+            }
+            // Curated Exhibitions: 3 yatay görsel, satırı eşit paylaşır
+            &.three-col {
+                .img-item {
+                    flex: 1 1 0;
+                    min-width: 0;
+                    img {
+                        width: 100%;
+                        aspect-ratio: 3 / 2;
+                        object-fit: cover;
+                    }
                 }
             }
         }
@@ -73,3 +110,21 @@
     }
 }
 
+// Curated Exhibitions giriş metni
+.curated-intro {
+    padding: 48px 0 32px;
+    border-bottom: 1px solid #DDDDDD;
+    p {
+        max-width: 760px;
+        font-size: 18px;
+        line-height: 24px;
+        margin: 0 0 16px;
+    }
+    .curated-note {
+        font-size: 14px;
+        line-height: 17px;
+        color: #888;
+        font-style: italic;
+        margin: 0;
+    }
+}

@@ -537,6 +537,10 @@
         margin: 0 0 92px 0;
     }
 
+    .curated-intro {
+        padding: 42px 0 28px;
+    }
+
     .nomad-content-container {
         flex-direction: column;
         padding: 42px 0 28px;
@@ -556,6 +560,12 @@
                     margin: 16px 0 0 0;
                     &:first-child {
                         margin: 16px 0 0 0;
+                    }
+                }
+                &.three-col {
+                    .img-item {
+                        flex: none;
+                        width: 100%;
                     }
                 }
             }

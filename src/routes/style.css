@@ -1276,6 +1276,30 @@ template {
 .nomad-content-container .nomad-right-block p:first-child {
   margin: 0;
 }
+.nomad-content-container .nomad-right-block .subtitle {
+  font-style: italic;
+  margin: 0;
+}
+.nomad-content-container .nomad-right-block .subtitle + p {
+  margin: 12px 0 0;
+}
+.nomad-content-container .nomad-right-block .detail-block {
+  margin: 24px 0 0;
+}
+.nomad-content-container .nomad-right-block .detail-label {
+  font-family: "HelveticaNeue-Bold", Arial, Helvetica, sans-serif;
+  font-size: 14px;
+  line-height: 17px;
+  margin: 0 0 4px;
+}
+.nomad-content-container .nomad-right-block .detail-value {
+  font-size: 14px;
+  line-height: 20px;
+  color: #000;
+}
+.nomad-content-container .nomad-right-block .detail-block + .img-block {
+  margin-top: 32px;
+}
 .nomad-content-container .nomad-right-block .img-block {
   display: flex;
   margin: 24px 0;
@@ -1289,12 +1313,38 @@ template {
 .nomad-content-container .nomad-right-block .img-block .img-item:first-child {
   margin: 0;
 }
+.nomad-content-container .nomad-right-block .img-block.three-col .img-item {
+  flex: 1 1 0;
+  min-width: 0;
+}
+.nomad-content-container .nomad-right-block .img-block.three-col .img-item img {
+  width: 100%;
+  aspect-ratio: 3/2;
+  object-fit: cover;
+}
 .nomad-content-container:first-child {
   padding: 48px 0 32px;
 }
 .nomad-content-container:last-child {
   border-bottom: none;
   padding: 32px 0 0;
+}
+.curated-intro {
+  padding: 48px 0 32px;
+  border-bottom: 1px solid #DDDDDD;
+}
+.curated-intro p {
+  max-width: 760px;
+  font-size: 18px;
+  line-height: 24px;
+  margin: 0 0 16px;
+}
+.curated-intro .curated-note {
+  font-size: 14px;
+  line-height: 17px;
+  color: #888;
+  font-style: italic;
+  margin: 0;
 }
 
 .case-detail-root .case-detail-banner-container {
@@ -1717,6 +1767,10 @@ template {
     object-fit: cover;
   }
   .nomad-content-container .nomad-right-block p {
+    font-size: 16px;
+    line-height: 22px;
+  }
+  .curated-intro p {
     font-size: 16px;
     line-height: 22px;
   }
@@ -2268,6 +2322,9 @@ template {
   .nomad-root {
     margin: 0 0 92px 0;
   }
+  .curated-intro {
+    padding: 42px 0 28px;
+  }
   .nomad-content-container {
     flex-direction: column;
     padding: 42px 0 28px;
@@ -2291,6 +2348,10 @@ template {
   }
   .nomad-content-container .nomad-right-block .img-block .img-item:first-child {
     margin: 16px 0 0 0;
+  }
+  .nomad-content-container .nomad-right-block .img-block.three-col .img-item {
+    flex: none;
+    width: 100%;
   }
   .case-studies-root .case-studies-block {
     flex-direction: column-reverse;
