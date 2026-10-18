@@ -1,6 +1,6 @@
 <script>
 	import { page } from '$app/stores';
-	import { NOMAD_MILESTONES, THINKER, DESIGNER_WORKS, CONTACT, HOMEPAGE, CASE_DETAIL, CASE_STUDIES, NOMAD_EXHIBITIONS, NOMAD_LECTURES } from '../constans/routePaths.svelte';
+	import { NOMAD_MILESTONES, THINKER, DESIGNER_WORKS, CONTACT, HOMEPAGE, CASE_DETAIL, CASE_STUDIES, NOMAD_EXHIBITIONS } from '../constans/routePaths.svelte';
 	import {onDestroy, onMount} from "svelte";
     let isMobile;
 	let isDesignerToggle = false;
@@ -156,8 +156,7 @@
 					</div>
 					{:else}
 					<a  href={NOMAD_MILESTONES} class={`${$page.url.pathname === NOMAD_MILESTONES || 
-						$page.url.pathname === NOMAD_EXHIBITIONS || 
-						$page.url.pathname === NOMAD_LECTURES ? "active" : ""}`}>
+						$page.url.pathname === NOMAD_EXHIBITIONS ? "active" : ""}`}>
 						The Curator
 						<!-- <svg xmlns="http://www.w3.org/2000/svg" width="11" height="8" viewBox="0 0 11 8" fill="none">
 							<path d="M1 1L5.5 6L10 1" stroke="black" stroke-width="2"/>
@@ -168,9 +167,8 @@
 			
 						<ul class="open-link-menu-block">
 							
-								<li><a on:click={closeMenu} class={`${$page.url.pathname === NOMAD_MILESTONES ? "active" : ""}`} href={NOMAD_MILESTONES}>Milestones</a></li>
-								<li><a on:click={closeMenu} class={`${$page.url.pathname === NOMAD_EXHIBITIONS  ? "active" : ""}`} href={NOMAD_EXHIBITIONS}>Exhibitions</a></li>
-								<li><a on:click={closeMenu} class={`${ $page.url.pathname === NOMAD_LECTURES ? "active" : ""}`} href={NOMAD_LECTURES}>Lectures</a></li>
+								<li><a on:click={closeMenu} class={`${$page.url.pathname === NOMAD_MILESTONES ? "active" : ""}`} href={NOMAD_MILESTONES}>Curated Exhibitions</a></li>
+								<li><a on:click={closeMenu} class={`${$page.url.pathname === NOMAD_EXHIBITIONS  ? "active" : ""}`} href={NOMAD_EXHIBITIONS}>Inspiration &amp; Discoveries</a></li>
 							
 						</ul>
 	

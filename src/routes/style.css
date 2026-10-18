@@ -1252,6 +1252,19 @@ template {
   font-size: 14px;
   padding: 0 32px 0 0;
 }
+.nomad-content-container .nomad-left-block .index-text {
+  font-size: 28px;
+  line-height: 32px;
+  color: #000;
+  margin: 0 0 16px;
+}
+.nomad-content-container .nomad-left-block .year-text, .nomad-content-container .nomad-left-block .title-text {
+  font-family: "HelveticaNeue-Bold", Arial, Helvetica, sans-serif;
+  font-size: 14px;
+  line-height: 17px;
+  color: #000;
+  padding: 0 32px 0 0;
+}
 .nomad-content-container .nomad-right-block {
   width: 83.5%;
 }

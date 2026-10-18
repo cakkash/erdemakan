@@ -1,5 +1,5 @@
 <script>
-     import { NOMAD_MILESTONES, THINKER, DESIGNER_WORKS, CONTACT, HOMEPAGE, CASE_DETAIL, CASE_STUDIES, NOMAD_EXHIBITIONS, NOMAD_LECTURES } from '../constans/routePaths.svelte';
+     import { NOMAD_MILESTONES, THINKER, DESIGNER_WORKS, CONTACT, HOMEPAGE, CASE_DETAIL, CASE_STUDIES, NOMAD_EXHIBITIONS } from '../constans/routePaths.svelte';
      import {onDestroy, onMount} from "svelte";
      let isMobile;
 
@@ -82,9 +82,8 @@
                </div>
                <div class="footer-link-block">
                     <a class="link-head-item" href={NOMAD_MILESTONES}>The Curator</a>
-                    <a href={NOMAD_MILESTONES}>Milestones</a>
-                    <a href={NOMAD_EXHIBITIONS}>Exhibitons</a>
-                    <a href={NOMAD_LECTURES}>Lectures</a>
+                    <a href={NOMAD_MILESTONES}>Curated Exhibitions</a>
+                    <a href={NOMAD_EXHIBITIONS}>Inspiration &amp; Discoveries</a>
                </div>
                <div class="footer-link-block">
                     <a class="link-head-item" href={THINKER}>The Thinker</a>
