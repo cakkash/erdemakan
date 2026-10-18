@@ -6,6 +6,26 @@
         "title": "Big Soft",
         "topDesc": [
           "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vestibulum leo ac eleifend auctor. Maecenas mi leo, facilisis et enim sit amet, rhoncus tempus purus.</p>"
+        ],
+        "imgList": [
+          {
+            "id": 1,
+            "img": "/img/curated-exhibitions/exhibition-1/curated-img-1.jpg",
+            "img_mobile": "/img/curated-exhibitions/exhibition-1/curated-mobile-img-1.jpg",
+            "alt": "Big Soft 1"
+          },
+          {
+            "id": 2,
+            "img": "/img/curated-exhibitions/exhibition-1/curated-img-2.jpg",
+            "img_mobile": "/img/curated-exhibitions/exhibition-1/curated-mobile-img-2.jpg",
+            "alt": "Big Soft 2"
+          },
+          {
+            "id": 3,
+            "img": "/img/curated-exhibitions/exhibition-1/curated-img-3.jpg",
+            "img_mobile": "/img/curated-exhibitions/exhibition-1/curated-mobile-img-3.jpg",
+            "alt": "Big Soft 3"
+          }
         ]
       },
       {
@@ -13,6 +33,26 @@
         "title": "Exhibition Title 2",
         "topDesc": [
           "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vestibulum leo ac eleifend auctor. Maecenas mi leo, facilisis et enim sit amet, rhoncus tempus purus.</p>"
+        ],
+        "imgList": [
+          {
+            "id": 1,
+            "img": "/img/curated-exhibitions/exhibition-2/curated-img-1.jpg",
+            "img_mobile": "/img/curated-exhibitions/exhibition-2/curated-mobile-img-1.jpg",
+            "alt": "Exhibition Title 2 1"
+          },
+          {
+            "id": 2,
+            "img": "/img/curated-exhibitions/exhibition-2/curated-img-2.jpg",
+            "img_mobile": "/img/curated-exhibitions/exhibition-2/curated-mobile-img-2.jpg",
+            "alt": "Exhibition Title 2 2"
+          },
+          {
+            "id": 3,
+            "img": "/img/curated-exhibitions/exhibition-2/curated-img-3.jpg",
+            "img_mobile": "/img/curated-exhibitions/exhibition-2/curated-mobile-img-3.jpg",
+            "alt": "Exhibition Title 2 3"
+          }
         ]
       },
       {
@@ -20,6 +60,26 @@
         "title": "Exhibition Title 3",
         "topDesc": [
           "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vestibulum leo ac eleifend auctor. Maecenas mi leo, facilisis et enim sit amet, rhoncus tempus purus.</p>"
+        ],
+        "imgList": [
+          {
+            "id": 1,
+            "img": "/img/curated-exhibitions/exhibition-3/curated-img-1.jpg",
+            "img_mobile": "/img/curated-exhibitions/exhibition-3/curated-mobile-img-1.jpg",
+            "alt": "Exhibition Title 3 1"
+          },
+          {
+            "id": 2,
+            "img": "/img/curated-exhibitions/exhibition-3/curated-img-2.jpg",
+            "img_mobile": "/img/curated-exhibitions/exhibition-3/curated-mobile-img-2.jpg",
+            "alt": "Exhibition Title 3 2"
+          },
+          {
+            "id": 3,
+            "img": "/img/curated-exhibitions/exhibition-3/curated-img-3.jpg",
+            "img_mobile": "/img/curated-exhibitions/exhibition-3/curated-mobile-img-3.jpg",
+            "alt": "Exhibition Title 3 3"
+          }
         ]
       },
       {
@@ -27,6 +87,26 @@
         "title": "Exhibition Title 4",
         "topDesc": [
           "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vestibulum leo ac eleifend auctor. Maecenas mi leo, facilisis et enim sit amet, rhoncus tempus purus.</p>"
+        ],
+        "imgList": [
+          {
+            "id": 1,
+            "img": "/img/curated-exhibitions/exhibition-4/curated-img-1.jpg",
+            "img_mobile": "/img/curated-exhibitions/exhibition-4/curated-mobile-img-1.jpg",
+            "alt": "Exhibition Title 4 1"
+          },
+          {
+            "id": 2,
+            "img": "/img/curated-exhibitions/exhibition-4/curated-img-2.jpg",
+            "img_mobile": "/img/curated-exhibitions/exhibition-4/curated-mobile-img-2.jpg",
+            "alt": "Exhibition Title 4 2"
+          },
+          {
+            "id": 3,
+            "img": "/img/curated-exhibitions/exhibition-4/curated-img-3.jpg",
+            "img_mobile": "/img/curated-exhibitions/exhibition-4/curated-mobile-img-3.jpg",
+            "alt": "Exhibition Title 4 3"
+          }
         ]
       },
       {
@@ -34,6 +114,26 @@
         "title": "Exhibition Title 5",
         "topDesc": [
           "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vestibulum leo ac eleifend auctor. Maecenas mi leo, facilisis et enim sit amet, rhoncus tempus purus.</p>"
+        ],
+        "imgList": [
+          {
+            "id": 1,
+            "img": "/img/curated-exhibitions/exhibition-5/curated-img-1.jpg",
+            "img_mobile": "/img/curated-exhibitions/exhibition-5/curated-mobile-img-1.jpg",
+            "alt": "Exhibition Title 5 1"
+          },
+          {
+            "id": 2,
+            "img": "/img/curated-exhibitions/exhibition-5/curated-img-2.jpg",
+            "img_mobile": "/img/curated-exhibitions/exhibition-5/curated-mobile-img-2.jpg",
+            "alt": "Exhibition Title 5 2"
+          },
+          {
+            "id": 3,
+            "img": "/img/curated-exhibitions/exhibition-5/curated-img-3.jpg",
+            "img_mobile": "/img/curated-exhibitions/exhibition-5/curated-mobile-img-3.jpg",
+            "alt": "Exhibition Title 5 3"
+          }
         ]
       },
       {
@@ -41,6 +141,26 @@
         "title": "Exhibition Title 6",
         "topDesc": [
           "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vestibulum leo ac eleifend auctor. Maecenas mi leo, facilisis et enim sit amet, rhoncus tempus purus.</p>"
+        ],
+        "imgList": [
+          {
+            "id": 1,
+            "img": "/img/curated-exhibitions/exhibition-6/curated-img-1.jpg",
+            "img_mobile": "/img/curated-exhibitions/exhibition-6/curated-mobile-img-1.jpg",
+            "alt": "Exhibition Title 6 1"
+          },
+          {
+            "id": 2,
+            "img": "/img/curated-exhibitions/exhibition-6/curated-img-2.jpg",
+            "img_mobile": "/img/curated-exhibitions/exhibition-6/curated-mobile-img-2.jpg",
+            "alt": "Exhibition Title 6 2"
+          },
+          {
+            "id": 3,
+            "img": "/img/curated-exhibitions/exhibition-6/curated-img-3.jpg",
+            "img_mobile": "/img/curated-exhibitions/exhibition-6/curated-mobile-img-3.jpg",
+            "alt": "Exhibition Title 6 3"
+          }
         ]
       },
       {
@@ -48,6 +168,26 @@
         "title": "Exhibition Title 7",
         "topDesc": [
           "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vestibulum leo ac eleifend auctor. Maecenas mi leo, facilisis et enim sit amet, rhoncus tempus purus.</p>"
+        ],
+        "imgList": [
+          {
+            "id": 1,
+            "img": "/img/curated-exhibitions/exhibition-7/curated-img-1.jpg",
+            "img_mobile": "/img/curated-exhibitions/exhibition-7/curated-mobile-img-1.jpg",
+            "alt": "Exhibition Title 7 1"
+          },
+          {
+            "id": 2,
+            "img": "/img/curated-exhibitions/exhibition-7/curated-img-2.jpg",
+            "img_mobile": "/img/curated-exhibitions/exhibition-7/curated-mobile-img-2.jpg",
+            "alt": "Exhibition Title 7 2"
+          },
+          {
+            "id": 3,
+            "img": "/img/curated-exhibitions/exhibition-7/curated-img-3.jpg",
+            "img_mobile": "/img/curated-exhibitions/exhibition-7/curated-mobile-img-3.jpg",
+            "alt": "Exhibition Title 7 3"
+          }
         ]
       },
       {
@@ -55,6 +195,26 @@
         "title": "Exhibition Title 8",
         "topDesc": [
           "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vestibulum leo ac eleifend auctor. Maecenas mi leo, facilisis et enim sit amet, rhoncus tempus purus.</p>"
+        ],
+        "imgList": [
+          {
+            "id": 1,
+            "img": "/img/curated-exhibitions/exhibition-8/curated-img-1.jpg",
+            "img_mobile": "/img/curated-exhibitions/exhibition-8/curated-mobile-img-1.jpg",
+            "alt": "Exhibition Title 8 1"
+          },
+          {
+            "id": 2,
+            "img": "/img/curated-exhibitions/exhibition-8/curated-img-2.jpg",
+            "img_mobile": "/img/curated-exhibitions/exhibition-8/curated-mobile-img-2.jpg",
+            "alt": "Exhibition Title 8 2"
+          },
+          {
+            "id": 3,
+            "img": "/img/curated-exhibitions/exhibition-8/curated-img-3.jpg",
+            "img_mobile": "/img/curated-exhibitions/exhibition-8/curated-mobile-img-3.jpg",
+            "alt": "Exhibition Title 8 3"
+          }
         ]
       },
       {
@@ -62,6 +222,26 @@
         "title": "Exhibition Title 9",
         "topDesc": [
           "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vestibulum leo ac eleifend auctor. Maecenas mi leo, facilisis et enim sit amet, rhoncus tempus purus.</p>"
+        ],
+        "imgList": [
+          {
+            "id": 1,
+            "img": "/img/curated-exhibitions/exhibition-9/curated-img-1.jpg",
+            "img_mobile": "/img/curated-exhibitions/exhibition-9/curated-mobile-img-1.jpg",
+            "alt": "Exhibition Title 9 1"
+          },
+          {
+            "id": 2,
+            "img": "/img/curated-exhibitions/exhibition-9/curated-img-2.jpg",
+            "img_mobile": "/img/curated-exhibitions/exhibition-9/curated-mobile-img-2.jpg",
+            "alt": "Exhibition Title 9 2"
+          },
+          {
+            "id": 3,
+            "img": "/img/curated-exhibitions/exhibition-9/curated-img-3.jpg",
+            "img_mobile": "/img/curated-exhibitions/exhibition-9/curated-mobile-img-3.jpg",
+            "alt": "Exhibition Title 9 3"
+          }
         ]
       },
       {
@@ -69,6 +249,26 @@
         "title": "Exhibition Title 10",
         "topDesc": [
           "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vestibulum leo ac eleifend auctor. Maecenas mi leo, facilisis et enim sit amet, rhoncus tempus purus.</p>"
+        ],
+        "imgList": [
+          {
+            "id": 1,
+            "img": "/img/curated-exhibitions/exhibition-10/curated-img-1.jpg",
+            "img_mobile": "/img/curated-exhibitions/exhibition-10/curated-mobile-img-1.jpg",
+            "alt": "Exhibition Title 10 1"
+          },
+          {
+            "id": 2,
+            "img": "/img/curated-exhibitions/exhibition-10/curated-img-2.jpg",
+            "img_mobile": "/img/curated-exhibitions/exhibition-10/curated-mobile-img-2.jpg",
+            "alt": "Exhibition Title 10 2"
+          },
+          {
+            "id": 3,
+            "img": "/img/curated-exhibitions/exhibition-10/curated-img-3.jpg",
+            "img_mobile": "/img/curated-exhibitions/exhibition-10/curated-mobile-img-3.jpg",
+            "alt": "Exhibition Title 10 3"
+          }
         ]
       },
       {
@@ -76,6 +276,26 @@
         "title": "Exhibition Title 11",
         "topDesc": [
           "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vestibulum leo ac eleifend auctor. Maecenas mi leo, facilisis et enim sit amet, rhoncus tempus purus.</p>"
+        ],
+        "imgList": [
+          {
+            "id": 1,
+            "img": "/img/curated-exhibitions/exhibition-11/curated-img-1.jpg",
+            "img_mobile": "/img/curated-exhibitions/exhibition-11/curated-mobile-img-1.jpg",
+            "alt": "Exhibition Title 11 1"
+          },
+          {
+            "id": 2,
+            "img": "/img/curated-exhibitions/exhibition-11/curated-img-2.jpg",
+            "img_mobile": "/img/curated-exhibitions/exhibition-11/curated-mobile-img-2.jpg",
+            "alt": "Exhibition Title 11 2"
+          },
+          {
+            "id": 3,
+            "img": "/img/curated-exhibitions/exhibition-11/curated-img-3.jpg",
+            "img_mobile": "/img/curated-exhibitions/exhibition-11/curated-mobile-img-3.jpg",
+            "alt": "Exhibition Title 11 3"
+          }
         ]
       },
       {
@@ -83,6 +303,26 @@
         "title": "Exhibition Title 12",
         "topDesc": [
           "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vestibulum leo ac eleifend auctor. Maecenas mi leo, facilisis et enim sit amet, rhoncus tempus purus.</p>"
+        ],
+        "imgList": [
+          {
+            "id": 1,
+            "img": "/img/curated-exhibitions/exhibition-12/curated-img-1.jpg",
+            "img_mobile": "/img/curated-exhibitions/exhibition-12/curated-mobile-img-1.jpg",
+            "alt": "Exhibition Title 12 1"
+          },
+          {
+            "id": 2,
+            "img": "/img/curated-exhibitions/exhibition-12/curated-img-2.jpg",
+            "img_mobile": "/img/curated-exhibitions/exhibition-12/curated-mobile-img-2.jpg",
+            "alt": "Exhibition Title 12 2"
+          },
+          {
+            "id": 3,
+            "img": "/img/curated-exhibitions/exhibition-12/curated-img-3.jpg",
+            "img_mobile": "/img/curated-exhibitions/exhibition-12/curated-mobile-img-3.jpg",
+            "alt": "Exhibition Title 12 3"
+          }
         ]
       }
     ],
