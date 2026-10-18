@@ -1334,7 +1334,6 @@ template {
   border-bottom: 1px solid #DDDDDD;
 }
 .curated-intro p {
-  max-width: 760px;
   font-size: 18px;
   line-height: 24px;
   margin: 0 0 16px;
