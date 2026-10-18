@@ -527,7 +527,8 @@
 .works-list-root{
     .works-list-wrapper{
         max-width: 1568px;
-        padding: 0 64px 61px;
+        // yatay padding yok: üstteki .designer-wrapper zaten 64px veriyor (çift padding olmasın)
+        padding: 0 0 61px;
     }
     .works-list-block{
         display: flex;
@@ -539,8 +540,17 @@
             border: none;
         }
         .img-item{
+            // case studies görselleriyle aynı kutu: 664x480
+            width: 664px;
+            max-width: 100%;
+            min-width: 0;
             picture{
                 display: flex;
+            }
+            img{
+                width: 100%;
+                aspect-ratio: 664 / 480;
+                object-fit: cover;
             }
         }
         .text-item{

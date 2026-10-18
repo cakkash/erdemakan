@@ -833,7 +833,7 @@ template {
 
 .works-list-root .works-list-wrapper {
   max-width: 1568px;
-  padding: 0 64px 61px;
+  padding: 0 0 61px;
 }
 .works-list-root .works-list-block {
   display: flex;
@@ -845,8 +845,18 @@ template {
 .works-list-root .works-list-block:first-child {
   border: none;
 }
+.works-list-root .works-list-block .img-item {
+  width: 664px;
+  max-width: 100%;
+  min-width: 0;
+}
 .works-list-root .works-list-block .img-item picture {
   display: flex;
+}
+.works-list-root .works-list-block .img-item img {
+  width: 100%;
+  aspect-ratio: 664/480;
+  object-fit: cover;
 }
 .works-list-root .works-list-block .text-item {
   max-width: 550px;
