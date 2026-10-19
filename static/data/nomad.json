@@ -1,8 +1,11 @@
 {
   "success": {
     "curatedExhibitionsIntro": {
-      "text": "For Erdem Akan, curating is another way of designing. His exhibitions widen the field of design and give fellow designers a platform, yet they begin with a simple curiosity: how would other designers and artists think about the same question? Seen together, the works become a form of design research: a collective inquiry whose findings take physical form.",
-      "note": "A selection of curated exhibitions, in reverse chronological order."
+      "text": [
+        "For me, curating is another way of designing. My exhibitions aim to widen the field of design and give fellow designers a platform, but they often begin with a simple curiosity: how would other designers and artists approach the same question?",
+        "Seen together, their works become a form of design research, a collective inquiry whose findings take physical form."
+      ],
+      "note": "A selection of fourteen exhibitions curated by Erdem Akan, in reverse chronological order."
     },
     "curatedExhibitionsData": [
       {
