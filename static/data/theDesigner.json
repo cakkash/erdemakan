@@ -1,240 +1,240 @@
 {
-    "success": {
-        "works": [
-            {
-                "id": 1,
-                "img": "/img/works/work-1/works-img.jpg",
-                "img_mobile": "/img/works/work-1/works-mobile-img.jpg",
-                "lb_img": "/img/lightbox/work-1/lightbox-img.jpg",
-                "lb_img_mobile": "/img/lightbox/work-1/lightbox-mobile-img.jpg",
-                "alt": "designer-works",
-                "year": "2006",
-                "title": "Grandbazaar Sofa<br/>Turkish Reforms Collection",
-                "desc": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p><p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
-                "category": "",
-                "type": ""
-            },
-            {
-                "id": 2,
-                "img": "/img/works/work-2/works-img.jpg",
-                "img_mobile": "/img/works/work-2/works-mobile-img.jpg",
-                "lb_img": "/img/lightbox/work-2/lightbox-img.jpg",
-                "lb_img_mobile": "/img/lightbox/work-2/lightbox-mobile-img.jpg",
-                "alt": "designer-works",
-                "year": "2021",
-                "title": "Heritage<br/>Ceramic Collection",
-                "desc": "<p style=\"margin:0 0 16px\"><strong style=\"font-family: 'HelveticaNeue', Arial, Helvetica, sans-serif; font-weight: 700;\">Gorbon</strong></p><p>Gorbon is one of Türkiye's longest-established ceramic brands. I had known the company for two generations, and when the third generation took over, that long relationship became the starting point for the Heritage Collection.</p><p>We laid out forty years of Gorbon production and selected thirty forms from the archive. I reduced each one to its essential geometry, redrew the proportions so the pieces related to one another, and applied a new shared colour palette. The collection is built from Gorbon's own history, but designed as a new family rather than a reproduction of the past.</p>",
-                "category": "",
-                "type": ""
-            },
-            {
-                "id": 3,
-                "img": "/img/works/work-3/works-img.jpg",
-                "img_mobile": "/img/works/work-3/works-mobile-img.jpg",
-                "lb_img": "/img/lightbox/work-3/lightbox-img.jpg",
-                "lb_img_mobile": "/img/lightbox/work-3/lightbox-mobile-img.jpg",
-                "alt": "designer-works",
-                "year": "2022",
-                "title": "Into The Woods<br/>Jewellery Collection",
-                "desc": "<p style=\"margin:0 0 16px\"><strong style=\"font-family: 'HelveticaNeue', Arial, Helvetica, sans-serif; font-weight: 700;\">Runda</strong></p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p><p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
-                "category": "",
-                "type": ""
-            },
-            {
-                "id": 4,
-                "img": "/img/works/work-4/works-img.jpg",
-                "img_mobile": "/img/works/work-4/works-mobile-img.jpg",
-                "lb_img": "/img/lightbox/work-4/lightbox-img.jpg",
-                "lb_img_mobile": "/img/lightbox/work-4/lightbox-mobile-img.jpg",
-                "alt": "designer-works",
-                "year": "2009",
-                "title": "Centerpieces",
-                "desc": "<p style=\"margin:0 0 16px\"><strong style=\"font-family: 'HelveticaNeue', Arial, Helvetica, sans-serif; font-weight: 700;\">Armaggan</strong></p><p>Between 2007 and 2010, I designed close to one hundred products that together helped establish Armaggan's identity. The collection consisted mainly of centrepieces and objects combining precious materials such as silver and marble with glass, porcelain and wood.</p><p>The work drew on cultural memory without relying on literal references. Its character came from proportion, material contrast and demanding craft detail. Many pieces required close work with specialist makers, bringing traditional techniques into a contemporary product language.</p>",
-                "category": "",
-                "type": ""
-            },
-            {
-                "id": 5,
-                "img": "/img/works/work-5/works-img.jpg",
-                "img_mobile": "/img/works/work-5/works-mobile-img.jpg",
-                "lb_img": "/img/lightbox/work-5/lightbox-img.jpg",
-                "lb_img_mobile": "/img/lightbox/work-5/lightbox-mobile-img.jpg",
-                "alt": "designer-works",
-                "year": "2022",
-                "title": "Studio Furniture Collection",
-                "desc": "<p style=\"margin:0 0 16px\"><strong style=\"font-family: 'HelveticaNeue', Arial, Helvetica, sans-serif; font-weight: 700;\">Duduu</strong></p><p>Dudu was founded as a collaborative initiative by a group of designers producing their own work. For the collective, I explored a simple question: how can furniture feel distinctly modern without becoming cold or unfamiliar?</p><p>The collection also questioned how much a product family should prescribe the room around it. The pieces share a clear relationship, but were never intended to create a complete “total look.” Each has enough character to stand on its own, while leaving room for other furniture, objects and the life already present in a home.</p>",
-                "category": "",
-                "type": ""
-            },
-            {
-                "id": 6,
-                "img": "/img/works/work-6/works-img.jpg",
-                "img_mobile": "/img/works/work-6/works-mobile-img.jpg",
-                "lb_img": "/img/lightbox/work-6/lightbox-img.jpg",
-                "lb_img_mobile": "/img/lightbox/work-6/lightbox-mobile-img.jpg",
-                "alt": "designer-works",
-                "year": "2023",
-                "title": "Soundgarden Cover Design<br/>Global Collection",
-                "desc": "<p style=\"margin:0 0 16px\"><strong style=\"font-family: 'HelveticaNeue', Arial, Helvetica, sans-serif; font-weight: 700;\">Bang & Olufsen</strong></p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p><p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
-                "category": "",
-                "type": ""
-            },
-            {
-                "id": 7,
-                "img": "/img/works/work-7/works-img.jpg",
-                "img_mobile": "/img/works/work-7/works-mobile-img.jpg",
-                "lb_img": "/img/lightbox/work-7/lightbox-img.jpg",
-                "lb_img_mobile": "/img/lightbox/work-7/lightbox-mobile-img.jpg",
-                "alt": "designer-works",
-                "year": "2003",
-                "title": "Istanbul Alphabet Decorative Objects<br/>Turkish Reforms Collection",
-                "desc": "<p style=\"margin:0 0 16px\"><strong style=\"font-family: 'HelveticaNeue', Arial, Helvetica, sans-serif; font-weight: 700;\">maybedesign</strong></p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p><p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
-                "category": "",
-                "type": ""
-            },
-            {
-                "id": 8,
-                "img": "/img/works/work-8/works-img.jpg",
-                "img_mobile": "/img/works/work-8/works-mobile-img.jpg",
-                "lb_img": "/img/lightbox/work-8/lightbox-img.jpg",
-                "lb_img_mobile": "/img/lightbox/work-8/lightbox-mobile-img.jpg",
-                "alt": "designer-works",
-                "year": "2006",
-                "title": "Villa Moda<br/>Multibrand Retail Shop Design",
-                "desc": "<p style=\"margin:0 0 16px\"><strong style=\"font-family: 'HelveticaNeue', Arial, Helvetica, sans-serif; font-weight: 700;\">Kuwait Old Souk</strong></p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p><p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
-                "category": "",
-                "type": ""
-            },
-            {
-                "id": 9,
-                "img": "/img/works/work-9/works-img.jpg",
-                "img_mobile": "/img/works/work-9/works-mobile-img.jpg",
-                "lb_img": "/img/lightbox/work-9/lightbox-img.jpg",
-                "lb_img_mobile": "/img/lightbox/work-9/lightbox-mobile-img.jpg",
-                "alt": "designer-works",
-                "year": "2000",
-                "title": "Cocktail Sculpture",
-                "desc": "<p style=\"margin:0 0 16px\"><strong style=\"font-family: 'HelveticaNeue', Arial, Helvetica, sans-serif; font-weight: 700;\">Mey</strong></p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p><p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
-                "category": "",
-                "type": ""
-            },
-            {
-                "id": 10,
-                "img": "/img/works/work-10/works-img.jpg",
-                "img_mobile": "/img/works/work-10/works-mobile-img.jpg",
-                "lb_img": "/img/lightbox/work-10/lightbox-img.jpg",
-                "lb_img_mobile": "/img/lightbox/work-10/lightbox-mobile-img.jpg",
-                "alt": "designer-works",
-                "year": "2015",
-                "title": "O salad bowls<br/>HIP collection",
-                "desc": "<p style=\"margin:0 0 16px\"><strong style=\"font-family: 'HelveticaNeue', Arial, Helvetica, sans-serif; font-weight: 700;\">Bora Plastic</strong></p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p><p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
-                "category": "",
-                "type": ""
-            },
-            {
-                "id": 11,
-                "img": "/img/works/work-11/works-img.jpg",
-                "img_mobile": "/img/works/work-11/works-mobile-img.jpg",
-                "lb_img": "/img/lightbox/work-11/lightbox-img.jpg",
-                "lb_img_mobile": "/img/lightbox/work-11/lightbox-mobile-img.jpg",
-                "alt": "designer-works",
-                "year": "2010",
-                "title": "Morphing Beads<br/>Turkish Reforms Collection",
-                "desc": "<p style=\"margin:0 0 16px\"><strong style=\"font-family: 'HelveticaNeue', Arial, Helvetica, sans-serif; font-weight: 700;\">maybedesign</strong></p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p><p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
-                "category": "",
-                "type": ""
-            },
-            {
-                "id": 12,
-                "img": "/img/works/work-12/works-img.jpg",
-                "img_mobile": "/img/works/work-12/works-mobile-img.jpg",
-                "lb_img": "/img/lightbox/work-12/lightbox-img.jpg",
-                "lb_img_mobile": "/img/lightbox/work-12/lightbox-mobile-img.jpg",
-                "alt": "designer-works",
-                "year": "2013",
-                "title": "Corner side table<br/>Greenline Collection",
-                "desc": "<p style=\"margin:0 0 16px\"><strong style=\"font-family: 'HelveticaNeue', Arial, Helvetica, sans-serif; font-weight: 700;\">Ersa</strong></p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p><p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
-                "category": "",
-                "type": ""
-            },
-            {
-                "id": 13,
-                "img": "/img/works/work-13/works-img.jpg",
-                "img_mobile": "/img/works/work-13/works-mobile-img.jpg",
-                "lb_img": "/img/lightbox/work-13/lightbox-img.jpg",
-                "lb_img_mobile": "/img/lightbox/work-13/lightbox-mobile-img.jpg",
-                "alt": "designer-works",
-                "year": "2004",
-                "title": "Somata Sala Dining Concept<br/>Sufi Kitchen Culture",
-                "desc": "<p style=\"margin:0 0 16px\"><strong style=\"font-family: 'HelveticaNeue', Arial, Helvetica, sans-serif; font-weight: 700;\">Arçelik</strong></p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p><p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
-                "category": "",
-                "type": ""
-            }
-        ],
-        "case_studies": [
-            {
-                "img": "/img/case-cards/card-1/case-studies-img.jpg",
-                "img_mobile": "/img/case-cards/card-1/case-studies-mobile-img.jpg",
-                "alt": "case-studies",
-                "title": "East Meets West",
-                "text": "How a familiar cultural object became an independent design opportunity with international reach.",
-                "link": "armaggan-centerpieces",
-                "role": "Designer / Entrepreneur"
-            },
-            {
-                "img": "/img/case-cards/card-2/case-studies-img.jpg",
-                "img_mobile": "/img/case-cards/card-2/case-studies-mobile-img.jpg",
-                "alt": "case-studies",
-                "title": "Reincarnation Collection",
-                "text": "An early exploration of how design can create new value without erasing what already exists.",
-                "link": "sitbag-studio-collection",
-                "role": "Experimental Designer / Entrepreneur"
-            },
-            {
-                "img": "/img/case-cards/card-3/case-studies-img.jpg",
-                "img_mobile": "/img/case-cards/card-3/case-studies-mobile-img.jpg",
-                "alt": "case-studies",
-                "title": "Brand Experience for Divan",
-                "text": "How questioning a simple brief revealed a much larger opportunity to bring coherence to a heritage brand.",
-                "link": "turkish-reforms-collection",
-                "role": "Designer / Consultant"
-            },
-            {
-                "img": "/img/case-cards/card-4/case-studies-img.jpg",
-                "img_mobile": "/img/case-cards/card-4/case-studies-mobile-img.jpg",
-                "alt": "case-studies",
-                "title": "Cliché Collection",
-                "text": "An independent experiment in redefining luxury, testing craftsmanship and listening to the market.",
-                "link": "pasabahce",
-                "role": "Designer / Entrepreneur"
-            },
-            {
-                "img": "/img/case-cards/card-5/case-studies-img.jpg",
-                "img_mobile": "/img/case-cards/card-5/case-studies-mobile-img.jpg",
-                "alt": "case-studies",
-                "title": "Glass in the Bedroom for Nude",
-                "text": "How rethinking where a material belongs can open an entirely new product territory.",
-                "link": "case-study-5",
-                "role": "Product Designer"
-            },
-            {
-                "img": "/img/case-cards/card-6/case-studies-img.jpg",
-                "img_mobile": "/img/case-cards/card-6/case-studies-mobile-img.jpg",
-                "alt": "case-studies",
-                "title": "Spaces for VitrA",
-                "text": "How a design idea evolved into a scalable spatial language across products, places and brand experiences.",
-                "link": "case-study-6",
-                "role": "Concept Designer / Design Director"
-            },
-            {
-                "img": "/img/case-cards/card-7/case-studies-img.jpg",
-                "img_mobile": "/img/case-cards/card-7/case-studies-mobile-img.jpg",
-                "alt": "case-studies",
-                "title": "Good Time Bath Time",
-                "text": "How open-ended research can move from conversation and experimentation to real product innovation.",
-                "link": "case-study-7",
-                "role": "Design Director / Curator"
-            }
-        ]
-    }
+  "success": {
+    "works": [
+      {
+        "id": 1,
+        "img": "/img/works/work-1/works-img.jpg",
+        "img_mobile": "/img/works/work-1/works-mobile-img.jpg",
+        "lb_img": "/img/lightbox/work-1/lightbox-img.jpg",
+        "lb_img_mobile": "/img/lightbox/work-1/lightbox-mobile-img.jpg",
+        "alt": "designer-works",
+        "year": "2006",
+        "title": "Grandbazaar Sofa<br/>Turkish Reforms Collection",
+        "desc": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p><p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
+        "category": "Furnitures & Accessories",
+        "type": ""
+      },
+      {
+        "id": 2,
+        "img": "/img/works/work-2/works-img.jpg",
+        "img_mobile": "/img/works/work-2/works-mobile-img.jpg",
+        "lb_img": "/img/lightbox/work-2/lightbox-img.jpg",
+        "lb_img_mobile": "/img/lightbox/work-2/lightbox-mobile-img.jpg",
+        "alt": "designer-works",
+        "year": "2021",
+        "title": "Heritage<br/>Ceramic Collection",
+        "desc": "<p style=\"margin:0 0 16px\"><strong style=\"font-family: 'HelveticaNeue', Arial, Helvetica, sans-serif; font-weight: 700;\">Gorbon</strong></p><p>Gorbon is one of Türkiye's longest-established ceramic brands. I had known the company for two generations, and when the third generation took over, that long relationship became the starting point for the Heritage Collection.</p><p>We laid out forty years of Gorbon production and selected thirty forms from the archive. I reduced each one to its essential geometry, redrew the proportions so the pieces related to one another, and applied a new shared colour palette. The collection is built from Gorbon's own history, but designed as a new family rather than a reproduction of the past.</p>",
+        "category": "Objects & Products",
+        "type": ""
+      },
+      {
+        "id": 3,
+        "img": "/img/works/work-3/works-img.jpg",
+        "img_mobile": "/img/works/work-3/works-mobile-img.jpg",
+        "lb_img": "/img/lightbox/work-3/lightbox-img.jpg",
+        "lb_img_mobile": "/img/lightbox/work-3/lightbox-mobile-img.jpg",
+        "alt": "designer-works",
+        "year": "2022",
+        "title": "Into The Woods<br/>Jewellery Collection",
+        "desc": "<p style=\"margin:0 0 16px\"><strong style=\"font-family: 'HelveticaNeue', Arial, Helvetica, sans-serif; font-weight: 700;\">Runda</strong></p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p><p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
+        "category": "Personal Accessories",
+        "type": ""
+      },
+      {
+        "id": 4,
+        "img": "/img/works/work-4/works-img.jpg",
+        "img_mobile": "/img/works/work-4/works-mobile-img.jpg",
+        "lb_img": "/img/lightbox/work-4/lightbox-img.jpg",
+        "lb_img_mobile": "/img/lightbox/work-4/lightbox-mobile-img.jpg",
+        "alt": "designer-works",
+        "year": "2009",
+        "title": "Centerpieces",
+        "desc": "<p style=\"margin:0 0 16px\"><strong style=\"font-family: 'HelveticaNeue', Arial, Helvetica, sans-serif; font-weight: 700;\">Armaggan</strong></p><p>Between 2007 and 2010, I designed close to one hundred products that together helped establish Armaggan's identity. The collection consisted mainly of centrepieces and objects combining precious materials such as silver and marble with glass, porcelain and wood.</p><p>The work drew on cultural memory without relying on literal references. Its character came from proportion, material contrast and demanding craft detail. Many pieces required close work with specialist makers, bringing traditional techniques into a contemporary product language.</p>",
+        "category": "Objects & Products",
+        "type": ""
+      },
+      {
+        "id": 5,
+        "img": "/img/works/work-5/works-img.jpg",
+        "img_mobile": "/img/works/work-5/works-mobile-img.jpg",
+        "lb_img": "/img/lightbox/work-5/lightbox-img.jpg",
+        "lb_img_mobile": "/img/lightbox/work-5/lightbox-mobile-img.jpg",
+        "alt": "designer-works",
+        "year": "2022",
+        "title": "Studio Furniture Collection",
+        "desc": "<p style=\"margin:0 0 16px\"><strong style=\"font-family: 'HelveticaNeue', Arial, Helvetica, sans-serif; font-weight: 700;\">Duduu</strong></p><p>Dudu was founded as a collaborative initiative by a group of designers producing their own work. For the collective, I explored a simple question: how can furniture feel distinctly modern without becoming cold or unfamiliar?</p><p>The collection also questioned how much a product family should prescribe the room around it. The pieces share a clear relationship, but were never intended to create a complete “total look.” Each has enough character to stand on its own, while leaving room for other furniture, objects and the life already present in a home.</p>",
+        "category": "Furnitures & Accessories",
+        "type": ""
+      },
+      {
+        "id": 6,
+        "img": "/img/works/work-6/works-img.jpg",
+        "img_mobile": "/img/works/work-6/works-mobile-img.jpg",
+        "lb_img": "/img/lightbox/work-6/lightbox-img.jpg",
+        "lb_img_mobile": "/img/lightbox/work-6/lightbox-mobile-img.jpg",
+        "alt": "designer-works",
+        "year": "2023",
+        "title": "Soundgarden Cover Design<br/>Global Collection",
+        "desc": "<p style=\"margin:0 0 16px\"><strong style=\"font-family: 'HelveticaNeue', Arial, Helvetica, sans-serif; font-weight: 700;\">Bang & Olufsen</strong></p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p><p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
+        "category": "Objects & Products",
+        "type": ""
+      },
+      {
+        "id": 7,
+        "img": "/img/works/work-7/works-img.jpg",
+        "img_mobile": "/img/works/work-7/works-mobile-img.jpg",
+        "lb_img": "/img/lightbox/work-7/lightbox-img.jpg",
+        "lb_img_mobile": "/img/lightbox/work-7/lightbox-mobile-img.jpg",
+        "alt": "designer-works",
+        "year": "2003",
+        "title": "Istanbul Alphabet Decorative Objects<br/>Turkish Reforms Collection",
+        "desc": "<p style=\"margin:0 0 16px\"><strong style=\"font-family: 'HelveticaNeue', Arial, Helvetica, sans-serif; font-weight: 700;\">maybedesign</strong></p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p><p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
+        "category": "Objects & Products",
+        "type": ""
+      },
+      {
+        "id": 8,
+        "img": "/img/works/work-8/works-img.jpg",
+        "img_mobile": "/img/works/work-8/works-mobile-img.jpg",
+        "lb_img": "/img/lightbox/work-8/lightbox-img.jpg",
+        "lb_img_mobile": "/img/lightbox/work-8/lightbox-mobile-img.jpg",
+        "alt": "designer-works",
+        "year": "2006",
+        "title": "Villa Moda<br/>Multibrand Retail Shop Design",
+        "desc": "<p style=\"margin:0 0 16px\"><strong style=\"font-family: 'HelveticaNeue', Arial, Helvetica, sans-serif; font-weight: 700;\">Kuwait Old Souk</strong></p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p><p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
+        "category": "Spaces & Installations",
+        "type": ""
+      },
+      {
+        "id": 9,
+        "img": "/img/works/work-9/works-img.jpg",
+        "img_mobile": "/img/works/work-9/works-mobile-img.jpg",
+        "lb_img": "/img/lightbox/work-9/lightbox-img.jpg",
+        "lb_img_mobile": "/img/lightbox/work-9/lightbox-mobile-img.jpg",
+        "alt": "designer-works",
+        "year": "2000",
+        "title": "Cocktail Sculpture",
+        "desc": "<p style=\"margin:0 0 16px\"><strong style=\"font-family: 'HelveticaNeue', Arial, Helvetica, sans-serif; font-weight: 700;\">Mey</strong></p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p><p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
+        "category": "Spaces & Installations",
+        "type": ""
+      },
+      {
+        "id": 10,
+        "img": "/img/works/work-10/works-img.jpg",
+        "img_mobile": "/img/works/work-10/works-mobile-img.jpg",
+        "lb_img": "/img/lightbox/work-10/lightbox-img.jpg",
+        "lb_img_mobile": "/img/lightbox/work-10/lightbox-mobile-img.jpg",
+        "alt": "designer-works",
+        "year": "2015",
+        "title": "O salad bowls<br/>HIP collection",
+        "desc": "<p style=\"margin:0 0 16px\"><strong style=\"font-family: 'HelveticaNeue', Arial, Helvetica, sans-serif; font-weight: 700;\">Bora Plastic</strong></p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p><p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
+        "category": "Objects & Products",
+        "type": ""
+      },
+      {
+        "id": 11,
+        "img": "/img/works/work-11/works-img.jpg",
+        "img_mobile": "/img/works/work-11/works-mobile-img.jpg",
+        "lb_img": "/img/lightbox/work-11/lightbox-img.jpg",
+        "lb_img_mobile": "/img/lightbox/work-11/lightbox-mobile-img.jpg",
+        "alt": "designer-works",
+        "year": "2010",
+        "title": "Morphing Beads<br/>Turkish Reforms Collection",
+        "desc": "<p style=\"margin:0 0 16px\"><strong style=\"font-family: 'HelveticaNeue', Arial, Helvetica, sans-serif; font-weight: 700;\">maybedesign</strong></p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p><p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
+        "category": "Personal Accessories",
+        "type": ""
+      },
+      {
+        "id": 12,
+        "img": "/img/works/work-12/works-img.jpg",
+        "img_mobile": "/img/works/work-12/works-mobile-img.jpg",
+        "lb_img": "/img/lightbox/work-12/lightbox-img.jpg",
+        "lb_img_mobile": "/img/lightbox/work-12/lightbox-mobile-img.jpg",
+        "alt": "designer-works",
+        "year": "2013",
+        "title": "Corner side table<br/>Greenline Collection",
+        "desc": "<p style=\"margin:0 0 16px\"><strong style=\"font-family: 'HelveticaNeue', Arial, Helvetica, sans-serif; font-weight: 700;\">Ersa</strong></p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p><p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
+        "category": "Furnitures & Accessories",
+        "type": ""
+      },
+      {
+        "id": 13,
+        "img": "/img/works/work-13/works-img.jpg",
+        "img_mobile": "/img/works/work-13/works-mobile-img.jpg",
+        "lb_img": "/img/lightbox/work-13/lightbox-img.jpg",
+        "lb_img_mobile": "/img/lightbox/work-13/lightbox-mobile-img.jpg",
+        "alt": "designer-works",
+        "year": "2004",
+        "title": "Somata Sala Dining Concept<br/>Sufi Kitchen Culture",
+        "desc": "<p style=\"margin:0 0 16px\"><strong style=\"font-family: 'HelveticaNeue', Arial, Helvetica, sans-serif; font-weight: 700;\">Arçelik</strong></p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p><p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
+        "category": "Spaces & Installations",
+        "type": ""
+      }
+    ],
+    "case_studies": [
+      {
+        "img": "/img/case-cards/card-1/case-studies-img.jpg",
+        "img_mobile": "/img/case-cards/card-1/case-studies-mobile-img.jpg",
+        "alt": "case-studies",
+        "title": "East Meets West",
+        "text": "How a familiar cultural object became an independent design opportunity with international reach.",
+        "link": "armaggan-centerpieces",
+        "role": "Designer / Entrepreneur"
+      },
+      {
+        "img": "/img/case-cards/card-2/case-studies-img.jpg",
+        "img_mobile": "/img/case-cards/card-2/case-studies-mobile-img.jpg",
+        "alt": "case-studies",
+        "title": "Reincarnation Collection",
+        "text": "An early exploration of how design can create new value without erasing what already exists.",
+        "link": "sitbag-studio-collection",
+        "role": "Experimental Designer / Entrepreneur"
+      },
+      {
+        "img": "/img/case-cards/card-3/case-studies-img.jpg",
+        "img_mobile": "/img/case-cards/card-3/case-studies-mobile-img.jpg",
+        "alt": "case-studies",
+        "title": "Brand Experience for Divan",
+        "text": "How questioning a simple brief revealed a much larger opportunity to bring coherence to a heritage brand.",
+        "link": "turkish-reforms-collection",
+        "role": "Designer / Consultant"
+      },
+      {
+        "img": "/img/case-cards/card-4/case-studies-img.jpg",
+        "img_mobile": "/img/case-cards/card-4/case-studies-mobile-img.jpg",
+        "alt": "case-studies",
+        "title": "Cliché Collection",
+        "text": "An independent experiment in redefining luxury, testing craftsmanship and listening to the market.",
+        "link": "pasabahce",
+        "role": "Designer / Entrepreneur"
+      },
+      {
+        "img": "/img/case-cards/card-5/case-studies-img.jpg",
+        "img_mobile": "/img/case-cards/card-5/case-studies-mobile-img.jpg",
+        "alt": "case-studies",
+        "title": "Glass in the Bedroom for Nude",
+        "text": "How rethinking where a material belongs can open an entirely new product territory.",
+        "link": "case-study-5",
+        "role": "Product Designer"
+      },
+      {
+        "img": "/img/case-cards/card-6/case-studies-img.jpg",
+        "img_mobile": "/img/case-cards/card-6/case-studies-mobile-img.jpg",
+        "alt": "case-studies",
+        "title": "Spaces for VitrA",
+        "text": "How a design idea evolved into a scalable spatial language across products, places and brand experiences.",
+        "link": "case-study-6",
+        "role": "Concept Designer / Design Director"
+      },
+      {
+        "img": "/img/case-cards/card-7/case-studies-img.jpg",
+        "img_mobile": "/img/case-cards/card-7/case-studies-mobile-img.jpg",
+        "alt": "case-studies",
+        "title": "Good Time Bath Time",
+        "text": "How open-ended research can move from conversation and experimentation to real product innovation.",
+        "link": "case-study-7",
+        "role": "Design Director / Curator"
+      }
+    ]
+  }
 }

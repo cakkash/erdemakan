@@ -9,16 +9,11 @@
     let isSortOpen = false;
     let index = 0;
     let selectedCategory = null;
-    let selectedType = null;
     let originalDataArr = [...works]
     let originalData = works.splice(0, works.length, ...originalDataArr);
 
-    // Category / Type se\u00e7ilmi\u015fse listeyi filtrele; hi\u00e7biri se\u00e7ili de\u011filse t\u00fcm work'ler g\u00f6r\u00fcn\u00fcr.
-    $: filteredWorks = works.filter(item => {
-        const categoryMatch = !selectedCategory || item.category === selectedCategory;
-        const typeMatch = !selectedType || item.type === selectedType;
-        return categoryMatch && typeMatch;
-    });
+    // Kategori seçilmişse listeyi filtrele; seçili değilse tüm work'ler görünür.
+    $: filteredWorks = works.filter(item => !selectedCategory || item.category === selectedCategory);
 
     $: sortedWorks = [...filteredWorks].sort((a,b)=> index === 1 ? a.year - b.year : index === -1 ? b.year - a.year : originalData);
 
@@ -36,5 +31,5 @@
     }
  </script>
 
-    <FilterComponent isSortOpen={isSortOpen} toggleSort={toggleSort} bind:selectedCategory bind:selectedType data={works}/>
+    <FilterComponent isSortOpen={isSortOpen} toggleSort={toggleSort} bind:selectedCategory data={works}/>
     <WorksListComponent works={sortedWorks}/>

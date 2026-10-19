@@ -450,6 +450,10 @@
             color: #000;
         }
      }
+     // tek filtre: başlık yok, ilk seçenek üst boşluksuz başlar
+     .filter-menu-block span:first-child{
+        margin-top: 0;
+     }
      .filter-head-block{
         span{
             font-weight: 600;

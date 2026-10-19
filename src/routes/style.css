@@ -768,6 +768,9 @@ template {
 .designer-root .open-filter-menu-wrapper span:hover {
   color: #000;
 }
+.designer-root .open-filter-menu-wrapper .filter-menu-block span:first-child {
+  margin-top: 0;
+}
 .designer-root .open-filter-menu-wrapper .filter-head-block span {
   font-weight: 600;
   font-size: 14px;
